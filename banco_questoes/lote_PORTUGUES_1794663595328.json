@@ -1,0 +1,450 @@
+[
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que exemplifica um caso de ambiguidade que prejudica a clareza textual na redação oficial escolar.",
+    "options": [
+      "A secretaria confirmou que os documentos exigidos foram deferidos pela diretoria.",
+      "O auxiliar de secretaria encontrou o diretor da escola em sua sala de trabalho.",
+      "Todos os servidores municipais compareceram pontualmente à capacitação pedagógica.",
+      "A solicitação de transferência foi registrada no sistema eletrônico de matrículas.",
+      "Os pais e responsáveis aguardaram a abertura do portão principal com serenidade."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Na alternativa B, o pronome possessivo 'sua' gera ambiguidade, pois não fica claro se a sala de trabalho é do auxiliar de secretaria ou do diretor da escola."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere os períodos: 'O prazo para requerimento de isenção de taxa expirou na sexta-feira. TODAVIA, alguns candidatos solicitaram prazo extra alegando pane no servidor.' O conectivo em destaque estabelece valor semântico de:",
+    "options": [
+      "Adição de fatos convergentes.",
+      "Oposição ou adversidade em relação à informação anterior.",
+      "Conclusão lógica derivada da premissa anterior.",
+      "Causa determinante para a expiração do prazo.",
+      "Proporção simultânea entre dois fatos ocorridos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Todavia' é uma conjunção adversativa que introduz uma ideia de oposição ou contraste em relação à oração anterior."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No trecho 'O auxiliar arquivou os requerimentos, os atestados médicos e as certidões de nascimento. Esses DOCUMENTOS ficaram guardados no armário principal', o termo 'DOCUMENTOS' atua como recurso de coesão lexical por:",
+    "options": [
+      "Hiponímia, já que restringe os elementos a um termo de menor abrangência semântica.",
+      "Hiperonímia, pois funciona como um termo de sentido mais abrangente que engloba as categorias anteriormente mencionadas.",
+      "Antonímia, por estabelecer uma relação semântica de sentido contrário aos vocábulos listados.",
+      "Paronímia, dada a semelhança gráfica com os nomes de processos judiciais.",
+      "Elipse total, suprimindo o sujeito da oração subordinada subsequente."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Documentos' é um hiperônimo (termo genérico de sentido abrangente) que sintetiza os hipônimos mencionados anteriormente (requerimentos, atestados médicos e certidões)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em um relatório escolar, lê-se: 'A sala de arquivos mede quatro metros de largura por seis de comprimento, com paredes revestidas em tinta lavável azul-clara, três armários de aço cinza e piso cerâmico antiderrapante.' A sequência textual predominante é a:",
+    "options": [
+      "Expositiva, pois debate teorias científicas acerca da organização espacial em órgãos públicos.",
+      "Injuntiva, visto que dita prescrições obrigatórias e condutas operacionais ao leitor.",
+      "Descritiva, pois retrata minuciosamente as características físicas, espaciais e estáticas de um ambiente.",
+      "Argumentativa, uma vez que defende uma tese com base em contra-argumentos dialéticos.",
+      "Narrativa, em razão da sucessão temporal de ações praticadas por personagens em conflito."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O trecho caracteriza-se pela apresentação detalhada de aspectos físicos e estáticos de um lugar, padrão típico da tipologia descritiva."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No debate sobre ampliação do quadro de servidores, um membro do conselho escolar afirmou: 'Não podemos contratar mais funcionários porque todo servidor público não gosta de trabalhar.' Esse enunciado apoia-se em um tipo de argumento falacioso caracterizado por:",
+    "options": [
+      "Generalização apressada e preconceito do senso comum, desprovido de base fática ou comprovação estatística.",
+      "Argumento de autoridade baseado em pareceres emitidos pelo Tribunal de Contas dos Municípios.",
+      "Argumentação por causa e efeito estritamente comprovada por meio de pesquisas científicas.",
+      "Argumento por analogia formal com as melhores práticas de gestão pública mundial.",
+      "Citação direta de autores clássicos da administração escolar brasileira."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Afirmar que 'todo servidor público não gosta de trabalhar' constitui uma generalização indevida e preconceituosa do senso comum sem fundamentação."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "O vocábulo 'Secretaria' emprega a sigla 'SEC' em formulários internos. Já palavras como 'Detran' e 'MEC' são integradas ao vocabulário oficial. O processo de formação de palavras presente em vocábulos como 'Detran' e 'MEC' é denominado:",
+    "options": [
+      "Onomatopeia.",
+      "Siglonimização ou formação por siglas e acrônimos.",
+      "Hibridismo greco-latino.",
+      "Derivação regressiva deverbal.",
+      "Parassíntese sufixal."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Palavras como DETRAN (Departamento Estadual de Trânsito) e MEC (Ministério da Educação) são formadas pelo processo de siglonimização/acronímia."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que contém uma palavra formada por derivação parassintética (parassíntese).",
+    "options": [
+      "Desleal.",
+      "Infelizmente.",
+      "Anoitecer.",
+      "Reimpressão.",
+      "Escolarização."
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Anoitecer' é formada pela anexação simultânea do prefixo 'a-' e do sufixo '-ecer' ao radical 'noit-', não existindo as palavras 'anoite' nem 'noitecer'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Analise a função da palavra 'que' nas duas orações a seguir: I. 'O auxiliar conferiu a certidão QUE o pai entregou.' II. 'A coordenação confirmou QUE haverá reunião amanhã.' A correta classificação da palavra destacada em I e II é, respectivamente:",
+    "options": [
+      "Conjunção integrante e pronome relativo.",
+      "Pronome relativo e conjunção integrante.",
+      "Pronome indefinido e pronome interrogativo.",
+      "Conjunção explicativa e conjunção causal.",
+      "Partícula de realce e advérbio de intensidade."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Em I, 'que' retoma o substantivo 'certidão' (pronome relativo). Em II, 'que' introduz uma oração subordinada substantiva objetiva direta (conjunção integrante)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na frase 'O secretário falou CLARO durante a apresentação das metas', a palavra destacada desempenha papel gramatical de:",
+    "options": [
+      "Adjetivo em função de predicativo do sujeito.",
+      "Substantivo comum concreto.",
+      "Advérbio com valor de modo (claramente), modificando o verbo falar.",
+      "Interjeição de espanto e exclamação.",
+      "Pronome demonstrativo reduzido."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O termo 'claro' é um adjetivo adverbializado equivalente ao advérbio de modo 'claramente', modificando o verbo 'falou'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere as orações: I. 'Senhores pais, compareçam à secretaria para assinatura da ficha.' II. 'O secretário municipal, servidor exemplar, homologou o processo.' Sintaticamente, os termos destacados entre vírgulas em I e II são, respectivamente:",
+    "options": [
+      "Aposto explicativo e vocativo.",
+      "Vocativo e aposto explicativo.",
+      "Sujeito composto e adjunto adnominal.",
+      "Complemento nominal e predicativo do objeto.",
+      "Adjunto adverbial e vocativo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Em I, 'Senhores pais' é o chamamento/invocação (vocativo). Em II, 'servidor exemplar' explica/esclarece quem é o secretário municipal (aposto explicativo)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em 'A remessa DE LIVROS novos agradou aos professores da escola', a expressão em destaque desempenha a função de:",
+    "options": [
+      "Adjunto adnominal, pois estabelece uma relação de especificação de posse e espécie sobre um substantivo concreto.",
+      "Complemento nominal, por atuar como paciente da ação de um substantivo transitivo de sentimento.",
+      "Objeto indireto do verbo agradou.",
+      "Sujeito oracional passivo.",
+      "Agente da passiva em voz reflexiva."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'De livros' liga-se ao substantivo concreto 'remessa' para especificá-lo, atuando sintaticamente como adjunto adnominal."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que contém uma Oração Coordenada Sindética Explicativa, em conformidade com a sintaxe normativa.",
+    "options": [
+      "O sistema caiu; portanto, o atendimento presencial foi suspenso temporariamente.",
+      "Venha logo à secretaria, POIS O HORÁRIO DE ATENDIMENTO JÁ VAI TERMINAR.",
+      "O funcionário não apenas protocolou os requerimentos, mas também arquivou os processos.",
+      "Estudou com afinco, contudo não obteve a nota de corte estipulada pelo edital.",
+      "Ou você entrega a documentação hoje, ou perderá o direito à vaga reservada."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A oração iniciada pela conjunção 'pois' após verbo no imperativo ('Venha') justifica/explica o motivo da ordem, sendo uma oração coordenada sindética explicativa."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Compare os períodos: I. 'Os professores, que participaram da capacitação pedagógica, receberão certificados.' II. 'Os professores que participaram da capacitação pedagógica receberão certificados.' Do ponto de vista semântico, é correto afirmar que:",
+    "options": [
+      "Em I, apenas um grupo restrito de professores receberá certificado; em II, todos os professores sem exceção receberão.",
+      "Em I, todos os professores da escola participaram da capacitação; em II, somente aqueles que participaram receberão certificados.",
+      "Ambos os períodos possuem exatamente o mesmo significado, sendo a presença de vírgulas irrelevante para a semântica.",
+      "O período II está sintaticamente incorreto perante a norma-padrão por omitir vírgulas obrigatórias.",
+      "O período I indica que os certificados foram cancelados pela administração."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A oração explicativa entre vírgulas em I indica que todos os professores participaram da capacitação. A oração restritiva sem vírgulas em II limita o recebimento apenas aos professores que participaram."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Quanto à concordância verbal com os pronomes relativos 'que' e 'quem', assinale a alternativa que contraria a norma-padrão da língua.",
+    "options": [
+      "Fui eu que atendeu o telefonema da Secretaria Municipal de Educação.",
+      "Fui eu que atendi o telefonema da Secretaria Municipal de Educação.",
+      "Fui eu quem atendi o telefonema da Secretaria Municipal de Educação.",
+      "Fui eu quem atendeu o telefonema da Secretaria Municipal de Educação.",
+      "Fomos nós que atendemos o telefonema da Secretaria Municipal de Educação."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Com o pronome relativo 'que', o verbo deve concordar obrigatoriamente com o seu antecedente ('eu'), gerando 'Fui eu que atendi'. A forma 'que atendeu' descumpre a norma-padrão."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em relação à concordância verbal, assinale a frase inteiramente CORRETA segundo as regras gramaticais.",
+    "options": [
+      "Nem o diretor nem a coordenadora assumirá a culpa sozinhos, já que ambos assinaram o relatório.",
+      "A secretária com seus estagiários organizaram os prontuários de todos os alunos transferidos.",
+      "Roma ou Paris serão a sede do próximo congresso de educação infantil deste ano.",
+      "Mais de um candidato a auxiliar de secretaria faltaram à entrevista presencial.",
+      "O silêncio e a tranquilidade reinava absoluta nos corredores durante a prova."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Na estrutura 'Sujeito + com + acompanhante', quando a intenção é aditiva e equivale a 'e', o verbo concorda no plural ('organizaram')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que apresenta erro de concordância nominal de acordo com a norma-padrão.",
+    "options": [
+      "As servidoras ficaram meio apreensivas com as mudanças no regimento interno escolar.",
+      "Seguem anexos aos relatórios os comprovantes de matrícula dos estudantes novatos.",
+      "Os alunos estavam quites com a tesouraria no encerramento do ano letivo.",
+      "As próprias coordenadoras pedagógicas se encarregaram de enviar a circular.",
+      "As fichas cadastrais dos alunos foram remetidas em anexas ao processo administrativo."
+    ],
+    "correctAnswer": 4,
+    "explanation": "A expressão 'em anexo' é invariável na norma-padrão. Portanto, 'em anexas' está incorreto."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que o verbo 'aspirar' foi empregado com regência condizente com a norma-padrão no sentido de 'almejar', 'pretender'.",
+    "options": [
+      "O auxiliar de secretaria aspirava o cargo de chefe de departamento administrativo.",
+      "O auxiliar de secretaria aspirava ao cargo de chefe de departamento administrativo.",
+      "O auxiliar de secretaria aspirava pelo cargo de chefe de departamento administrativo.",
+      "O auxiliar de secretaria aspirava no cargo de chefe de departamento administrativo.",
+      "O auxiliar de secretaria aspirava com o cargo de chefe de departamento administrativo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "No sentido de almejar/desejar, o verbo 'aspirar' é transitivo indireto e exige a preposição 'a' (aspirava ao cargo)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "A regência nominal estuda a relação entre nomes (substantivos, adjetivos, advérbios) e seus complementos preposicionados. Assinale a alternativa cuja regência nominal obedece à norma-padrão.",
+    "options": [
+      "O candidato a auxiliar de secretaria estava apto para assumir as rotinas burocráticas.",
+      "A direção escolar mantinha-se impassível com os apelos da comissão de pais.",
+      "O arquivista mostrou-se perito em conferir certidões, mas negligente a suas tarefas.",
+      "O servidor tinha uma aversão de procedimentos informatizados da prefeitura.",
+      "As exigências eram compatíveis de o edital de concurso público municipal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O adjetivo 'apto' admite a regência com a preposição 'a' ou 'para' ('apto para assumir'). As demais alternativas trazem regências inadequadas (impassível a, negligente em/com, aversão a/por, compatível com)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que a pontuação foi empregada de acordo com a norma-padrão para isolar um adjunto adverbial de grande extensão deslocado.",
+    "options": [
+      "Durante a última semana de matrículas da rede municipal, a equipe da secretaria atendeu centenas de munícipes.",
+      "Durante a última semana de matrículas da rede municipal a equipe da secretaria, atendeu centenas de munícipes.",
+      "Durante a última semana, de matrículas da rede municipal a equipe da secretaria atendeu, centenas de munícipes.",
+      "A equipe da secretaria atendeu centenas de munícipes, durante a última semana, de matrículas.",
+      "A equipe da secretaria, atendeu centenas de munícipes durante a última semana de matrículas da rede municipal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjuntos adverbiais de longa extensão deslocados para o início da oração devem ser isolados por vírgula antes da oração principal."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em conformidade com o Acordo Ortográfico vigente, assinale a alternativa em que TODAS as palavras estão acentuadas de acordo com as normas oficiais.",
+    "options": [
+      "Jiboia, colmeia, assembleia.",
+      "Chapéu, herói, troféu.",
+      "Platéia, idéia, heróico.",
+      "Constelação, pólen, hífens.",
+      "Paranóico, estréia, feiúra."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Os ditongos abertos -éu e -ói em palavras oxítonas mantêm o acento gráfico (Chapéu, herói, troféu)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "De acordo com o Acordo Ortográfico vigente, assinale a opção em que o uso do hífen em compostos com prefixos está plenamente CORRETO.",
+    "options": [
+      "Micro-ondas, anti-inflamatório, autoestrada.",
+      "Microondas, antiinflamatório, auto-estrada.",
+      "Micro-ondas, antiinflamatório, auto-estrada.",
+      "Microondas, anti-inflamatório, autoestrada.",
+      "Micro-ondas, anti-inflamatório, auto-estrada."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Usa-se hífen quando o prefixo termina com a mesma vogal que inicia a segunda palavra (micro-ondas, anti-inflamatório). Não se usa hífen quando as vogais são diferentes (autoestrada)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No contexto administrativo escolar, os gêneros 'Declaração' e 'Certidão' são rotineiramente expedidos pela secretaria. A diferença primordial entre esses dois documentos oficiais reside no fato de que:",
+    "options": [
+      "A certidão é lavrada exclusivamente por autoridade judicial, enquanto a declaração não possui validade legal perante a administração pública.",
+      "A declaração é um ato emitido em favor de terceiros com base em registros transitórios ou testemunhais, enquanto a certidão reproduz fielmente dados extraídos de livros, arquivos ou registros oficiais públicos dotados de fé pública.",
+      "A declaração destina-se apenas a justificar faltas de servidores em viagens internacionais, ao passo que a certidão substitui o histórico escolar em definitivo.",
+      "A certidão consiste em correspondência interna expedida entre secretários escolares, ao passo que a declaração é endereçada unicamente a bancos privados.",
+      "Ambos os documentos apresentam formato idêntico ao de uma carta aberta, sem necessidade de assinatura de servidor público investido no cargo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A certidão atesta dados constantes em registros formais permanentes dotados de fé pública; já a declaração fundamenta-se em registros transitórios ou afirmações prestadas."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Leia a seguinte recomendação interna de uma unidade escolar: 'A digitalização do acervo físico não visa apenas a reduzir o consumo de papel, mas a assegurar a integridade histórica dos registros discentes contra sinistros e desgaste temporal.' A partir dessa leitura, deduz-se corretamente que:",
+    "options": [
+      "O acervo físico deve ser sumariamente incinerado após ser digitalizado para liberar espaço nas salas da secretaria.",
+      "A preservação das informações escolares contra eventuais acidentes físicos e degradação é uma das finalidades essenciais da digitalização documental.",
+      "A economia de insumos materiais é a única justificativa financeira admitida pela administração municipal para modernizar o arquivo.",
+      "Os arquivos escolares em formato digital tornam desnecessária a validação das certidões emitidas pela secretaria.",
+      "A escola deixará de matricular novos alunos até que todo o passivo documental de anos anteriores seja digitalizado."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O texto afirma expressamente que um dos objetivos é assegurar a integridade histórica contra sinistros (acidentes) e desgaste temporal (degradação)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em conversas no ambiente escolar em municípios goianos, é comum ouvir expressões como 'custoso' (para se referir a uma criança travessa ou difícil) ou 'demais da conta' (para indicar intensidade). Em relação aos estudos da linguagem, essas manifestações constituem exemplos de variação:",
+    "options": [
+      "Diacrônica, pois tratam de termos já completamente extintos da língua falada no Brasil contemporâneo.",
+      "Diatópica (geográfica), caracterizada pelos usos vocabulares e construções semânticas peculiares a uma determinada região territorial.",
+      "Diamésica, decorrente unicamente da escolha de tipografia na elaboração de ofícios públicos.",
+      "Diastrática, motivada exclusivamente pelo grau de letramento acadêmico e estrato socioeconômico de quem fala.",
+      "Jargão corporativo, criado formalmente pela administração pública municipal para padronizar pareceres."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Variações regionais/geográficas de vocabulário e expressões constituem variação diatópica."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em uma reunião pedagógica, a coordenação declarou: 'Finalmente conseguimos padronizar os formulários de transferência discente.' O advérbio 'Finalmente' introduz no enunciado uma ideia pressuposta de que:",
+    "options": [
+      "A padronização dos formulários nunca havia sido almejada ou tentada pela equipe escolar.",
+      "O processo de padronização demandou esforço considerável ou demorou mais tempo do que o desejado pela instituição.",
+      "Os formulários de transferência deixarão de ser exigidos a partir do encerramento daquele ano letivo.",
+      "Nenhum funcionário da secretaria foi capaz de preencher os documentos adequadamente antes da reunião.",
+      "A prefeitura revogou as regras de rematrícula de todos os alunos transferidos no município."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O uso de 'Finalmente' pressupõe expectativa prolongada, demora ou superação de dificuldades ao longo do processo."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No enunciado 'O secretário municipal assinou a portaria administrativa; o auxiliar, a ficha cadastral do aluno', a vírgula empregada na segunda oração marca um recurso de coesão sintática denominado:",
+    "options": [
+      "Catacrese, consistente no emprego impróprio de termo já dicionarizado.",
+      "Elipse por zeugma, omitindo o verbo 'assinou' que já fora expresso anteriormente na oração precedente.",
+      "Anáfora pronominal, por meio do uso reiterado de pronomes oblíquos átonos.",
+      "Hiperonímia, expandindo o sentido semântico do sujeito da oração.",
+      "Pleonasmo enfático, que duplica termos com o mesmo significado com fins puramente estilísticos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A vírgula vicária é utilizada para indicar a omissão de um termo verbal antecedente ('assinou'), recurso denominado zeugma."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em um parecer escolar favorável à implantação de um programa de incentivo à leitura, o relator cita: 'Conforme preceitua a pesquisadora e pedagoga Emília Ferreiro, a escrita não é apenas um produto escolar, mas um objeto cultural cujo domínio decorre de reflexão ativa da criança.' O texto vale-se primordialmente de um argumento de:",
+    "options": [
+      "Exemplificação casuística, relatando uma experiência individual não comprovada.",
+      "Autoridade, fundamentando a proposição no prestígio técnico-científico e na credibilidade de uma especialista de renome na área.",
+      "Consenso do senso comum, apoiando-se em crendices populares transmitidas oralmente.",
+      "Analogia imperfeita, comparando processos escolares a engrenagens mecânicas fabris.",
+      "Apelo à piedade (ad misericordiam), visando comover os leitores por meio de sentimentalismo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A citação de especialistas reconhecidos na área (como Emília Ferreiro) caracteriza o argumento de autoridade."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere o excerto: 'Eram sete horas quando as portas se abriram. Logo em seguida, os responsáveis entraram no saguão, pegaram as senhas e aguardaram até que o primeiro chamado ecoou pelo alto-falante.' A predominância de verbos de ação flexionados no pretérito perfeito dispostos em ordem cronológica caracteriza a sequência textual como:",
+    "options": [
+      "Injuntiva.",
+      "Descritiva.",
+      "Argumentativa.",
+      "Narrativa.",
+      "Dissertativa-expositiva."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A sucessão temporal de fatos encadeados cronologicamente com verbos no pretérito perfeito define a estrutura da sequência narrativa."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "A palavra 'burocracia', frequente no vocabulário institucional da administração pública, é formada pela junção do vocábulo francês 'bureau' (mesa de trabalho/escritório) com o elemento grego 'krátos' (poder, autoridade). Esse fenômeno mórfico é classificado pela gramática normativa como:",
+    "options": [
+      "Hibridismo, por combinar étimos provenientes de idiomas distintos na mesma palavra.",
+      "Parassíntese simultânea com base em radicais exclusivamente germânicos.",
+      "Derivação regressiva fonética com afixação de desinências verbais.",
+      "Composição por aglutinação simples fundada em radicais autóctones tupis.",
+      "Neologismo sintático fundado em onomatopeia."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O hibridismo ocorre na formação de termos a partir da união de radicais de línguas diferentes (no caso, francês e grego)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em termos administrativos escolares como 'reorganização', 'descontinuidade' e 'anteprojeto', os prefixos sublinhados indicam, respectivamente, ideias de:",
+    "options": [
+      "Repetição ou reiteração / negação ou cessação / anterioridade no tempo ou espaço.",
+      "Oposição radical / afastamento definitivo / intensidade máxima.",
+      "Anterioridade / causa determinante / inferioridade de hierarquia.",
+      "Posterioridade temporal / duplicidade numérica / negação absoluta.",
+      "Superlatividade de valor / aproximação espacial / concomitância temporal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O prefixo 're-' denota repetição; 'des-' denota negação/cessação; e 'ante-' denota anterioridade."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "De acordo com a norma-padrão e o Manual de Redação da Presidência da República, aplicados à redação de expedientes oficiais escolares endereçados ao Prefeito do Município e a Diretores de Escolas Municipais, empregam-se, respectivamente, os pronomes de tratamento:",
+    "options": [
+      "Vossa Excelência e Vossa Senhoria.",
+      "Vossa Magnificência e Vossa Alteza.",
+      "Vossa Santidade e Vossa Ilustríssima.",
+      "Vossa Majestade e Vossa Reverendíssima.",
+      "Vossa Eminência e Vossa Senhoria."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O tratamento para Prefeitos é 'Vossa Excelência' e para demais autoridades e servidores sem tratamento específico (como diretores) emprega-se 'Vossa Senhoria'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que a palavra 'bastante' atua como pronome indefinido adjetivo e, por conseguinte, flexiona-se em concordância com o substantivo a que se refere.",
+    "options": [
+      "Os servidores públicos da secretaria estavam bastantes ocupados com a entrega de históricos.",
+      "Havia bastantes requerimentos pendentes de assinatura do diretor na pasta de despachos.",
+      "Os alunos estudaram bastantes para as avaliações diagnósticas bimestrais.",
+      "As candidatas eram bastantes atenciosas durante a acolhida dos pais na entrada.",
+      "A secretária falou bastantes sobre as novas diretrizes pedagógicas municipais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Em B, 'bastantes' é pronome indefinido adjetivo modificando o substantivo 'requerimentos' (equivalente a 'muitos'), devendo flexionar-se no plural."
+  }
+]

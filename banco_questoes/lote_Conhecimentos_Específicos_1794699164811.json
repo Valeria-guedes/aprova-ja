@@ -1,0 +1,464 @@
+[
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na redação de documentos oficiais segundo o Manual de Redação da Presidência da República (3ª Edição), a datação de um ofício deve seguir um formato padronizado e correto gramaticalmente. Assinale a alternativa que apresenta a grafia adequada para o local e a data no expediente oficial:",
+    "options": [
+      "Aparecida de Goiânia, 05 de Outubro de 2026.",
+      "Aparecida de Goiânia, em 5 de outubro de 2.026.",
+      "Aparecida de Goiânia, 5 de outubro de 2026.",
+      "Aparecida de Goiânia - GO, aos 05 dias do mês de Outubro de 2026.",
+      "Em Aparecida de Goiânia, 5/10/2026."
+    ],
+    "correctAnswer": 2,
+    "explanation": "De acordo com o Manual de Redação da Presidência da República (3ª edição), a grafia adequada de local e data no cabeçalho/fecho de expedientes oficiais é: 'Local, dia de mês por extenso de ano', sem zero à esquerda no dia, mês em minúsculo e ano sem ponto no milhar. Portanto: 'Aparecida de Goiânia, 5 de outubro de 2026.'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Ao utilizar uma planilha eletrônica (como o Microsoft Excel ou LibreOffice Calc) para apurar a média final de notas bimestrais de um estudante dispostas nas células B2, B3, B4 e B5, o auxiliar de secretaria deve inserir na célula correspondente a seguinte fórmula matemática correta:",
+    "options": [
+      "=TOTAL(B2+B5)/4",
+      "=MÉDIA(B2:B5)",
+      "=CALCULAR.NOTAS(B2 até B5)",
+      "=DIVISÃO(B2:B5, 4)",
+      "=SOMATÓRIO.FINAL[B2..B5]"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A função padrão utilizada para calcular a média aritmética de um intervalo contínuo de células (de B2 a B5) em softwares de planilha eletrônica como Excel e LibreOffice Calc é =MÉDIA(B2:B5)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na Seção III do Capítulo I do Título VII da Lei Orgânica do Município de Aparecida de Goiânia-GO, a política educacional municipal é executada em consonância com as deliberações de um órgão colegiado municipal representativo da sociedade. Esse órgão normativo e consultivo é o:",
+    "options": [
+      "Tribunal Regional do Trabalho Escolar.",
+      "Conselho Municipal de Educação.",
+      "Comitê de Auditoria Fazendária Privada.",
+      "Colégio Eleitoral de Notáveis Acadêmicos.",
+      "Gabinete de Intervenção Burocrática do Estado."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Conselho Municipal de Educação é o órgão colegiado municipal encarregado de deliberar, normatizar e exercer funções consultivas relativas à política educacional do município."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na arquivologia aplicada à secretaria de ensino, quando se adota o método de arquivamento numérico simples para pastas de alunos (atribuindo a cada pasta um número sequencial de matrícula), é requisito técnico indispensável para a sua operacionalização a criação e manutenção de:",
+    "options": [
+      "Um índice alfabético remissivo (onômico), que relacione o nome do aluno ao número correspondente de sua pasta.",
+      "Um cofre subterrâneo blindado com portas de fechamento termomagnético.",
+      "Um processo judicial de validação cadastral homologado anualmente.",
+      "Eliminação antecipada das vias físicas após 24 horas do cadastramento numérico.",
+      "Uma chave criptográfica física de posse exclusiva do prefeito do município."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Como o arquivamento numérico simples é um método indireto, é imprescindível a manutenção de um índice alfabético remissivo (onômico) para localizar a pasta a partir do nome do aluno."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), em seu Art. 58, prevê que no processo educacional respeitar-se-ão os valores culturais, artísticos e históricos próprios do contexto social da criança e do adolescente. O texto legal expressamente garante que esse princípio assegura aos educandos a:",
+    "options": [
+      "Liberdade irrestrita de recusa às matérias curriculares obrigatórias da LDB.",
+      "Liberdade da criação e o acesso às fontes de cultura.",
+      "Faculdade de transferir-se de escola sem emissão de histórico escolar oficial.",
+      "Prerrogativa de fiscalizar as contas financeiras do Poder Judiciário municipal.",
+      "Isenção total do cumprimento da carga horária de duzentos dias letivos anuais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 58 do ECA estabelece expressamente que, respeitando-se os valores culturais, artísticos e históricos, assegura-se aos educandos a liberdade da criação e o acesso às fontes de cultura."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Após o encerramento do Conselho de Classe final em uma unidade de ensino fundamental, a lavratura da Ata de Resultados Finais é concluída pela secretaria. Para resguardar a fidedignidade jurídica e a perenidade do documento arquivado no arquivo escolar, esse instrumento deve ser obrigatoriamente:",
+    "options": [
+      "Publicado em redes sociais de servidores para recolher comentários opinativos da comunidade.",
+      "Assinado pelos membros participantes do conselho, pelo secretário escolar e pelo diretor da escola, não admitindo rasuras sem devida ressalva formal.",
+      "Descartado e triturado assim que as notas forem lançadas no sistema eletrônico de boletins.",
+      "Enviado de forma anônima aos órgãos de imprensa antes do término do ano letivo.",
+      "Retificado livremente com uso de corretivo líquido branco sempre que algum pai discordar do resultado."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Ata de Resultados Finais é um documento oficial e autêntico que deve ser assinado pelos membros do conselho de classe, secretário e diretor, não admitindo rasuras sem a devida e formal ressalva."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na gestão de relações interpessoais no ambiente escolar, o desenvolvimento da empatia e da Comunicação Não-Violenta (CNV) no atendimento da secretaria fundamenta-se na seguinte conduta profissional:",
+    "options": [
+      "Interromper agressivamente o interlocutor para impor superioridade técnica funcional.",
+      "Separar as observações objetivas dos fatos em relação a julgamentos e preconceitos pessoais, identificando necessidades e formulando pedidos claros e construtivos.",
+      "Responder a todas as solicitações com evasivas formais para não assumir responsabilidades de atendimento.",
+      "Ignorar as manifestações de ansiedade dos pais, tratando-os com frieza burocrática e desinteresse.",
+      "Registrar queixas verbais apenas se forem acompanhadas de presentes institucionais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Comunicação Não-Violenta (CNV) baseia-se em observar fatos sem julgamento prévio, reconhecer necessidades e formular pedidos objetivos e construtivos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Sob a perspectiva das boas práticas de segurança da informação alinhadas à LGPD na secretaria escolar, a disposição dos monitores de computador no balcão de atendimento deve observar qual cuidado preventivo?",
+    "options": [
+      "Posicionar as telas voltadas diretamente para o público externo que aguarda na fila para facilitar a leitura comunitária.",
+      "Garantir que as telas fiquem posicionadas de modo a impedir a visualização indevida de dados pessoais e notas de alunos por pessoas não autorizadas que circulam na recepção.",
+      "Desativar protetores de tela e bloqueios de sessão para agilizar o acesso de visitantes curiosos.",
+      "Permitir que usuários externos operem o teclado enquanto o atendente busca prontuários no arquivo.",
+      "Projetar a tela do sistema com os dados de todos os matriculados em um telão público na calçada da escola."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A LGPD preconiza a proteção de dados pessoais de acessos não autorizados. No balcão de atendimento, o monitor deve estar posicionado de modo a impedir a visualização indevida por terceiros."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 23 da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996) autoriza a educação básica a organizar-se em diferentes formas estruturais para atender ao interesse do processo de aprendizagem. Dentre as possibilidades expressas no caput do referido artigo, a educação básica pode organizar-se em:",
+    "options": [
+      "Exclusivamente internatos compulsórios semestrais gerenciados por fundações de direito privado.",
+      "Séries anuais, períodos semestrais, ciclos, alternância regular de períodos de estudos, grupos não-graduados, com base na idade, na competência e em outros critérios.",
+      "Apenas turnos noturnos unificados para estudantes a partir dos três anos de idade.",
+      "Cursos técnicos modulares privativos ministrados sem docentes habilitados.",
+      "Sistemas unicamente remotos com dispensa total do calendário letivo de duzentos dias."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Segundo o Art. 23 da LDB, a Educação Básica pode ser organizada em séries anuais, períodos semestrais, ciclos, alternância regular de períodos de estudos, grupos não-graduados, com base na idade, na competência e em outros critérios."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme o Art. 210, § 1º, da Constituição Federal de 1988, o ensino religioso nas escolas públicas de ensino fundamental constitui disciplina dos horários normais e caracteriza-se por ser de:",
+    "options": [
+      "Matrícula facultativa, assegurado o respeito à diversidade cultural e religiosa.",
+      "Matrícula estritamente obrigatória para todos os discentes matriculados nos anos iniciais.",
+      "Oferta proibida nos estabelecimentos públicos oficiais de qualquer ente federativo.",
+      "Custeio compulsório rateado entre os responsáveis pelos alunos interessados.",
+      "Avaliação eliminatória vinculada à retenção e reprovação acadêmica de final de ano."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 210, § 1º da CF/88 prevê expressamente que o ensino religioso é de matrícula facultativa e constituirá disciplina dos horários normais das escolas públicas de ensino fundamental."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 26 da Lei nº 9.394/1996 (LDB) estabelece a organização dos currículos da educação infantil, do ensino fundamental e do ensino médio. Segundo o dispositivo legal, esses currículos devem conter:",
+    "options": [
+      "Exclusivamente conteúdos técnicos voltados à preparação para o mercado fabril e industrial.",
+      "Uma matriz curricular única e inflexível, idêntica e sem variações em todos os municípios brasileiros.",
+      "Apenas disciplinas de livre escolha de cada professor, sem obrigatoriedade de parâmetros nacionais.",
+      "Uma base nacional comum, complementada por uma parte diversificada exigida pelas características regionais e locais.",
+      "Disciplinas definidas semestralmente por sorteio público em assembleia comunitária escolar."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O Art. 26 da LDB determina que os currículos da Educação Básica devem ter uma base nacional comum, a ser complementada por uma parte diversificada exigida pelas características regionais e locais."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em matéria de ética no serviço público, o auxiliar de secretaria que utiliza informações institucionais privilegiadas e ainda não publicadas oficialmente para obter vantagem pessoal ou favorecer amigos em certames ou processos seletivos viola o dever de:",
+    "options": [
+      "Hierarquia corporativa irrestrita.",
+      "Flexibilidade procedimental discricionária.",
+      "Subjetividade avaliativa burocrática.",
+      "Livre iniciativa econômica governamental.",
+      "Moralidade administrativa, sigilo das informações e impessoalidade."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Utilizar informações privilegiadas viola os princípios constitucionais da Administração Pública expressos no Art. 37 da CF/88, especificamente a moralidade administrativa, o dever de sigilo e a impessoalidade."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Manual de Redação da Presidência da República (3ª Edição, 2018) promoveu a simplificação das correspondências oficiais no âmbito do Poder Executivo. Uma mudança estrutural dessa edição foi a extinção dos expedientes aviso e memorando, que foram:",
+    "options": [
+      "Unificados sob a denominação única e abrangente de Padrão Ofício.",
+      "Substituídos integralmente por mensagens informais de aplicativos particulares.",
+      "Vedados em definitivo, permitindo-se apenas comunicações orais presenciais.",
+      "Restritos ao uso exclusivo de ministros e juízes em sessões extraordinárias.",
+      "Convertidos em despachos sigilosos sem registro em protocolo geral."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Na 3ª edição do Manual de Redação da Presidência da República, os expedientes aviso e memorando foram extintos e unificados sob a denominação de Padrão Ofício."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na organização de arquivos da secretaria escolar municipal, quando se adota o método de arquivamento geográfico para classificar correspondências e instituições educacionais parceiras, a ordenação das pastas que levam nomes de cidades e estados deve obedecer à seguinte regra de alfabetação:",
+    "options": [
+      "Organiza-se pelo nome do prefeito em exercício no município de origem.",
+      "Classifica-se aleatoriamente conforme a data em que o documento chegou ao protocolo.",
+      "Ordena-se pelo Estado ou País de referência e, em seguida, alfabeticamente pela Cidade e pelo correspondente.",
+      "Agrupa-se os municípios prioritariamente pelo número total de seus habitantes.",
+      "Descarta-se o nome da cidade, arquivando unicamente pelo código postal de endereçamento."
+    ],
+    "correctAnswer": 2,
+    "explanation": "No método geográfico quando se organiza por localidade, a regra de alfabetação ordena-se pelo Estado (ou País) e, dentro deste, alfabeticamente pela Cidade e depois pelo nome do correspondente."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No contexto do atendimento na secretaria escolar, a postura comunicativa caracterizada pela capacidade de expressar opiniões, limites e orientações de forma clara, direta e educada, sem agressividade nem passividade frente a interlocutores exaltados, é denominada:",
+    "options": [
+      "Comunicação invasiva.",
+      "Comunicação defensiva.",
+      "Comunicação submissa.",
+      "Comunicação assertiva.",
+      "Comunicação negligente."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A comunicação assertiva consiste em transmitir uma mensagem de forma firme, clara, transparente e respeitosa, sem adotar posições agressivas nem submissas."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 55 do Estatuto da Criança e do Adolescente (Lei nº 8.069/1990) estabelece uma das principais obrigações legais dos pais ou responsáveis em relação à educação básica. De acordo com o texto legal, os pais ou responsável têm a obrigação de:",
+    "options": [
+      "Matricular seus filhos ou pupilos na rede regular de ensino.",
+      "Financiar integralmente o material pedagógico e o transporte dos docentes.",
+      "Elaborar os planos de aula das matérias fundamentais em parceria com a coordenação.",
+      "Corrigir as provas de recuperação quando os professores estiverem ausentes.",
+      "Pagar taxas administrativas bimestrais pela guarda dos históricos escolares no arquivo."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 55 do ECA é taxativo: 'Os pais ou responsável têm a obrigação de matricular seus filhos ou pupilos na rede regular de ensino.'"
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Nos termos da Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD), o tratamento de dados pessoais de alunos e seus responsáveis no âmbito das secretarias escolares públicas municipais para cumprimento de obrigação legal ou execução de políticas públicas:",
+    "options": [
+      "É expressamente proibido pela ANPD, devendo os registros escolares ser anonimizados no ato da matrícula.",
+      "Pode ser realizado pela administração pública independentemente do consentimento específico do titular, com base nas hipóteses legais aplicáveis ao Poder Público.",
+      "Exige autorização judicial prévia individualizada emitida pela Vara da Infância para cada certidão expedida.",
+      "Fica condicionado à cobrança de emolumentos notariais repassados aos cofres municipais.",
+      "Depende de aprovação unânime do grêmio estudantil em reunião aberta convocada semestralmente."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A LGPD dispõe no Art. 7º, incisos II e III, e no Art. 23 que a administração pública pode tratar dados pessoais independentemente do consentimento do titular para o cumprimento de obrigação legal ou regulatória e para a execução de políticas públicas."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Durante a digitação de um expediente escolar em um processador de texto (como Microsoft Word ou LibreOffice Writer), o operador comete uma exclusão indevida de um parágrafo inteiro. Para desfazer imediatamente essa última ação utilizando atalhos de teclado universais no ambiente Windows, deve pressionar simultaneamente as teclas:",
+    "options": [
+      "Ctrl + P.",
+      "Ctrl + S.",
+      "Ctrl + N.",
+      "Ctrl + X.",
+      "Ctrl + Z."
+    ],
+    "correctAnswer": 4,
+    "explanation": "No ambiente Windows, a combinação de teclas universalmente aceita para desfazer a última ação realizada em editores de texto é Ctrl + Z."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com as normas gerais sobre servidores públicos reproduzidas na Seção Única do Título VIII da Lei Orgânica do Município de Aparecida de Goiânia-GO, em simetria com a Constituição Federal, o prazo de validade de um concurso público para provimento de cargos efetivos será de:",
+    "options": [
+      "Até 1 (um) ano, vedada qualquer prorrogação posterior.",
+      "Até 3 (três) anos, improrrogável sob pena de nulidade.",
+      "Até 2 (dois) anos, prorrogável uma vez por igual período.",
+      "Até 4 (quatro) anos, condicionado à alteração orçamentária do município.",
+      "Prazo indeterminado até o preenchimento de todas as vagas remanescentes."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Conforme o Art. 37, III da Constituição Federal e reproduzido na Lei Orgânica Municipal, a validade do concurso público é de até 2 (dois) anos, prorrogável uma única vez por igual período."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na rotina de escrituração escolar, ao verificar a existência de erro material no lançamento de uma nota em documento físico já concluído e assinado, o procedimento administrativo correto a ser adotado pela secretaria escolar é:",
+    "options": [
+      "Rasurar o número incorreto utilizando corretivo líquido branco sem qualquer registro explicativo.",
+      "Lavrar um termo de retificação (ou adendo/ressalva formal), devidamente fundamentado, datado e assinado pela direção e secretário escolar.",
+      "Destruir e queimar todas as pastas antigas do aluno no arquivo corrente para não deixar vestígios do erro.",
+      "Ignorar a discrepância para manter o padrão estético original sem anotações secundárias.",
+      "Emitir uma certidão substitutiva com numeração oculta sem registrar no sistema acadêmico oficial."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Em escrituração e documentação escolar oficial, rasuras não são admitidas. Erros materiais observados após a conclusão do documento devem ser corrigidos por meio de um termo formal de retificação/ressalva datado e assinado pelos responsáveis."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 13 da Lei nº 9.394/1996 (LDB) estabelece as incumbências dos docentes nas escolas. Entre essas atribuições, que se relacionam diretamente com os controles de prazos e notas da secretaria, destaca-se expressamente a obrigação de:",
+    "options": [
+      "Participar da elaboração da proposta pedagógica do estabelecimento de ensino e ministrar os dias letivos e horas-aula estabelecidos.",
+      "Auditar as contas bancárias do Poder Executivo municipal antes de emitir boletins de avaliação.",
+      "Realizar a contratação e homologação da posse dos auxiliares de secretaria escolar.",
+      "Cobrar pessoalmente mensalidades e taxas dos responsáveis nas reuniões de pais.",
+      "Eliminar prontuários inativos sem submissão à comissão de avaliação de documentos."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 13 da LDB fixa entre as incumbências dos docentes: I - participar da elaboração da proposta pedagógica do estabelecimento de ensino; V - ministrar os dias letivos e horas-aula estabelecidos, além de participar integralmente dos períodos dedicados ao planejamento, à avaliação e ao desenvolvimento profissional."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei de Acesso à Informação (Lei nº 12.527/2011) prevê que informações em poder de órgãos públicos que possam comprometer a segurança da sociedade e do Estado podem ser classificadas em graus de sigilo. Os prazos máximos de restrição de acesso para as categorias ultrassecreta, secreta e reservada são, respectivamente:",
+    "options": [
+      "50 anos, 25 anos e 10 anos.",
+      "30 anos, 20 anos e 10 anos.",
+      "20 anos, 10 anos e 5 anos.",
+      "25 anos, 15 anos e 5 anos.",
+      "10 anos, 5 anos e 2 anos."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Segundo o Art. 24, § 1º da Lei nº 12.527/2011 (LAI), os prazos máximos de restrição de acesso às informações sigilosas são: ultrassecreta (25 anos), secreta (15 anos) e reservada (5 anos)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na organização de reuniões pedagógicas e conselhos de classe no ambiente escolar, a elaboração e divulgação antecipada da pauta (ordem do dia) cumpre a função administrativa primordial de:",
+    "options": [
+      "Transferir o poder decisório do conselho para os alunos com maior índice de faltas.",
+      "Substituir a necessidade de lavratura posterior da ata formal do encontro colegiado.",
+      "Permitir que os participantes conheçam previamente os assuntos a serem tratados, preparando subsídios para discussões produtivas e focadas.",
+      "Impedir que servidores ausentes tenham acesso às decisões tomadas pelo grupo escolar.",
+      "Fixar valores pecuniários de multas a serem cobradas de docentes que se atrasarem para a reunião."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A divulgação antecipada da pauta visa subsidiar a preparação dos participantes com antecedência, focando as discussões e tornando as deliberações mais eficazes."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em arquivologia, o princípio segundo o qual os documentos de arquivo refletem de forma necessária a estrutura orgânica, as funções e as atividades do órgão gerador em suas relações internas e externas denomina-se:",
+    "options": [
+      "Princípio da Pertinência Temática.",
+      "Princípio da Territorialidade.",
+      "Princípio da Indivisibilidade Burocrática.",
+      "Princípio da Ordem Alfabética.",
+      "Princípio da Organicidade."
+    ],
+    "correctAnswer": 4,
+    "explanation": "O Princípio da Organicidade estabelece a relação natural/orgânica existente entre os documentos de arquivo e a estrutura, funções e atividades da entidade que os criou ou acumulou."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 213 da Constituição Federal de 1988 estabelece critérios para a destinação de recursos públicos educacionais. Segundo o texto constitucional, os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas que:",
+    "options": [
+      "Pratiquem cobrança de mensalidades com taxa de lucro distribuída entre os acionistas mantenedores.",
+      "Comprovem finalidade não-lucrativa e apliquem seus excedentes financeiros em educação.",
+      "Sejam geridas privativamente por cooperativas de crédito internacionais sem fiscalização municipal.",
+      "Promovam processos seletivos discriminatórios com base na renda per capita familiar.",
+      "Dispensem a observância das diretrizes curriculares nacionais estabelecidas pelo MEC."
+    ],
+    "correctAnswer": 1,
+    "explanation": "De acordo com o Art. 213, I da Constituição Federal de 1988, os recursos públicos podem ser canalizados para escolas comunitárias, confessionais ou filantrópicas que comprovem finalidade não lucrativa e apliquem seus excedentes financeiros em educação."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No padrão de redação oficial estabelecido pelo Manual de Redação da Presidência da República (3ª Edição), o vocativo a ser utilizado no início de um ofício endereçado aos chefes de poder e a outras autoridades tratadas por Vossa Excelência deve ser:",
+    "options": [
+      "Senhor seguido do respectivo cargo, como em 'Senhor Ministro,' ou 'Senhor Prefeito,'.",
+      "Digníssimo Senhor Doutor acompanhado do título acadêmico do destinatário.",
+      "Ilustríssimo Servidor Público titular da pasta executiva.",
+      "Prezado Amigo e Mui Digno representante governamental.",
+      "Vossa Excelentíssima Majestade Administrativa em exercício."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segundo o Manual de Redação da Presidência da República (3ª Edição), o vocativo para autoridades tratadas por Vossa Excelência deve ser 'Senhor' seguido do cargo (ex: 'Senhor Ministro,', 'Senhor Prefeito,')."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No uso de ferramentas de informática na rede administrativa municipal, uma rede privada baseada nos protocolos de comunicação da Internet, com acesso restrito e seguro aos servidores internos para compartilhamento de formulários, sistemas de protocolo e notícias corporativas, é classificada como:",
+    "options": [
+      "Internet aberta.",
+      "Bluetooth comunitário.",
+      "World Wide Web livre.",
+      "Intranet.",
+      "Firewall passivo."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Intranet é uma rede de acesso privado e exclusivo dos funcionários/servidores de uma organização, construída com base nos mesmos protocolos da Internet."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No ambiente escolar, a garantia do direito à educação sob a égide do Estatuto da Criança e do Adolescente (ECA) e normas de proteção integral impõe à equipe escolar, incluindo a secretaria e o corpo técnico, o dever institucional preventivo de:",
+    "options": [
+      "Punir com suspensão sumária e isolamento físico qualquer aluno com dificuldade de aprendizagem.",
+      "Promover ações permanentes de conscientização, prevenção e enfrentamento ao bullying, à intimidação sistemática e a qualquer forma de violência.",
+      "Ocultar ocorrências de agressão no ambiente escolar para não prejudicar a reputação da unidade de ensino.",
+      "Cobrar indenização financeira compulsória dos pais em casos de desavenças corriqueiras entre discentes.",
+      "Repassar dados de alunos envolvidos em conflitos para veículos de comunicação sensacionalistas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Com a evolução legislativa do ECA e normas de proteção à infância (como a Lei do Bullying - Lei 13.185/2015), as escolas têm o dever de promover medidas permanentes de conscientização, prevenção e combate à violência e ao bullying."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Seção III do Capítulo I do Título VII da Lei Orgânica do Município de Aparecida de Goiânia-GO, ao tratar da Educação, preconiza que o Município garantirá a assistência ao educando no ensino fundamental por meio de programas suplementares de:",
+    "options": [
+      "Crédito imobiliário para aquisição de residência própria pelo estudante.",
+      "Isenção de tributos federais para familiares de primeiro grau.",
+      "Material didático-escolar, transporte, alimentação e assistência à saúde.",
+      "Contratação de tutores internacionais particulares subsidiados.",
+      "Empréstimo financeiro bancário com juros reduzidos para compra de vestuário."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Em simetria com a Constituição Federal (Art. 208, VII), o atendimento ao educando compreende programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 18 da Lei nº 13.709/2018 (LGPD) lista os direitos dos titulares de dados pessoais frente às entidades controladoras. No âmbito da secretaria escolar, é expressamente reconhecido ao responsável pelo aluno o direito de requerer e obter da escola:",
+    "options": [
+      "Alteração discricionária das notas bimestrais sem submissão aos registros do conselho de classe.",
+      "O cancelamento compulsório da frequência escolar independentemente das regras da LDB.",
+      "Substituição sumária dos servidores do atendimento por prepostos de sua indicação.",
+      "O pagamento de gratificação em dinheiro pelo fornecimento dos dados no ato da matrícula.",
+      "Confirmação da existência de tratamento e a correção de dados pessoais incompletos, inexatos ou desatualizados."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Nos termos do Art. 18, incisos I e III da LGPD, o titular dos dados tem o direito de obter do controlador a confirmação da existência de tratamento e a correção de dados incompletos, inexatos ou desatualizados."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Um estudante que concluiu etapas da educação básica em outro país apresenta seus documentos acadêmicos para ingresso em uma escola municipal de Aparecida de Goiânia. O procedimento administrativo legal destinado a reconhecer formalmente a correspondência desses estudos realizados no exterior com o sistema de ensino brasileiro denomina-se:",
+    "options": [
+      "Processo de Equivalência de Estudos (ou Reconhecimento de Estudos).",
+      "Mandado de reintegração diplomática.",
+      "Revogação tácita de escolaridade pregressa.",
+      "Interdição consular de prontuário.",
+      "Matrícula excepcional sem validade jurídica."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O processo formal de validação e convalidação de estudos realizados fora do país perante o sistema educacional nacional chama-se Processo de Equivalência de Estudos (ou Reconhecimento de Estudos)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Durante o horário de pico das matrículas, a secretaria escolar encontra-se lotada e com filas de espera. Nessas circunstâncias, uma conduta profissional alinhada ao trabalho em equipe e à inteligência emocional no ambiente administrativo consiste em:",
+    "options": [
+      "Abandonar o posto de atendimento e trancar a secretaria para evitar sobrecarga de trabalho.",
+      "Demonstrar irritação ostensiva perante os cidadãos para demonstrar a complexidade do serviço.",
+      "Discutir asperamente com os colegas de equipe para apontar publicamente eventuais falhas individuais.",
+      "Manter a tranquilidade, cooperar com os colegas na triagem e organização do fluxo de atendimento e comunicar com clareza a ordem de chamamento.",
+      "Atender apenas pessoas conhecidas e amigos de infância, deixando os demais para o dia seguinte."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A conduta profissional fundamentada na inteligência emocional e no trabalho em equipe busca manter a calma, atuar de forma colaborativa com a equipe na triagem e atender aos cidadãos de forma clara, organizada e eficiente."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 3º da Lei nº 9.394/1996 (LDB) relaciona os princípios que norteiam o ensino no território nacional. O inciso XI desse dispositivo consagra como um princípio formativo a:",
+    "options": [
+      "Supressão total das manifestações comunitárias no ambiente pedagógico.",
+      "Vinculação entre a educação escolar, o trabalho e as práticas sociais.",
+      "Desvinculação absoluta entre o aprendizado formal e a vida em comunidade.",
+      "Priorização do ensino técnico em substituição ao desenvolvimento humanístico.",
+      "Restrição do ensino à memorização mecânica de regras gramaticais e fórmulas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme o Art. 3º, inciso XI da LDB, o ensino será ministrado com base no princípio da 'vinculação entre a educação escolar, o trabalho e as práticas sociais'."
+  }
+]

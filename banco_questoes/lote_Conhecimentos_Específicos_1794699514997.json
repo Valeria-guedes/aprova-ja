@@ -1,0 +1,86 @@
+[
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Segundo as diretrizes do Manual de Redação da Presidência da República (3ª Edição, 2018), o correio eletrônico (e-mail) institucional é uma forma legítima de comunicação oficial. Para assegurar a validade e a formalidade de um e-mail oficial expedido pela secretaria escolar, recomenda-se que:",
+    "options": [
+      "Sejam utilizadas contas de provedores particulares gratuitos e emojis de caráter pessoal na assinatura.",
+      "O campo 'Assunto' permaneça sempre em branco para preservar o sigilo das informações internas.",
+      "Seja emitido a partir de endereço institucional oficial, contenha assunto claro e conciso e encerre com assinatura padronizada com nome, cargo e órgão expedidor.",
+      "O texto dispense a observância das regras gramaticais da norma culta por se tratar de ambiente digital dinâmico.",
+      "Seja enviado em cópia aberta para todos os contatos pessoais do catálogo do servidor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "De acordo com o Manual de Redação da Presidência da República, as comunicações oficiais por e-mail devem partir do endereço institucional oficial, apresentar assunto claro e conciso, seguir a norma culta e ter assinatura padronizada identificando o remetente, cargo e órgão."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com o Art. 206, VI, da Constituição Federal de 1988, o ensino será ministrado com base no princípio da gestão democrática do ensino público, na forma da lei. No cotidiano da unidade escolar municipal, a gestão democrática concretiza-se fundamentalmente por meio:",
+    "options": [
+      "Da centralização exclusiva das decisões orçamentárias e pedagógicas na figura individual do diretor da escola.",
+      "Da participação dos profissionais da educação na elaboração do projeto pedagógico da escola e da participação das comunidades escolar e local em conselhos escolares ou equivalentes.",
+      "Da eleição direta de alunos da educação infantil para gerenciar a aplicação de verbas públicas municipais.",
+      "Do fechamento das reuniões pedagógicas e conselhos de classe para membros da comunidade externa.",
+      "Da terceirização irrestrita de todas as atribuições pedagógicas e administrativas da secretaria escolar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme a legislação educacional (CF/88 e LDB, Art. 14), a gestão democrática do ensino público efetiva-se mediante a participação dos profissionais da educação na elaboração do projeto pedagógico e a participação das comunidades escolar e local em conselhos escolares ou órgãos equivalentes."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Educação de Jovens e Adultos (EJA) é destinada àqueles que não tiveram acesso ou continuidade de estudos nos ensinos fundamental e médio na idade própria. Segundo o Art. 38, § 1º, da Lei nº 9.394/1996 (LDB), os exames supletivos realizar-se-ão nos níveis de conclusão do ensino fundamental e do ensino médio para os maiores de, respectivamente:",
+    "options": [
+      "14 (quatorze) e 16 (dezesseis) anos.",
+      "15 (quinze) e 18 (dezoito) anos.",
+      "16 (dezesseis) e 18 (dezoito) anos.",
+      "15 (quinze) e 21 (vinte e um) anos.",
+      "18 (dezoito) e 21 (vinte e um) anos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 38, § 1º, da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996) prevê que os exames supletivos realizar-se-ão no nível de conclusão do ensino fundamental para os maiores de 15 (quinze) anos e no nível de conclusão do ensino médio para os maiores de 18 (dezoito) anos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), em consonância com a Lei nº 13.010/2014, assegura à criança e ao adolescente o direito de serem educados e cuidados sem o uso de castigo físico ou de tratamento cruel ou degradante. Se um servidor escolar presenciar um ato de agressão física contra um estudante no recinto da escola, sua conduta funcional e ética deve ser:",
+    "options": [
+      "Omitir-se, considerando que o zelo disciplinar sobre o estudante cabe exclusivamente aos seus pais biológicos.",
+      "Intervir para cessar a agressão, proteger a integridade do educando e comunicar imediatamente o fato à direção da escola para encaminhamento aos órgãos competentes.",
+      "Aguardar o encerramento do bimestre letivo para relatar o caso de forma anônima na ata do conselho de classe.",
+      "Divulgar imagens da agressão em redes sociais pessoais para gerar engajamento e repúdio público.",
+      "Isolar o estudante agredido em sala fechada até que a família pague taxas de reparação disciplinar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Constitui dever ético e funcional do servidor escolar intervir prontamente para interromper qualquer violação de direitos ou violência, garantindo a proteção e integridade do estudante e reportando a ocorrência à gestão da escola para os devidos encaminhamentos legais aos órgãos de proteção (como Conselho Tutelar)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Ao atender uma pessoa com deficiência auditiva (surda) na secretaria escolar que se comunica por Língua Brasileira de Sinais (Libras) ou por escrita, o atendente deve pautar seu comportamento pelos princípios de acessibilidade e cortesia. É uma prática adequada de atendimento:",
+    "options": [
+      "Falar em voz muito alta ou gritar com a pessoa para tentar fazer-se ouvido no balcão.",
+      "Recusar o atendimento e exigir que a pessoa retorne acompanhada de um curador judicial.",
+      "Manter contato visual direto, utilizar comunicação clara e paciente, recorrer à escrita ou a intérprete de Libras da rede, garantindo a compreensão mútua.",
+      "Ignorar a presença do cidadão até que outro servidor com formação médica assuma o posto.",
+      "Encaminhar sumariamente a pessoa para a secretaria de saúde sem ouvir a demanda escolar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "No atendimento ao público com deficiência auditiva/surdo, a acessibilidade e o respeito exigem manter contato visual, paciência, clareza na linguagem e a utilização de meios alternativos de comunicação como a escrita e o auxílio de intérprete de Libras."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na conservação e preservação de documentos escolares físicos, quando um lote de prontuários antigos apresenta infestação ativa de insetos xilófagos (como brocas e cupins), o procedimento técnico de combate biológico indicado é a:",
+    "options": [
+      "Incineração imediata de todo o acervo histórico da escola.",
+      "Lavagem das pastas com água sanitária e sabão em pó.",
+      "Desinfestação (fumigação ou expurgo controlado com produtos adequados e profissionais habilitados).",
+      "Exposição prolongada ao sol do meio-dia sobre o piso de terra batida.",
+      "Aplicação de verniz sintético impermeabilizante sobre as folhas manuscritas."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Para combater infestações de insetos em acervos documentais sem destruir o suporte de papel, o procedimento técnico correto recomendado pela arquivologia é a desinfestação por meio de expurgo ou fumigação realizada por profissionais especializados."
+  }
+]

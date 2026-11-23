@@ -1,0 +1,450 @@
+[
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere a leitura do seguinte trecho: 'A conformidade dos arquivos escolares com a Lei Geral de Proteção de Dados (LGPD) impõe que certidões, laudos psicológicos e registros socioeconômicos dos educandos recebam tratamento restrito, mitigando o risco de exposição indevida da vida privada discente.' A partir das informações expressas e inferidas, é correto afirmar que:",
+    "options": [
+      "Todos os documentos que contêm dados sensíveis dos estudantes devem ser disponibilizados livremente para consulta no saguão do colégio.",
+      "O tratamento rigoroso e restrito de informações pessoais dos alunos na secretaria é uma exigência legal voltada à preservação da intimidade discente.",
+      "A LGPD proíbe peremptoriamente a escola de arquivar qualquer tipo de laudo médico ou histórico pedagógico dos seus alunos matriculados.",
+      "O acesso irrestrito de qualquer munícipe aos registros socioeconômicos dos alunos da rede pública é facultado em nome do princípio da publicidade ampla.",
+      "A gestão escolar deve descartar relatórios pedagógicos antigos anualmente para eliminar o passivo documental da instituição de ensino."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O trecho afirma expressamente que a LGPD exige um tratamento restrito a dados pessoais e sensíveis dos alunos (como certidões e laudos), com a finalidade de mitigar a exposição indevida da vida privada (intimidade discente)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "A adequação da linguagem às diferentes situações comunicativas — exigindo formalidade em ofícios institucionais e permitindo coloquialidade em conversas orais descontraídas entre colegas no intervalo — refere-se à variação linguística denominada:",
+    "options": [
+      "Diatópica ou espacial.",
+      "Diacrônica ou histórica.",
+      "Diafásica ou estilística/situacional.",
+      "Diastrática baseada na renda familiar.",
+      "Diamésica ligada à caligrafia do redator."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A variação diafásica (ou estilística/situacional) refere-se às alterações de registro da linguagem segundo a situação comunicativa em que o falante se encontra (grau de formalidade ou informalidade)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere o vocábulo 'termo' empregado nas três sentenças: I. 'O candidato assinou o TERMO de posse'; II. 'Na oração, o sujeito é um TERMO essencial'; III. 'O prazo de inscrição chegou ao seu TERMO'. O fenômeno semântico evidenciado é a:",
+    "options": [
+      "Homonímia perfeita decorrente de raízes etimológicas sem qualquer parentesco conceitual.",
+      "Polissemia, caracterizada pela multiplicidade de significados assumidos por uma mesma palavra em contextos de uso distintos.",
+      "Antonímia reflexiva de valor gramatical.",
+      "Paronímia gráfica com pronúncia idêntica.",
+      "Metáfora poética em todas as ocorrências textuais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A polissemia ocorre quando uma única palavra possui múltiplos significados dependendo do contexto de uso (documento oficial, conceito gramatical ou fim/limite)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Analise a construção sintática: 'O diretor da escola avistou o aluno saindo da secretaria.' Essa frase apresenta ambiguidade estrutural porque:",
+    "options": [
+      "A oração reduzida de gerúndio permite interpretar que tanto o diretor quanto o aluno poderiam estar saindo da secretaria naquele momento.",
+      "O substantivo 'escola' possui duplo sentido gramatical de prédio físico e conceito pedagógico.",
+      "O verbo 'avistar' exige obrigatoriamente complemento indireto preposicionado com a preposição de.",
+      "O termo 'secretaria' é polissêmico e confunde o leitor com a Secretaria Municipal de Saúde.",
+      "Não há pontuação indicando o sujeito composto elíptico na oração principal subordinada."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A oração reduzida de gerúndio 'saindo da secretaria' pode se referir sintaticamente tanto ao sujeito da oração principal ('o diretor') quanto ao objeto direto ('o aluno'), gerando ambiguidade de interpretação."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No período 'O município investiu na infraestrutura física das salas de aula. NESSE SENTIDO, foram adquiridos mobiliários ergonômicos e ventiladores para todos os blocos escolares', a locução destacada estabelece um nexo coesivo de:",
+    "options": [
+      "Contradição radical com o enunciado antecedente.",
+      "Continuidade lógica e conformidade com a diretriz anteriormente exposta.",
+      "Condição prévia para a anulação da despesa municipal.",
+      "Tempo cronológico regressivo ao passado colonial.",
+      "Concessão a uma norma que deveria ser derrogada."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A locução conjuntiva 'nesse sentido' expressa continuidade de raciocínio, desdobramento ou conformidade com o tema apresentado no período anterior."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em um 'Relatório Circunstanciado de Danos Patrimoniais', o auxiliar de secretaria redige: 'Às 18h15, o vigilante percebeu o vidro quebrado. Em seguida, acionou a coordenação, isolou o local e registrou as fotografias do armário violado.' A tipologia textual predominante nesse parágrafo é a sequência:",
+    "options": [
+      "Argumentativa, voltada a convencer o leitor mediante silogismos formais.",
+      "Descritiva estática, focada apenas na cor dos armários e das portas.",
+      "Narrativa, caracterizada pelo encadeamento temporal de ações sucessivas transcorridas no tempo e no espaço.",
+      "Injuntiva, determinando ordens e comandos prescritivos ao leitor em tom imperativo.",
+      "Expositiva teórica, conceituando o delito de furto segundo o Código Penal."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O trecho descreve uma sucessão de ações ordenadas cronologicamente no tempo e no espaço ('Às 18h15', 'Em seguida', etc.), o que caracteriza a tipologia narrativa."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Ao defender a ampliação das linhas de transporte escolar em Aparecida de Goiânia, um conselheiro afirmou: 'A ausência de condução regular nas rotas rurais eleva diretamente os índices de faltas dos estudantes; logo, assegurar ônibus diários reduzirá a evasão escolar na região periférica.' Esse raciocínio apoia-se em um argumento fundamentado em:",
+    "options": [
+      "Causa e efeito (relação causal), demonstrando a interdependência entre o motivo (falta de transporte) e o resultado gerado (evasão escolar).",
+      "Apelo à autoridade poética tradicional.",
+      "Crença folclórica destituída de lógica prática.",
+      "Ataque pessoal injurioso aos motoristas da rede municipal.",
+      "Analogia mística sem base fática verificável."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O argumento estabelece uma relação explícita de causa (a falta de condução) e seu efeito direto sobre os alunos (o aumento de faltas e consequente evasão escolar)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na frase 'O SABER dos velhos educadores enriquece a rotina da secretaria', o vocábulo destacado exemplifica o processo morfológico de:",
+    "options": [
+      "Derivação parassintética.",
+      "Derivação imprópria (conversão), pela transposição da classe de verbo para substantivo mediante acoplamento de artigo.",
+      "Derivação regressiva com perda de fonema desinencial.",
+      "Composição por aglutinação erudita.",
+      "Neologismo sintático de origem francesa."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A palavra 'saber', originalmente um verbo no infinitivo, foi convertida em substantivo pelo uso do artigo definido 'O', caracterizando o processo de derivação imprópria ou conversão."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que a palavra 'QUE' funciona gramaticalmente como CONJUNÇÃO INTEGRANTE segundo a norma-padrão.",
+    "options": [
+      "Os requerimentos QUE foram deferidos estão na mesa do diretor.",
+      "Que bela iniciativa a escola pública promoveu neste ano letivo!",
+      "A secretária informou QUE as matrículas serão abertas pontualmente amanhã.",
+      "O auxiliar tinha QUE terminar a listagem antes do encerramento do expediente.",
+      "O coordenador falava tanto QUE todos acabavam ficando exaustos."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Na alternativa C, a palavra 'que' introduz uma oração subordinada substantiva objetiva direta ('informou isso'), atuando como conjunção integrante."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na frase 'Publicaram-se as portarias municipais no diário oficial da cidade', a partícula 'se' classifica-se sintática e morfologicamente como:",
+    "options": [
+      "Índice de indeterminação do sujeito, tornando o verbo invariável.",
+      "Pronome apassivador (partícula apassivadora), integrando oração na voz passiva sintética cujo sujeito paciente é 'as portarias municipais'.",
+      "Pronome reflexivo recíproco em função de objeto indireto.",
+      "Conjunção subordinativa condicional deslocada.",
+      "Partícula de realce estilística dispensável para o sentido da oração."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A frase está na voz passiva sintética, equivalente a 'As portarias municipais foram publicadas'. O elemento 'se' atua como partícula apassivadora e o termo 'as portarias municipais' é o sujeito paciente."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Analise os termos destacados: I. 'A dedicação DO DIRETOR garantiu as reformas da escola.' II. 'A obediência ÀS DIRETRIZES é obrigatória a todos os servidores.' A correta classificação sintática dos termos I e II é, respectivamente:",
+    "options": [
+      "Complemento nominal e complemento nominal.",
+      "Adjunto adnominal e adjunto adnominal.",
+      "Adjunto adnominal (sentido ativo) e complemento nominal (sentido passivo subordinado a substantivo abstrato transitivo).",
+      "Objeto indireto e agente da passiva.",
+      "Sujeito composto e predicativo do sujeito."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Em I, 'do diretor' possui sentido ativo (o diretor se dedica) e liga-se a um substantivo abstrato, atuando como adjunto adnominal. Em II, 'às diretrizes' possui sentido passivo (as diretrizes são obedecidas) e completa um substantivo abstrato, atuando como complemento nominal."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No período 'O auxiliar de secretaria protocolou as guias de recolhimento, organizou as pastas de arquivo e despachou as certidões pendentes', as orações que o compõem classificam-se sintaticamente como:",
+    "options": [
+      "Orações coordenadas entre si, sendo as duas primeiras assindéticas e a última sindética aditiva.",
+      "Orações subordinadas substantivas subjetivas encadeadas.",
+      "Orações subordinadas adjetivas restritivas paralelas.",
+      "Orações coordenadas sindéticas alternativas obrigatórias.",
+      "Orações subordinadas adverbiais consecutivas de resultado."
+    ],
+    "correctAnswer": 0,
+    "explanation": "As orações são independentes sintaticamente. As duas primeiras não trazem conjunção (coordenadas assindéticas) e a terceira é introduzida pela conjunção aditiva 'e' (coordenada sindética aditiva)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em 'Todos os servidores tinham a convicção DE QUE O NOVO SISTEMA INFORMATIZADO AGILIZARIA O ATENDIMENTO', a oração destacada desempenha a função de:",
+    "options": [
+      "Subordinada Substantiva Completiva Nominal, pois completa o sentido do substantivo abstrato 'convicção'.",
+      "Subordinada Substantiva Objetiva Indireta, pois completa verbo transitivo indireto.",
+      "Subordinada Substantiva Subjetiva, funcionando como sujeito da oração principal.",
+      "Subordinada Adjetiva Explicativa com elipse do pronome relativo.",
+      "Subordinada Adverbial Concessiva encabeçada por preposição."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A oração é introduzida por preposição e completa o sentido do substantivo abstrato 'convicção', classificando-se como oração subordinada substantiva completiva nominal."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Compare as orações: I. 'Não saia sem o crachá, POIS A ENTRADA NA SECRETARIA É CONTROLADA.' II. 'O candidato cometeu fraude grave; FOI, POIS, ELIMINADO DO CERTAME PÚBLICO.' Os valores semânticos de 'pois' em I e II são, respectivamente:",
+    "options": [
+      "Explicativo (conjunção anteposta ao verbo) e Conclusivo (conjunção posposta ao verbo da segunda oração).",
+      "Conclusivo em ambos os casos sem distinção funcional.",
+      "Causal e Adversativo.",
+      "Temporal e Concessivo.",
+      "Comparativo e Proporcional."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Em I, 'pois' vem antes do verbo da oração que introduz, tendo valor explicativo. Em II, 'pois' aparece deslocado e posposto ao verbo ('foi'), assumindo valor conclusivo."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que a concordância do verbo atende com rigor às regras da norma-padrão para verbos impessoais e pessoais.",
+    "options": [
+      "Faziam três meses que os servidores aguardavam o novo lote de pastas suspensas.",
+      "Deve haverem justificativas plausíveis para a ausência dos membros do conselho.",
+      "Havia muitos munícipes aguardando a abertura do portão da escola municipal.",
+      "Havia ocorrido sérios transtornos durante a realização da prova diagnóstica.",
+      "Vão fazer dez dias que o secretário publicou a portaria de nomeação no diário oficial."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O verbo 'haver' no sentido de existir é impessoal e permanece no singular: 'Havia muitos munícipes...'. Nas demais alternativas há erros de concordância com verbos impessoais ('fazia', 'deve haver', 'haviam ocorrido' e 'vai fazer')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No que tange à concordância verbal com indicação de horas com os verbos 'dar', 'bater' e 'soar', assinale a frase gramaticalmente CORRETA.",
+    "options": [
+      "Deu quatro horas no relógio da secretaria quando terminamos o atendimento.",
+      "Deram quatro horas no relógio da secretaria quando terminamos o atendimento.",
+      "O relógio da matriz bateram três horas da tarde durante a solenidade escolar.",
+      "Soou quatro badaladas na torre do colégio municipal antes da chamada.",
+      "Deram uma hora da tarde no relógio de ponto dos funcionários municipais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Os verbos dar, bater e soar concordam com o numeral de horas quando não há sujeito explícito como 'o relógio'. Como 'quatro horas' é plural, a forma correta é 'Deram quatro horas'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em relação ao uso da locução 'haja vista', assinale a frase que se encontra em conformidade com o padrão culto tradicional consagrado pela gramática normativa.",
+    "options": [
+      "Haja vista os relatórios técnicos apresentados pela diretoria pedagógica.",
+      "Hajam vistas aos relatórios técnicos apresentados pela diretoria pedagógica.",
+      "Haja vistas as planilhas financeiras encaminhadas pelo departamento de compras.",
+      "Hajam visto os problemas ocorridos na impressão dos certificados escolares.",
+      "Haja vistorias os processos administrativos arquivados na secretaria."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A locução 'haja vista' é invariável na tradição gramatical antes de substantivos no plural ('Haja vista os relatórios...')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que a flexão do adjetivo composto referente a cores obedece rigorosamente às regras de concordância nominal.",
+    "options": [
+      "As servidoras encomendaram várias pastas verdes-oliva para os arquivos.",
+      "Os alunos usavam uniformes azuis-marinho durante a cerimônia de premiação.",
+      "Compraram-se pastas amarelo-escuras para separar os documentos discentes.",
+      "Foram adquiridas toalhas verdes-claros para a recepção dos pais no colégio.",
+      "Os estagiários vestiam camisas cinzas-chumbo durante o evento da prefeitura."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Em adjetivos compostos formados por dois adjetivos (amarelo + escuras), apenas o segundo elemento varia para concordar com o substantivo a que se refere ('pastas amarelo-escuras'). Quando um dos elementos é um substantivo (oliva, chumbo) ou expressão invariável (azul-marinho), as regras de concordância diferem."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No que se refere à regência verbal de acordo com a norma culta, assinale a oração formulada em conformidade com as regras gramaticais.",
+    "options": [
+      "O secretário municipal respondeu o ofício encaminhado pela promotoria com brevidade.",
+      "O secretário municipal respondeu ao ofício encaminhado pela promotoria com brevidade.",
+      "O servidor pagou o fornecedor ontem com a verba descentralizada do município.",
+      "A diretora perdoou ao atraso injustificado dos alunos na primeira aula da manhã.",
+      "O auxiliar preferia mil vezes organizar os livros do que atender telefonemas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O verbo 'responder' no sentido de dar resposta a um documento exige regência indireta com a preposição 'a' ('respondeu ao ofício')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que o verbo 'agradar' foi empregado com regência condizente com a norma-padrão no sentido de 'ser agradável / comprazer / satisfazer'.",
+    "options": [
+      "As propostas pedagógicas apresentadas pelo novo diretor agradaram aos professores.",
+      "As propostas pedagógicas apresentadas pelo novo diretor agradaram os professores.",
+      "A mãe agradava ao filho pequeno acariciando seus cabelos no banco da secretaria.",
+      "O regulamento da prefeitura não agrada os funcionários mais conservadores do setor.",
+      "A conferência anual agradou todos os presentes no anfiteatro do colégio municipal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "No sentido de ser agradável ou satisfazer, o verbo 'agradar' exige complemento indireto regido pela preposição 'a' ('agradaram aos professores')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que preenche com correção e estrita observância à regência nominal as lacunas do período: 'Aquele procedimento era inerente _____ rotina da secretaria, propício _____ melhoria do fluxo e compatível _____ as leis municipais.'",
+    "options": [
+      "À – à – com",
+      "A – da – para",
+      "Com – ante – contra",
+      "De – sobre – por",
+      "Perante – de – sob"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A regência nominal dos termos exige: 'inerente A' + 'a rotina' = À; 'propício A' + 'a melhoria' = À; e 'compatível COM' as leis."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a opção em que a vírgula foi empregada para separar uma oração subordinada adverbial deslocada da sua posição habitual.",
+    "options": [
+      "Os alunos trouxeram canetas, réguas, borrachas e cadernos novos para a sala.",
+      "Quando os portões da escola foram abertos pela manhã, centenas de pais já aguardavam atendimento.",
+      "O coordenador pedagógico, professor dedicado e cortês, encerrou a assembleia discente.",
+      "Aparecida de Goiânia, cidade acolhedora e desenvolvida, comemora novos investimentos.",
+      "A secretária afirmou categoricamente que não haverá prorrogação nas matrículas escolares."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Quando os portões da escola foram abertos pela manhã' é uma oração subordinada adverbial temporal posicionada antes da oração principal, exigindo a vírgula devido ao deslocamento."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "De acordo com o Acordo Ortográfico vigente, os acentos diferenciais foram quase totalmente abolidos, mantendo-se apenas casos específicos obrigatórios ou facultativos. Assinale a frase que exemplifica o emprego OBRIGATÓRIO do acento diferencial.",
+    "options": [
+      "Ontem o secretário não pôde comparecer ao colégio, mas hoje ele pode assinar o termo de posse.",
+      "Ele para o veículo diariamente em frente ao portão de entrada da secretaria municipal.",
+      "O pelo do animal resgatado pela guarda escolar estava limpo e devidamente tratado.",
+      "O polo tecnológico de Aparecida de Goiânia receberá novos investimentos em inovação.",
+      "A pera que a estagiária levou para o lanche da tarde estava perfeitamente madura."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O acento diferencial na forma verbal 'pôde' (passado) em oposição a 'pode' (presente) permanece OBRIGATÓRIO pelo Acordo Ortográfico."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere a distinção semântica entre os vocábulos parônimos 'retificar' e 'ratificar'. Assinale a alternativa que preenche correta e respectivamente as lacunas do período: 'A diretoria da escola precisou _____ os dados incorretos da ata anterior e, em seguida, _____ todos os termos aprovados pelo colegiado.'",
+    "options": [
+      "Ratificar – retificar",
+      "Retificar – ratificar",
+      "Retificar – retificar",
+      "Ratificar – ratificar",
+      "Retificar – deferir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Retificar' significa corrigir ou emendar dados incorretos; 'ratificar' significa confirmar ou validar termos aprovados."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na gestão documental de uma unidade escolar, a direção precisa reunir formalmente os servidores para deliberar sobre o calendário letivo. Assinale a alternativa que apresenta a correta distinção funcional entre os gêneros textuais 'Convocação' e 'Convite'.",
+    "options": [
+      "A convocação possui caráter coercitivo e impositivo, determinando a obrigatoriedade de comparecimento do destinatário, enquanto o convite possui natureza facultativa e cortês.",
+      "O convite é um ato privativo do Poder Judiciário destinado a intimar testemunhas, ao passo que a convocação é informal e dispensável.",
+      "A convocação é enviada exclusivamente a munícipes e pais de alunos, enquanto o convite é obrigatório a todos os servidores públicos municipais.",
+      "Ambos são expedientes orais desprovidos de registro em ata ou publicação prévia em mural escolar.",
+      "O convite exige comprovação por protocolo assinado sob pena de desconto em folha, diferentemente da convocação."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A convocação é uma comunicação formal de presença obrigatória (caráter coercitivo), ao passo que o convite é uma solicitação cortês cuja presença é opcional/facultativa."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Leia o seguinte fragmento: 'O programa municipal de busca ativa em Aparecida de Goiânia identificou que grande parte do abandono escolar decorre da necessidade precoce de inserção juvenil no mercado informal de trabalho.' Com base na compreensão e nos mecanismos de inferência do texto, depreende-se que:",
+    "options": [
+      "A evasão escolar no município está prioritariamente desvinculada de condicionantes econômicos e sociais das famílias.",
+      "Fatores socioeconômicos de subsistência exercem impacto direto na permanência dos jovens matriculados na rede pública de ensino.",
+      "As escolas municipais fecharão as turmas destinadas a jovens trabalhadores para evitar o abandono nas salas de aula.",
+      "O trabalho informal infanto-juvenil é formalmente regulamentado e incentivado pelas secretarias municipais de educação.",
+      "A busca ativa constatou que a totalidade dos estudantes goianos prefere abandonar os estudos para empreender."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O texto indica que o abandono decorre da necessidade de trabalhar precocemente para a subsistência, permitindo inferir que fatores socioeconômicos impactam diretamente a permanência escolar."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No atendimento diário na secretaria escolar, o servidor público depara-se com cidadãos que empregam construções sintáticas como 'Nós chegamo agora' ou 'Os papel tá aí'. Em relação à variação linguística e ao preconceito linguístico, assinale a conduta e análise corretas à luz da ciência da linguagem.",
+    "options": [
+      "Essas estruturas constituem corrupções fônicas desprovidas de lógica e devem ser repreendidas ostensivamente pelo servidor no ato do atendimento ao público.",
+      "Essas variantes populares revelam a sistematicidade de regras gramaticais orais de base sociocultural (variação diastrática), devendo o servidor acolher o usuário com urbanidade e adequar sua própria resposta à situação comunicativa.",
+      "A variação diatópica é a única que justifica tais fenômenos, sendo proibido por lei o atendimento a usuários que não se expressem estritamente na norma-padrão.",
+      "O uso de estruturas coloquiais no atendimento presencial invalida juridicamente a fé pública dos documentos apresentados pelo munícipe.",
+      "Tais manifestações representam arcaísmos próprios da linguagem quinhentista preservados unicamente no estado de Goiás."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Linguística compreende a variação diastrática como manifestação legítima com regras próprias de grupos socioculturais. Cabe ao servidor agir com urbanidade e sem preconceito linguístico no atendimento ao público."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere a oração: 'A coordenadora atendeu a mãe da aluna QUE ESTAVA NERVOSA.' Essa sentença apresenta uma falha de clareza textual decorrente de:",
+    "options": [
+      "Ambiguidade estrutural (anfibologia), pois o pronome relativo pode referir-se sintaticamente tanto à mãe quanto à aluna.",
+      "Polissemia lexical do substantivo 'coordenadora'.",
+      "Pleonasmo vicioso pelo emprego de conectivo integrante dispensável.",
+      "Ironia amparada na inversão sarcástica do predicativo.",
+      "Citação indireta defeituosa com quebra de paralelismo semântico."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trata-se de ambiguidade estrutural ou anfibologia, pois a oração adjetiva introduzida por 'que' pode modificar tanto o núcleo 'mãe' quanto o núcleo 'aluna'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em um grupo de mensagens institucionais, um funcionário comentou: 'O sistema de internet da secretaria está tão rápido hoje que até os computadores de última geração tiraram férias enquanto a tela carrega.' O mecanismo de produção de sentidos prioritário na frase é a:",
+    "options": [
+      "Metonímia conceitual pura.",
+      "Ironia, combinada com hipérbole, para evidenciar enfaticamente a lentidão do serviço de rede.",
+      "Prosopopeia restrita a conceitos abstratos da administração pública.",
+      "Citação textual extraída de manuais de informática da prefeitura.",
+      "Eufemismo para suavizar os custos de manutenção da tecnologia."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A afirmação de que o sistema está 'tão rápido' para indicar lentidão é uma ironia; dizer que os computadores 'tiraram férias' é um exagero intencional (hipérbole) para criticar a demora da rede."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a opção em que o pronome destacado exerce função de coesão catafórica, antecipando uma informação que ainda será esclarecida na frase.",
+    "options": [
+      "O secretário municipal homologou as inscrições; ESSAS homologações foram publicadas no portal.",
+      "Apenas desejamos ISTO: transparência plena na distribuição das vagas da rede municipal.",
+      "Os relatórios bimestrais foram entregues a tempo; ELES estavam devidamente assinados.",
+      "Aparecida de Goiânia tem investido em polos educacionais; ESSA iniciativa atrai novos munícipes.",
+      "O coordenador e o diretor conversaram no pátio; ESTE parecia bastante tranquilo com os resultados."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O pronome demonstrativo 'ISTO' atua de forma catafórica, pois antecipa o conteúdo que vem expresso logo a seguir ('transparência plena...')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere o texto: 'Regras da Secretaria Escolar: 1. Retire sua senha no totem de entrada. 2. Aguarde ser chamado pelo painel eletrônico. 3. Apresente documento oficial com foto.' A sequência textual predominante no texto é a:",
+    "options": [
+      "Narrativa, em razão da sucessão fictícia de ações pretéritas.",
+      "Descritiva, retratando o formato e o tamanho do totem de entrada.",
+      "Expositiva teórica, conceituando o direito de petição aos órgãos públicos.",
+      "Injuntiva, visto que estabelece instruções procedimentais e comandos diretos voltados a orientar o comportamento do interlocutor.",
+      "Argumentativa, visando convencer os usuários por meio de dados estatísticos do setor."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O texto injuntivo (ou instrucional) emprega verbos no imperativo ('Retire', 'Aguarde', 'Apresente') com a finalidade de fornecer instruções e orientar o comportamento do interlocutor."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Ao defender a ampliação de bibliotecas em escolas da periferia, o palestrante asseverou: 'Assim como o alimento é indispensável para o desenvolvimento físico do corpo humano, o livro é o nutriente fundamental para a formação cognitiva e social da criança.' O tipo de argumento utilizado é o:",
+    "options": [
+      "Argumento por autoridade legal.",
+      "Argumento por analogia (comparação de situações semelhantes para respaldar uma proposição).",
+      "Argumento ad hominem depreciativo.",
+      "Argumento baseado em comprovação puramente numérica e estatística.",
+      "Argumento por redução ao absurdo lógico."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O palestrante utiliza um argumento por analogia ao comparar a importância do alimento para o corpo com a importância do livro para a mente."
+  }
+]

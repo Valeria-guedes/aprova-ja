@@ -1,0 +1,464 @@
+[
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na rotina de controle acadêmico da secretaria escolar, a apuração da frequência discente é regulamentada pela Lei nº 9.394/1996 (LDB). Nos níveis fundamentais e médios da educação básica, a frequência mínima exigida para a aprovação do estudante, calculada sobre o total de horas letivas, é de:",
+    "options": [
+      "50% (cinquenta por cento).",
+      "60% (sessenta por cento).",
+      "70% (setenta por cento).",
+      "75% (setenta e cinco por cento).",
+      "85% (oitenta e cinco por cento)."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Segundo o Art. 24, VI, da LDB (Lei nº 9.394/1996), o controle de frequência fica a cargo da escola, exigindo-se a frequência mínima de 75% (setenta e cinco por cento) do total de horas letivas para aprovação."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em arquivologia aplicada à secretaria escolar, a organização dos prontuários e pastas individuais de alunos utiliza frequentemente o método de arquivamento alfabético. Considerando as regras de alfabetação, como deve ser arquivada a pasta do aluno 'Lucas Silva de Oliveira'?",
+    "options": [
+      "Lucas, Silva de Oliveira.",
+      "Silva de Oliveira, Lucas.",
+      "Oliveira, Lucas Silva de.",
+      "De Oliveira, Lucas Silva.",
+      "Oliveira de Silva, Lucas."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nas regras de alfabetação para nomes de pessoas físicas, considera-se o último sobrenome em primeiro lugar, seguido do prenome e dos sobrenomes intermediários. As partículas conectivas como 'de', 'da', 'do' não contam na ordenação do sobrenome principal e vão para o final da entrada. Assim, 'Lucas Silva de Oliveira' é arquivado como 'Oliveira, Lucas Silva de.'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em relação ao emprego dos fechos nas comunicações oficiais, segundo as prescrições do Manual de Redação da Presidência da República (3ª Edição, 2018), para autoridades de mesma hierarquia ou de hierarquia inferior à do remetente, deve-se utilizar o fecho:",
+    "options": [
+      "Respeitosamente,",
+      "Cordialmente,",
+      "Com estima e consideração,",
+      "Atenciosamente,",
+      "Saudações acadêmicas,"
+    ],
+    "correctAnswer": 3,
+    "explanation": "De acordo com o Manual de Redação da Presidência da República, usam-se apenas dois fechos para correspondências oficiais: 'Respeitosamente,' (para autoridades superiores) e 'Atenciosamente,' (para autoridades de mesma hierarquia ou de hierarquia inferior, bem como para particulares)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD) classifica determinadas categorias de dados como 'dados pessoais sensíveis'. Na rotina de matrícula e arquivos da secretaria escolar, é exemplo de dado pessoal sensível que exige salvaguardas especiais de proteção:",
+    "options": [
+      "O número da matrícula gerado pela secretaria escolar.",
+      "O nome completo do pai e da mãe do estudante.",
+      "Data de nascimento e a naturalidade do aluno.",
+      "O laudo médico com diagnóstico de condição de saúde ou deficiência do estudante.",
+      "O nome da rua e o bairro do endereço residencial da família."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nos termos do Art. 5º, II, da LGPD, dado pessoal sensível é aquele referente à origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico. Portanto, o laudo médico sobre saúde/deficiência do aluno enquadra-se como dado pessoal sensível."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No atendimento ao público nas escolas, o processo comunicativo entre a secretaria e os familiares pode ser prejudicado por ruídos. Considera-se um ruído de comunicação decorrente de falha do emissor:",
+    "options": [
+      "O uso excessivo de jargões burocráticos e termos técnicos incompreensíveis ao explicar a documentação exigida.",
+      "Escuta ativa e acolhedora prestada pelo auxiliar no momento do atendimento inicial.",
+      "Confirmação clara e objetiva do recebimento dos documentos por meio de protocolo formal.",
+      "Disponibilização de cartazes de orientação com linguagem acessível no mural de entrada.",
+      "O fornecimento de informações completas com cordialidade e precisão."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ruído na comunicação por falha do emissor ocorre quando este utiliza uma codificação inadequada da mensagem, como jargões burocráticos e vocabulário técnico de difícil compreesão para os usuários e responsáveis pelos estudantes."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Estatuto da Criança e do Adolescente (ECA - Lei nº 8.069/1990), em seu Art. 53, assegura direitos fundamentais ao estudante no espaço escolar. Dentre eles, é expressamente garantido à criança e ao adolescente o direito de:",
+    "options": [
+      "Escolher quais disciplinas optativas ou obrigatórias cursará sem obedecer à Base Nacional Comum Curricular.",
+      "Determinar o horário de início e término das aulas sem interferência da equipe diretiva.",
+      "Contestar critérios avaliativos, podendo recorrer às instâncias escolares superiores.",
+      "Vetar a presença de membros do Conselho Tutelar nas dependências da secretaria escolar.",
+      "Definir unilateralmente o calendário escolar e a fixação do período de férias dos docentes."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O Art. 53, III, do Estatuto da Criança e do Adolescente (ECA) expressamente estabelece o direito da criança e do adolescente de 'contestar critérios avaliativos, podendo recorrer às instâncias escolares superiores'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Livro de Registro de Matrícula constitui um dos instrumentos mais relevantes da rotina e escrituração da secretaria escolar. Sua função institucional primordial é:",
+    "options": [
+      "Anotar as advertências diárias aplicadas pela coordenação pedagógica aos discentes faltosos.",
+      "Registrar de forma perene e oficial a matrícula de cada aluno na unidade escolar, servindo como assentamento legal de sua vida escolar.",
+      "Servir de rascunho temporário até que o conselho de classe autorize o lançamento das notas bimestrais.",
+      "Controlar o estoque físico de materiais didáticos e merenda entregues pela prefeitura.",
+      "Substituir o diário de frequência individual preenchido pelo corpo docente."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Livro de Registro de Matrícula é um documento legal de escrituração escolar de guarda permanente (ou longa temporalidade), responsável por comprovar o vínculo e registrar oficialmente o ingresso e a trajetória acadêmica do aluno na instituição."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A conservação de documentos escolares em suporte de papel demanda cuidados técnicos preventivos contra agentes físicos e biológicos de deterioração. Assinale a medida adequada para a conservação desses documentos na secretaria:",
+    "options": [
+      "Armazenar os documentos próximos a janelas para receberem incidência direta de raios solares constantes.",
+      "Utilizar grampos e clipes metálicos suscetíveis à oxidação para juntar folhas definitivas de históricos escolares.",
+      "Manter o ambiente de guarda ventilado, limpo, com controle de umidade e longe do contato direto com o chão e paredes.",
+      "Aplicar cola plástica e fita adesiva comum sobre rasgos em certidões e diplomas antigos.",
+      "Umedecer periodicamente as prateleiras do arquivo para amenizar a temperatura da sala de arquivo."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A preservação de suportes de papel exige higienização constante, controle de umidade e temperatura relativa do ar, boa ventilação e afastamento de paredes e do piso para conter a ação de mofo, traças e outros agentes biológicos e físicos de deterioração."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na rotina administrativa da secretaria escolar municipal, um servidor recebe um e-mail com remetente falso, simulando ser do suporte de informática da prefeitura e solicitando o recadastramento imediato de login e senha sob ameaça de bloqueio. Essa prática criminosa é classificada como:",
+    "options": [
+      "Firewall.",
+      "Phishing.",
+      "Intranet.",
+      "Hardware.",
+      "Spooling."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Phishing é uma técnica de engenharia social que busca induzir o usuário a revelar dados confidenciais (senhas, dados pessoais ou de acesso) por meio de mensagens fraudulentas que se passam por instituições confiáveis."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme determina o Art. 212 da Constituição Federal de 1988, os Municípios aplicarão, anualmente, na manutenção e desenvolvimento do ensino, nunca menos do seguinte percentual da receita resultante de impostos, compreendida a proveniente de transferências:",
+    "options": [
+      "10% (dez por cento).",
+      "15% (quinze por cento).",
+      "18% (dezoito por cento).",
+      "25% (vinte e cinco por cento).",
+      "30% (trinta por cento)."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O Art. 212 da Constituição Federal dispõe que a União aplicará, anualmente, nunca menos de 18%, e os Estados, o Distrito Federal e os Municípios 25%, no mínimo, da receita resultante de impostos na manutenção e desenvolvimento do ensino."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei Orgânica do Município de Aparecida de Goiânia-GO, em consonância com a ordem constitucional sobre a Educação, consagra a gestão democrática do ensino público municipal. Esse princípio materializa-se na escola, prioritariamente, por meio da:",
+    "options": [
+      "Nomeação privativa de todos os cargos pedagógicos sem prévia exigência de concurso público.",
+      "Participação dos profissionais da educação na elaboração do projeto pedagógico e da comunidade escolar em conselhos escolares ou equivalentes.",
+      "Tomada de decisões técnico-pedagógicas exclusiva por parte de empresas privadas terceirizadas.",
+      "Extinção dos conselhos de classe para agilizar a publicação dos boletins escolares.",
+      "Centralização total das deliberações administrativas na sede do Poder Legislativo municipal."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A gestão democrática do ensino público se efetiva, nos termos da legislação educacional (LDB, Art. 14, e Constituição), mediante a participação dos profissionais da educação na elaboração do Projeto Político-Pedagógico e a atuação da comunidade escolar/local em conselhos escolares ou órgãos equivalentes."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Segundo os preceitos fundamentais da ética no serviço público, o auxiliar de secretaria que retarda injustificadamente a tramitação de uma transferência escolar por antipatia pessoal em relação ao responsável pelo aluno comete uma conduta caracterizada como:",
+    "options": [
+      "Exercício regular de direito funcional respaldado pela autonomia burocrática.",
+      "Violação aos deveres de urbanidade, impessoalidade e presteza na prestação dos serviços públicos.",
+      "Atuação legítima pautada na discricionariedade administrativa irrestrita.",
+      "Procedimento padrão de triagem temporal de expedientes na administração pública.",
+      "Falta leve irrelevante que não gera responsabilização ética ou administrativa."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Retardar a prestação do serviço público devido a razões pessoais viola o princípio constitucional da impessoalidade (Art. 37 da CF) e descumpre os deveres éticos de presteza, urbanidade e eficiência do servidor público."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei de Acesso à Informação (Lei nº 12.527/2011) define diretrizes fundamentais para os órgãos e entidades públicas municipais. De acordo com o Art. 3º da referida lei, o acesso à informação rege-se pelo princípio de que:",
+    "options": [
+      "O sigilo é a regra geral e a publicidade é exceção admitida apenas judicialmente.",
+      "Publicidade é o preceito geral e o sigilo é a exceção.",
+      "Apenas cidadãos com curso superior possuem legitimidade para solicitar documentos públicos.",
+      "As informações municipais somente são acessíveis mediante recolhimento obrigatório de taxa de busca.",
+      "Documentos administrativos não publicados na imprensa oficial são automaticamente sigilosos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 3º, I, da Lei nº 12.527/2011 (LAI) determina a observância da publicidade como preceito geral e do sigilo como exceção."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na redação oficial, o documento padronizado expedido pelos órgãos da administração pública com a finalidade de tratar de assuntos oficiais entre unidades administrativas ou com particulares denomina-se:",
+    "options": [
+      "Ata circunstanciada.",
+      "Ofício.",
+      "Certidão de nascimento.",
+      "Atestado de frequência informal.",
+      "Diário de bordo particular."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Ofício é a modalidade de comunicação oficial expedida por órgãos públicos para tratar de matérias administrativas entre unidades ou diretamente com particulares."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com o Art. 24, I, da Lei nº 9.394/1996 (LDB), a carga horária mínima anual na educação básica, nos níveis fundamental e médio, deve ser de:",
+    "options": [
+      "600 horas, distribuídas por um mínimo de 180 dias de efetivo trabalho escolar.",
+      "720 horas, distribuídas por um mínimo de 190 dias de efetivo trabalho escolar.",
+      "800 horas, distribuídas por um mínimo de 200 dias de efetivo trabalho escolar, excluído o tempo reservado aos exames finais.",
+      "900 horas, distribuídas por um mínimo de 220 dias de efetivo trabalho escolar, incluídos os feriados municipais.",
+      "1.000 horas, distribuídas por um mínimo de 250 dias de trabalho pedagógico continuado."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Conforme o Art. 24, I, da LDB, a carga horária mínima anual é de 800 (oitocentas) horas para o ensino fundamental e para o ensino médio, distribuídas por um mínimo de 200 (duzentos) dias de efetivo trabalho escolar, excluído o tempo reservado aos exames finais."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na expedição de atos escolares, o documento que certifica com fé pública que o estudante concluiu integralmente determinado curso ou etapa da educação básica é denominado:",
+    "options": [
+      "Certificado de Conclusão.",
+      "Atestado de Matrícula Provisória.",
+      "Ficha Individual de Frequência Diária.",
+      "Comprovante de Inscrição em Concurso.",
+      "Recibo de Devolução de Livro Didático."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Certificado de Conclusão é o documento oficial que comprova o término e a conclusão com aproveitamento de determinada etapa ou curso escolar."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Nas rotinas de tramitação documental e protocolo da administração municipal, o procedimento formal de unir fisicamente um processo ou documento a outro, de forma definitiva ou temporária, é chamado de:",
+    "options": [
+      "Juntada.",
+      "Despacho interlocutório.",
+      "Expedição tácita.",
+      "Preclusão administrativa.",
+      "Alfabetação seletiva."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Na técnica de protocolo e rotinas administrativas, a 'Juntada' é a união formal de um documento ou processo a outro processo principal (seja por anexação ou apensação)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Com o objetivo de evitar a perda definitiva de dados acadêmicos, históricos escolares e notas armazenados nos computadores da secretaria, a rotina de segurança que consiste na realização de cópias de segurança periódicas em suportes externos ou em nuvem denomina-se:",
+    "options": [
+      "Defragmentação de disco.",
+      "Backup.",
+      "Overclocking.",
+      "Formatação rápida.",
+      "Bootloader."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O termo 'Backup' refere-se ao procedimento de criação de cópias de segurança de dados/arquivos digitais para garantia de recuperação em caso de perda ou sinistro no sistema principal."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Segundo a Seção Única do Título VIII da Lei Orgânica do Município de Aparecida de Goiânia-GO, em simetria com as normas gerais da Constituição Federal sobre servidores públicos civis, o servidor nomeado para cargo de provimento efetivo em virtude de concurso público adquire estabilidade após:",
+    "options": [
+      "1 (um) ano de efetivo exercício.",
+      "2 (dois) anos de efetivo exercício.",
+      "3 (três) anos de efetivo exercício.",
+      "4 (quatro) anos de efetivo exercício.",
+      "5 (cinco) anos de efetivo exercício e aprovação em vestibular público."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Em consonância com a Constituição Federal (Art. 41), os servidores nomeados para cargo de provimento efetivo em virtude de concurso público adquirem estabilidade após 3 (três) anos de efetivo exercício e avaliação especial de desempenho."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Durante uma reunião pedagógica no ambiente escolar, surge um impasse entre docentes sobre a elaboração dos registros no conselho de classe. Na perspectiva das relações interpessoais e da mediação de conflitos, a postura institucional indicada é:",
+    "options": [
+      "Impor a opinião individual do secretário por meio de ameaça de representação disciplinar.",
+      "Fomentar a polarização entre os docentes para que a maioria vença por votação rápida sem debate.",
+      "Promover o diálogo colaborativo, a empatia e a negociação integrativa em busca de consenso pelo bem comum pedagógico.",
+      "Abandonar a reunião para demonstrar descontentamento com a divergência entre os professores.",
+      "Transferir imediatamente a decisão final a terceiros estranhos ao ambiente escolar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A gestão saudável de conflitos nas relações humanas/profissionais orienta-se pela promoção da escuta ativa, empatia, diálogo colaborativo e mediação integrativa, visando o bem comum da instituição."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 53, V, do Estatuto da Criança e do Adolescente (ECA) garante o acesso à escola pública e gratuita próxima da residência da criança ou adolescente. O texto legal expressamente acrescenta como garantia dessa proximidade:",
+    "options": [
+      "Vaga assegurada no mesmo turno escolar em que os pais trabalham.",
+      "O fornecimento privativo de veículo automotor exclusivo para a locomoção do estudante.",
+      "Garantia de vagas no mesmo estabelecimento a irmãos que frequentem a mesma etapa ou ciclo de ensino da educação básica.",
+      "Gratuidade nas taxas de excursões e passeios extracurriculares anuais.",
+      "Matrícula obrigatória na rede privada custeada pelo município caso o aluno recuse a escola do bairro."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O Art. 53, V, do ECA prevê: 'acesso à escola pública e gratuita, próxima da sua residência, garantindo-se vagas no mesmo estabelecimento a irmãos que frequentem a mesma etapa ou ciclo de ensino da educação básica'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Calendário Escolar é instrumento regulador da organização e do funcionamento da escola. No tocante às suas regras, a LDB estabelece que o calendário letivo:",
+    "options": [
+      "Deve ser estritamente idêntico em todas as escolas do território nacional, vedada qualquer alteração climática.",
+      "Pode adequar-se às peculiaridades locais, inclusive climáticas e econômicas, a critério do respectivo sistema de ensino, sem com isso reduzir o número de horas letivas exigido.",
+      "Pode suprimir até 30% das horas letivas anuais em regiões rurais durante o período de plantio.",
+      "É fixado exclusivamente pelo auxiliar de secretaria em cada semestre sem necessidade de homologação superior.",
+      "Não possui caráter cogente, sendo facultativo o cumprimento dos dias de efetivo trabalho escolar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme o Art. 23, § 2º, da LDB, o calendário escolar deverá adequar-se às peculiaridades locais, inclusive climáticas e econômicas, a critério do respectivo sistema de ensino, sem com isso reduzir o número de horas letivas previsto na Lei."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na gestão documental da secretaria, a ferramenta técnica que define os prazos de guarda dos documentos nas fases corrente e intermediária, bem como a sua destinação final (eliminação ou recolhimento para guarda permanente), é a:",
+    "options": [
+      "Ficha de matrícula provisória.",
+      "Tabela de Temporalidade Documental.",
+      "Ata de posse de representantes de turma.",
+      "Declaração de vacinação infantil.",
+      "Pauta de chamada simplificada."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Tabela de Temporalidade Documental (TTD) é o instrumento arquivístico que determina os prazos de permanência dos documentos nas fases corrente e intermediária e estabelece a destinação final (descarte ou preservação permanente)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Nos editores de texto amplamente utilizados na administração pública (como Microsoft Word e LibreOffice Writer), a formatação exigida pelo padrão de redação oficial para os parágrafos do corpo do texto de um ofício determina o alinhamento:",
+    "options": [
+      "Alinhado à esquerda.",
+      "Alinhado à direita.",
+      "Centralizado.",
+      "Justificado.",
+      "Disperso aleatoriamente."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O Manual de Redação da Presidência da República orienta que o texto dos documentos oficiais deve ser formatado com alinhamento justificado."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com o Art. 24 da Lei de Diretrizes e Bases da Educação Nacional (LDB - Lei nº 9.394/1996), a classificação de um aluno em qualquer série ou etapa, exceto a primeira do ensino fundamental, pode ser realizada:",
+    "options": [
+      "Exclusivamente por meio de sorteio público organizado pela Secretaria Municipal de Educação.",
+      "Por promoção, por transferência ou independentemente de escolarização anterior, mediante avaliação feita pela escola.",
+      "Apenas mediante decisão judicial expedida pela Vara da Infância e da Juventude.",
+      "Exclusivamente se o aluno apresentar histórico escolar de escola federal com notas máximas.",
+      "Somente após a autorização escrita do Conselho Tutelar do município de residência."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme o Art. 24, II, da LDB, a classificação pode ser feita: a) por promoção; b) por transferência; c) independentemente de escolarização anterior, mediante avaliação feita pela escola."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Um auxiliar de secretaria toma conhecimento, em razão de seu cargo, de que o filho de uma figura pública local foi reprovado por infrequência e responde a procedimento pedagógico reservado. O servidor decide fotografar a ficha de rendimento e enviar a imagem em um grupo de mensagens familiar. Sob o prisma da ética no serviço público, a atitude do servidor configura:",
+    "options": [
+      "Exercício legítimo do princípio constitucional da publicidade absoluta de todos os atos escolares.",
+      "Infração ética grave decorrente de quebra do sigilo funcional e desrespeito à privacidade do aluno.",
+      "Conduta neutra, uma vez que o compartilhamento restringiu-se ao âmbito familiar sem proveito financeiro.",
+      "Cumprimento do dever cívico de transparência informativa com a comunidade.",
+      "Procedimento regular amparado pela liberdade irrestrita de manifestação do pensamento."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vazar informações pessoais e documentos a que teve acesso devido à função pública viola o dever legal de sigilo funcional, contrariando preceitos fundamentais da ética no serviço público e os direitos à privacidade previstos no ECA e na LGPD."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 214 da Constituição Federal de 1988 preconiza que a lei estabelecerá o Plano Nacional de Educação (PNE). De acordo com o texto constitucional, o PNE possui duração:",
+    "options": [
+      "Bianual.",
+      "Trienal.",
+      "Quinquenal.",
+      "Decenal.",
+      "Indeterminada."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Conforme o caput do Art. 214 da Constituição Federal, o Plano Nacional de Educação (PNE) é plurianual, possuindo duração decenal (10 anos)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na organização do arquivo da secretaria escolar, quando os documentos são agrupados e ordenados com base nos temas, assuntos ou matérias tratadas (por exemplo: 'Matrículas', 'Transferências', 'Pessoal', 'Patrimônio'), adota-se o método de arquivamento:",
+    "options": [
+      "Geográfico.",
+      "Numérico simples.",
+      "Ideológico.",
+      "Cromático.",
+      "Dígito-terminal."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O método de arquivamento ideológico (também chamado de por assunto) consiste em agrupar e ordenar os documentos a partir do tema, conteúdo ou assunto a que se referem."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No que se refere à concordância verbal e pronominal ao empregar pronomes de tratamento em documentos oficiais, o Manual de Redação da Presidência da República prescreve que os pronomes de tratamento:",
+    "options": [
+      "Exigem sempre a concordância gramatical com a segunda pessoa do plural (vós).",
+      "Exigem a concordância com a segunda pessoa do singular (tu), por se dirigirem ao interlocutor.",
+      "Concordam gramaticalmente com a terceira pessoa do discurso, muito embora se refiram à segunda pessoa.",
+      "Dispensam a flexão de gênero para adjetivos referentes à autoridade destinatária.",
+      "Podem ser flexionados em primeira pessoa caso o signatário seja servidor de carreira."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Embora os pronomes de tratamento façam referência à segunda pessoa (o interlocutor com quem se fala), a concordância gramatical (verbos, pronomes possessivos) deve ocorrer sempre em terceira pessoa."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No ato da matrícula de novos alunos em uma unidade escolar municipal, a secretaria exige dos pais apenas as informações estritamente necessárias ao vínculo escolar e ao atendimento educacional, abstendo-se de coletar dados desproporcionais ou sem utilidade pedagógica/administrativa. Esse procedimento observa diretamente o princípio da LGPD denominado:",
+    "options": [
+      "Livre acesso irrestrito.",
+      "Finalidade presumida.",
+      "Necessidade (minimização de dados).",
+      "Consentimento tácito compulsório.",
+      "Eliminação imediata preventiva."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O princípio da necessidade (minimização de dados), previsto no Art. 6º, III, da LGPD, estabelece que o tratamento de dados pessoais deve limitar-se ao mínimo necessário para o cumprimento de suas finalidades."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No contexto das relações interpessoais e do atendimento ao público escolar, a atitude de ouvir atentamente o responsável pelo discente sem interrompê-lo de forma precipitada, buscando compreender seus sentimentos e pontos de vista antes de apresentar uma resposta, denomina-se:",
+    "options": [
+      "Comunicação agressiva.",
+      "Escuta ativa.",
+      "Dissonância cognitiva.",
+      "Interpelação sumária.",
+      "Atendimento discricionário."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Escuta ativa é a habilidade de escuta empática e focada, em que o atendente/ouvinte demonstra interesse genuíno, compreende o ponto de vista do interlocutor e evita julgamentos ou interrupções precoces."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme o Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), o encaminhamento de comunicação ao Conselho Tutelar referente a faltas injustificadas e evasão escolar é obrigatório para os dirigentes escolares:",
+    "options": [
+      "Imediatamente após a primeira falta do estudante no início do ano letivo.",
+      "Apenas se o estudante expressar intenção de não mais retornar aos estudos.",
+      "Somente após esgotados todos os recursos escolares de busca ativa e orientação familiar.",
+      "Exclusivamente mediante autorização escrita do Juizado da Infância e da Juventude.",
+      "Apenas ao término do ano letivo civil, caso o discente já tenha sido reprovado."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Conforme o Art. 56, II, do ECA, os dirigentes de estabelecimentos de ensino fundamental comunicarão ao Conselho Tutelar os casos de reiteração de faltas injustificadas e de evasão escolar, 'esgotados os recursos escolares'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Durante a lavratura de uma Ata de Conselho de Classe, o auxiliar de secretaria constata um erro de digitação no nome de um discente no exato momento em que redige o documento manuscrito em livro próprio. Para corrigir o equívoco no corpo do texto antes de concluir a redação, deve utilizar a expressão corretiva:",
+    "options": [
+      "Em tempo.",
+      "Sem efeito.",
+      "Digo.",
+      "Subentende-se.",
+      "Anulo."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Na redação formal e lavratura de atas manuscritas, a expressão 'digo,' deve ser inserida imediatamente após a palavra grafada com erro para fazer a devida ressalva e correção dentro do próprio fluxo do texto."
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Sabe-se que a proposição condicional 'Se Paulo foi promovido, então Mariana mudou de setor' é FALSA. A partir dessa premissa, pode-se concluir logicamente que:",
+    "options": [
+      "Paulo não foi promovido e Mariana mudou de setor.",
+      "Paulo foi promovido e Mariana não mudou de setor.",
+      "Paulo não foi promovido e Mariana não mudou de setor.",
+      "Ambos mudaram de setor conjuntamente.",
+      "Promoção de Paulo depende da mudança de setor de Mariana."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Uma proposição condicional (P -> Q) só é falsa quando a primeira parte (antecedente P) é verdadeira e a segunda parte (consequente Q) é falsa. Portanto, Paulo foi promovido (V) e Mariana não mudou de setor (V)."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Três servidores municipais (Lucas, Mateus e Tiago) foram interrogados para saber quem esqueceu a sala de arquivos destrancada. Lucas disse: 'Mateus foi quem esqueceu'. Mateus disse: 'Tiago não esqueceu'. Tiago afirmou: 'Lucas está mentindo'. Sabendo-se que apenas um deles esqueceu a sala e apenas um disse a verdade, quem esqueceu a sala e quem disse a verdade, respectivamente?",
+    "options": [
+      "Tiago e Tiago.",
+      "Mateus e Lucas.",
+      "Lucas e Tiago.",
+      "Mateus e Tiago.",
+      "Tiago e Lucas."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Se Tiago esqueceu a sala: Lucas disse que Mateus esqueceu (FALSO); Mateus disse que Tiago não esqueceu (FALSO); Tiago disse que Lucas está mentindo (VERDADEIRO). Assim, temos exatamente um que esqueceu (Tiago) e exatamente um que falou a verdade (Tiago)."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Em março, a secretaria de uma unidade realizou 400 atendimentos presenciais. No mês seguinte, esse número saltou para 520 atendimentos. O aumento percentual observado de março para abril foi de:",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "35%",
+      "40%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "O aumento absoluto foi de 520 - 400 = 120 atendimentos. Em relação ao valor inicial (400), o aumento percentual é (120 / 400) * 100 = 30%."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Qual valor de capital aplicado sob o regime de juros simples à taxa de 3% ao mês, durante um intervalo de 5 meses, produz exatamente R$ 450,00 de juros?",
+    "options": [
+      "R$ 2.500,00",
+      "R$ 2.800,00",
+      "R$ 3.000,00",
+      "R$ 3.200,00",
+      "R$ 3.500,00"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A fórmula dos juros simples é J = C * i * t. Substituindo os valores: 450 = C * 0,03 * 5 => 450 = 0,15 * C => C = 450 / 0,15 = R$ 3.000,00."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Para digitalizar o acervo histórico em 15 dias corridos, seriam necessários 8 scanners com idêntica velocidade. Caso a unidade disponha de apenas 6 desses scanners, em quantos dias o mesmo serviço será concluído?",
+    "options": [
+      "16 dias",
+      "18 dias",
+      "20 dias",
+      "22 dias",
+      "24 dias"
+    ],
+    "correctAnswer": 2,
+    "explanation": "As grandezas scanners e dias são inversamente proporcionais. Portanto: 8 * 15 = 6 * d => 120 = 6d => d = 20 dias."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere as proposições simples P: 'O número 9 é par' (Falsa) e Q: 'Goiânia é a capital do Estado de Goiás' (Verdadeira). Assinale a alternativa que apresenta uma estrutura composta com valor lógico VERDADEIRO.",
+    "options": [
+      "P e Q",
+      "Q então P",
+      "P se e somente se Q",
+      "P ou Q",
+      "(não Q) ou P"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Para a disjunção (P ou Q) ser verdadeira, basta que ao menos uma das proposições seja verdadeira. Como Q é verdadeira, 'P ou Q' é verdadeira."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Observe o padrão da sucessão numérica intercalada: 5, 6, 10, 12, 15, 18, 20, 24, ... O nono termo dessa sequência é:",
+    "options": [
+      "25",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A sequência é formada por duas subsequências intercaladas:\n- Posições ímpares (1º, 3º, 5º, 7º, 9º): 5, 10, 15, 20, ... (soma 5 a cada termo)\n- Posições pares (2º, 4º, 6º, 8º): 6, 12, 18, 24, ...\nO 9º termo pertence à sequência das posições ímpares: 20 + 5 = 25."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Em um setor com 4 auxiliares de secretaria, a média aritmética das idades é de 28 anos. Com a chegada de um novo servidor concursado de 38 anos, a nova média de idade da equipe passará a ser de:",
+    "options": [
+      "29 anos",
+      "30 anos",
+      "31 anos",
+      "32 anos",
+      "33 anos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Soma das idades dos 4 auxiliares = 4 * 28 = 112 anos. Nova soma com a chegada do 5º servidor = 112 + 38 = 150 anos. Nova média = 150 / 5 = 30 anos."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere as seguintes premissas verdadeiras: I. 'Todo documento oficial possui assinatura do gestor'. II. 'Alguns relatórios internos não possuem assinatura do gestor'. A partir dessas premissas, deduz-se com certeza lógica que:",
+    "options": [
+      "Todo relatório interno é um documento oficial.",
+      "Nenhum documento oficial é assinado pelo gestor.",
+      "Alguns relatórios internos não são documentos oficiais.",
+      "Todos os relatórios internos são documentos oficiais.",
+      "Nenhum relatório interno possui protocolo."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Como todo documento oficial obrigatoriamente possui assinatura do gestor, qualquer item que não possua assinatura do gestor não pode ser um documento oficial. Logo, os relatórios internos que não possuem assinatura do gestor não são documentos oficiais."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Na conferência de formulários, um assistente registrou a razão de 3 formulários aprovados para cada 1 formulário rasurado. Se foram contabilizados 45 formulários rasurados no lote, o número total de formulários desse lote é de:",
+    "options": [
+      "135",
+      "150",
+      "165",
+      "180",
+      "210"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Se para cada 1 rasurado há 3 aprovados, o número de aprovados é 3 * 45 = 135. O total de formulários é aprovados + rasurados = 135 + 45 = 180."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Após ser contemplada com um desconto de 15% para pagamento à vista, uma repartição adquiriu um armário fichário pagando R$ 680,00. O preço original do armário sem esse desconto era de:",
+    "options": [
+      "R$ 750,00",
+      "R$ 780,00",
+      "R$ 800,00",
+      "R$ 820,00",
+      "R$ 850,00"
+    ],
+    "correctAnswer": 2,
+    "explanation": "O valor pago (680) corresponde a 100% - 15% = 85% do preço original. Preço Original = 680 / 0,85 = R$ 800,00."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um comunicado na recepção informa: 'O arquivo foi digitalizado ou o sistema foi atualizado'. Assinale a alternativa que apresenta a correta negação lógica dessa proposição disjuntiva.",
+    "options": [
+      "O arquivo não foi digitalizado ou o sistema não foi atualizado.",
+      "Se o arquivo não foi digitalizado, então o sistema não foi atualizado.",
+      "O arquivo não foi digitalizado e o sistema não foi atualizado.",
+      "O arquivo foi digitalizado e o sistema não foi atualizado.",
+      "O arquivo foi digitalizado se e somente se o sistema foi atualizado."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pela Lei de De Morgan, a negação da disjunção ~(A ou B) é equivalente a (~A e ~B). Portanto: 'O arquivo não foi digitalizado e o sistema não foi atualizado'."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere a sequência de letras do alfabeto oficial: A, D, G, J, M, ... Mantendo o padrão lógico de saltos regulares entre as letras, o próximo termo dessa sequência é a letra:",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R"
+    ],
+    "correctAnswer": 2,
+    "explanation": "As posições das letras no alfabeto são: A(1), D(4), G(7), J(10), M(13). O padrão é somar 3 a cada termo. A próxima posição é 13 + 3 = 16, que corresponde à letra P."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Para organizar pastas suspensas em caixas de arquivo, um auxiliar dispôs 5 pastas na primeira caixa, 9 na segunda, 13 na terceira e assim sucessivamente, formando uma progressão aritmética. A quantidade de pastas armazenadas na 12ª caixa será igual a:",
+    "options": [
+      "45",
+      "47",
+      "49",
+      "51",
+      "53"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trata-se de uma P.A. com a1 = 5 e razão r = 4. O 12º termo é a12 = a1 + (12 - 1) * r = 5 + 11 * 4 = 5 + 44 = 49."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Cinco auxiliares de secretaria realizam a contagem do inventário de materiais de um polo em 12 horas de trabalho contínuo. Se a equipe recebesse o reforço de mais um auxiliar com idêntica produtividade, totalizando 6 servidores, o inventário seria concluído em:",
+    "options": [
+      "8 horas",
+      "9 horas",
+      "10 horas",
+      "11 horas",
+      "14 horas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "O número de trabalhadores e o tempo necessário são inversamente proporcionais: 5 * 12 = 6 * h => 60 = 6h => h = 10 horas."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Uma repartição comprou caixas de grampos por R$ 150,00 cada lote e as transferiu contabilmente com uma margem de reajuste de 30% sobre o preço de aquisição. O novo valor contábil atribuído a cada lote é de:",
+    "options": [
+      "R$ 180,00",
+      "R$ 185,00",
+      "R$ 190,00",
+      "R$ 195,00",
+      "R$ 200,00"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Reajuste de 30% sobre R$ 150,00: 150 * 1,30 = R$ 195,00."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um empréstimo emergencial concedido para aquisição de suprimentos no valor de R$ 4.000,00 foi quitado após 6 meses pelo valor total de R$ 4.720,00 sob regime de juros simples. A taxa mensal de juros simples dessa operação foi de:",
+    "options": [
+      "2,0%",
+      "2,5%",
+      "3,0%",
+      "3,5%",
+      "4,0%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Juros totais J = 4.720 - 4.000 = R$ 720,00. Utilizando a fórmula J = C * i * t: 720 = 4000 * i * 6 => 720 = 24000 * i => i = 720 / 24000 = 0,03 (3,0% ao mês)."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "De segunda a quinta-feira, o protocolo da secretaria registrou o recebimento diário de 34, 42, 28 e 36 correspondências, respectivamente. Para que a média aritmética simples diária dessa semana (de segunda a sexta-feira) atinja exatamente 38 correspondências, na sexta-feira devem ser protocoladas:",
+    "options": [
+      "46 correspondências",
+      "48 correspondências",
+      "50 correspondências",
+      "52 correspondências",
+      "54 correspondências"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Para uma média de 38 em 5 dias, a soma total de correspondências deve ser 5 * 38 = 190. A soma de segunda a quinta é 34 + 42 + 28 + 36 = 140. Logo, na sexta-feira devem ser protocoladas 190 - 140 = 50 correspondências."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere a condicional: 'Se o protocolo foi emitido, então o processo foi aberto'. Uma proposição logicamente equivalente a essa é:",
+    "options": [
+      "Se o processo foi aberto, então o protocolo foi emitido.",
+      "Se o protocolo não foi emitido, então o processo não foi aberto.",
+      "O protocolo não foi emitido ou o processo foi aberto.",
+      "O protocolo foi emitido e o processo não foi aberto.",
+      "O protocolo foi emitido se e somente se o processo foi aberto."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A condicional (P -> Q) é logicamente equivalente à disjunção (~P ou Q). Assim, 'Se o protocolo foi emitido, então o processo foi aberto' equivale a 'O protocolo não foi emitido ou o processo foi aberto'."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere verdadeiras as afirmações: I. 'Todo assistente conhece a legislação municipal.' II. 'Alguns fiscais são assistentes.' Com base estritamente nessas premissas, deduz-se de maneira válida que:",
+    "options": [
+      "Todo fiscal conhece a legislação municipal.",
+      "Alguns fiscais conhecem a legislação municipal.",
+      "Nenhum assistente é fiscal.",
+      "Quem não é assistente desconhece a legislação municipal.",
+      "Todos que conhecem a legislação municipal são fiscais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Como alguns fiscais pertencem ao grupo dos assistentes, e todos os assistentes conhecem a legislação municipal, conclui-se que esses fiscais que são assistentes obrigatoriamente conhecem a legislação municipal."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "A quantia de R$ 3.600,00 destinada à compra de materiais foi dividida entre três secretarias de forma diretamente proporcional ao número de salas de cada uma: 2, 4 e 6 salas, respectivamente. A maior parcela coube à secretaria com mais salas e totalizou:",
+    "options": [
+      "R$ 1.200,00",
+      "R$ 1.500,00",
+      "R$ 1.800,00",
+      "R$ 2.000,00",
+      "R$ 2.400,00"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Soma das partes proporcionais = 2 + 4 + 6 = 12 partes. Valor de cada parte = 3600 / 12 = 300. A maior parcela corresponde a 6 partes: 6 * 300 = R$ 1.800,00."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Três servidores digitam 180 certidões trabalhando 4 horas diárias durante 5 dias. Quantas certidões serão digitadas por 4 servidores de mesma capacidade, trabalhando 6 horas diárias, durante 3 dias?",
+    "options": [
+      "192",
+      "200",
+      "216",
+      "224",
+      "240"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Regra de três composta: 180 / X = (3/4) * (4/6) * (5/3) = (3 * 4 * 5) / (4 * 6 * 3) = 60 / 72 = 5 / 6. Logo, X = 180 * (6 / 5) = 216 certidões."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Observe a regra de formação dos elementos da sequência: 2, 5, 10, 17, 26, ... O próximo elemento dessa sucessão numérica é:",
+    "options": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "40"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A sequência é dada por n² + 1 para n = 1, 2, 3, 4, 5, 6...:\n1² + 1 = 2\n2² + 1 = 5\n3² + 1 = 10\n4² + 1 = 17\n5² + 1 = 26\n6² + 1 = 37."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Três armários metálicos (A, B e C) guardam processos cíveis, fiscais e trabalhistas, um tipo em cada armário. Sabe-se que: I. O armário A não guarda processos trabalhistas. II. O armário B guarda processos fiscais. A partir dessas afirmações, é correto concluir que:",
+    "options": [
+      "O armário A guarda processos fiscais.",
+      "O armário C guarda processos trabalhistas.",
+      "O armário B guarda processos cíveis.",
+      "O armário C guarda processos cíveis.",
+      "O armário A guarda processos trabalhistas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Se B guarda processos fiscais, os armários A e C guardam cíveis e trabalhistas. Como A não guarda trabalhistas, A guarda processos cíveis. Consequentemente, C guarda processos trabalhistas."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Em um determinado dia, o setor de certidões realizou 400 atendimentos distribuídos em três turnos: 120 pela manhã, 180 pela tarde e 100 pela noite. O percentual de atendimentos efetuados exclusivamente no turno da tarde foi de:",
+    "options": [
+      "35%",
+      "40%",
+      "45%",
+      "50%",
+      "55%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Atendimentos na tarde = 180. O percentual em relação ao total (400) é (180 / 400) * 100 = 45%."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um capital de R$ 6.000,00 aplicado a uma taxa de juros simples de 1,5% ao mês produziu ao final do período o valor de R$ 720,00 de juros. O tempo total dessa aplicação financeira foi de:",
+    "options": [
+      "6 meses",
+      "7 meses",
+      "8 meses",
+      "9 meses",
+      "10 meses"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Utilizando J = C * i * t: 720 = 6000 * 0,015 * t => 720 = 90 * t => t = 720 / 90 = 8 meses."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Sabendo que a proposição P é verdadeira (V) e a proposição Q é falsa (F), avalie as seguintes sentenças compostas: I. P <-> Q; II. P v Q; III. P -> Q. O valor lógico dessas três sentenças é, respectivamente:",
+    "options": [
+      "V, V, F",
+      "F, V, F",
+      "F, F, V",
+      "V, F, F",
+      "F, V, V"
+    ],
+    "correctAnswer": 1,
+    "explanation": "I. V <-> F é Falso.\nII. V v F é Verdadeiro.\nIII. V -> F é Falso.\nPortanto, os valores lógicos são F, V, F."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Dois assistentes escolares receberam a incumbência de catalogar 150 pastas em quantidades inversamente proporcionais ao número de atrasos no mês: Pedro teve 1 atraso e João teve 4 atrasos. O número de pastas que Pedro catalogou foi de:",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120",
+      "130"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Divisão inversamente proporcional a 1 e 4 equivale a diretamente proporcional a 1/1 e 1/4. Multiplicando por 4, as proporções são 4 para Pedro e 1 para João (total de 5 partes). Cada parte = 150 / 5 = 30 pastas. Pedro catalogou 4 * 30 = 120 pastas."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "A tramitação média de um processo administrativo exigia 40 dias úteis. Com a implantação do sistema digital, o tempo caiu para 26 dias úteis. A redução percentual obtida no tempo de tramitação foi de:",
+    "options": [
+      "25%",
+      "30%",
+      "35%",
+      "40%",
+      "45%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Redução absoluta = 40 - 26 = 14 dias. A redução percentual é (14 / 40) * 100 = 35%."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um sistema de carimbos alfanuméricos imprime continuamente a palavra 'VERBENA' repetida e sem espaços: VERBENAVERBENAVERBENA... A 52ª letra impressa por esse carimbo será:",
+    "options": [
+      "V",
+      "E",
+      "R",
+      "B",
+      "N"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A palavra 'VERBENA' tem 7 letras. Dividindo 52 por 7 obtemos quociente 7 e resto 3. A 52ª letra será a 3ª letra da palavra, que é 'R'."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "As salas de reuniões de um centro administrativo receberam códigos numéricos dispostos em progressão aritmética: 104, 111, 118, ..., até a última sala, de número 202. A quantidade total de salas identificadas nessa sequência é:",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctAnswer": 2,
+    "explanation": "P.A. com a1 = 104, r = 7 e an = 202. Na fórmula an = a1 + (n - 1) * r: 202 = 104 + (n - 1) * 7 => 98 = 7(n - 1) => n - 1 = 14 => n = 15."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere as seguintes premissas de um raciocínio lógico dedutivo: Premissa 1: 'Se o edital foi publicado, então o período de inscrição está aberto'. Premissa 2: 'O período de inscrição não está aberto'. Conclui-se validamente por Modus Tollens que:",
+    "options": [
+      "O edital foi publicado.",
+      "As inscrições serão reabertas.",
+      "O edital não foi publicado.",
+      "O concurso foi cancelado.",
+      "O período de inscrição será prorrogado."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A regra de inferência Modus Tollens estabelece que, dado (P -> Q) e a negação do consequente (~Q), conclui-se a negação do antecedente (~P). Logo, conclui-se que 'O edital não foi publicado'."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "A média aritmética de quatro avaliações de rotina de uma secretaria foi de 25 pontos. Se uma quinta avaliação com nota de 45 pontos for agregada a esse conjunto, a nova média aritmética passará a ser:",
+    "options": [
+      "27 pontos",
+      "28 pontos",
+      "29 pontos",
+      "30 pontos",
+      "31 pontos"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Soma das 4 avaliações = 4 * 25 = 100. Nova soma com a 5ª avaliação = 100 + 45 = 145. Nova média = 145 / 5 = 29 pontos."
+  }
+]

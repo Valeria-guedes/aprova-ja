@@ -1,0 +1,632 @@
+[
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Uma equipe de recepção registrou, de segunda a sexta-feira, os seguintes números de atendimentos presenciais: 62, 58, 70, 65 e 75. A média aritmética simples diária de atendimentos dessa semana foi igual a:",
+    "options": [
+      "64",
+      "65",
+      "66",
+      "67",
+      "68"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A média aritmética é calculada somando-se todos os valores e dividindo pelo número de dias (5):\n(62 + 58 + 70 + 65 + 75) / 5 = 330 / 5 = 66."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um capital de R$ 4.500,00 foi aplicado a juros simples pelo prazo de 8 meses, gerando um montante de R$ 5.220,00. A taxa mensal dessa aplicação foi de:",
+    "options": [
+      "1,5%",
+      "1,8%",
+      "2,0%",
+      "2,2%",
+      "2,5%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Juros acumulados = Montante - Capital = 5.220 - 4.500 = R$ 720,00.\nFórmula dos juros simples: J = C * i * t\n720 = 4.500 * i * 8\n720 = 36.000 * i\ni = 720 / 36.000 = 0,02 = 2,0% ao mês."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Em um levantamento com 200 servidores de Aparecida de Goiânia, constatou-se que 110 possuem curso de informática básica, 130 possuem curso de atendimento ao público e 20 não possuem nenhum desses dois cursos. Quantos servidores possuem ambos os cursos?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pelo princípio da inclusão-exclusão para conjuntos:\nTotal = N(Informática) + N(Atendimento) - N(Ambos) + N(Nenhum)\n200 = 110 + 130 - N(Ambos) + 20\n200 = 260 - N(Ambos)\nN(Ambos) = 260 - 200 = 60."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Assinale a alternativa que apresenta uma proposição logicamente equivalente à condicional: 'Se o memorando foi assinado, então o malote foi despachado'.",
+    "options": [
+      "Se o malote foi despachado, então o memorando foi assinado.",
+      "Se o memorando não foi assinado, então o malote não foi despachado.",
+      "Se o malote não foi despachado, então o memorando não foi assinado.",
+      "O memorando foi assinado e o malote não foi despachado.",
+      "O malote foi despachado se e somente se o memorando foi assinado."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A contrapositiva da condicional (P -> Q) é a sua equivalente lógica direta (~Q -> ~P). Portanto, a negação do consequente implica a negação do antecedente: 'Se o malote não foi despachado, então o memorando não foi assinado'."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Uma auxiliar de secretaria catalogou 14 prontuários no primeiro dia e aumentou sua produtividade em 6 prontuários por dia sucessivamente, formando uma progressão aritmética. Quantos prontuários ela catalogará no 18º dia de trabalho?",
+    "options": [
+      "108",
+      "112",
+      "116",
+      "120",
+      "124"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trata-se de uma PA com primeiro termo a1 = 14 e razão r = 6.\nFórmula do n-ésimo termo: an = a1 + (n - 1) * r\na18 = 14 + (18 - 1) * 6 = 14 + 17 * 6 = 14 + 102 = 116."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Se 6 digitadores produzem 720 certidões trabalhando 4 horas diárias durante 5 dias, quantas certidões serão produzidas por 8 digitadores trabalhando 6 horas diárias durante 4 dias sob o mesmo ritmo de trabalho?",
+    "options": [
+      "960",
+      "1.080",
+      "1.152",
+      "1.200",
+      "1.240"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aplicando a regra de três composta:\nCertidões X / 720 = (8/6) * (6/4) * (4/5)\nX / 720 = 8 / 5\nX = (720 * 8) / 5 = 144 * 8 = 1.152."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere a proposição categórica: 'Todos os documentos enviados contêm assinatura digital'. A negação lógica correta dessa afirmação é:",
+    "options": [
+      "Nenhum documento enviado contém assinatura digital.",
+      "Pelo menos um documento enviado não contém assinatura digital.",
+      "Todos os documentos enviados não contêm assinatura digital.",
+      "Alguns documentos enviados contêm assinatura digital.",
+      "Nenhum documento enviado contém carimbo manual."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A negação de um quantificador universal affirmative ('Todo S é P') é a sua particular negativa ('Pelo menos um S não é P' ou 'Algum S não é P')."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Observe o padrão da sequência alfabética: C, F, I, L, O, ... Considerando a ordem oficial de 26 letras, o próximo elemento dessa sequência é a letra:",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mapeando a posição das letras no alfabeto: C = 3, F = 6, I = 9, L = 12, O = 15. Trata-se de uma PA de razão 3. O próximo termo é o 18º elemento do alfabeto, que corresponde à letra R."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "No primeiro semestre de um ano letivo, um setor registrou 250 protocolos. No segundo semestre, o número de protocolos saltou para 325. A variação percentual de aumento de protocolos entre os semestres foi de:",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "35%",
+      "40%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aumento absoluto = 325 - 250 = 75.\nVariação percentual = (75 / 250) * 100% = 0,30 * 100% = 30%."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um levantamento registrou o consumo mensal de resmas de papel de três setores: Administrativo (45 resmas), Pedagógico (60 resmas) e Financeiro (15 resmas). Em relação ao total consumido pelos três setores juntos, o setor Administrativo representa:",
+    "options": [
+      "30,0%",
+      "32,5%",
+      "35,0%",
+      "37,5%",
+      "40,0%"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Total consumido = 45 + 60 + 15 = 120 resmas.\nPorcentagem do Administrativo = (45 / 120) * 100% = 3/8 * 100% = 37,5%."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Qual é o capital inicial que, aplicado à taxa de juros simples de 1,5% ao mês, rende exatamente R$ 540,00 de juros após um período de 12 meses?",
+    "options": [
+      "R$ 2.500,00",
+      "R$ 2.800,00",
+      "R$ 3.000,00",
+      "R$ 3.200,00",
+      "R$ 3.500,00"
+    ],
+    "correctAnswer": 2,
+    "explanation": "J = C * i * t\n540 = C * 0,015 * 12\n540 = C * 0,18\nC = 540 / 0,18 = R$ 3.000,00."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere verdadeiras as afirmações: I. 'Todo técnico de secretaria é eficiente.' II. 'Marcos não é eficiente.' Com base estritamente nessas premissas, deduz-se que:",
+    "options": [
+      "Marcos é técnico de secretaria.",
+      "Marcos não é técnico de secretaria.",
+      "Alguns técnicos de secretaria não são eficientes.",
+      "Todas as pessoas eficientes são técnicos de secretaria.",
+      "Marcos pode ser técnico de secretaria em estágio probatório."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pela regra de inferência Modus Tollens: Se a regra estabelece que todo técnico é eficiente (T -> E) e sabemos que Marcos não é eficiente (~E), conclui-se obrigatoriamente que Marcos não é técnico de secretaria (~T)."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Três servidores (Carla, Denise e Eduardo) prestaram depoimentos sobre quem deixou uma gaveta com documentos aberta. Sabe-se que apenas um deles deixou a gaveta aberta e que apenas um disse a verdade. Carla afirmou: 'Eu não deixei a gaveta aberta'. Denise afirmou: 'Eduardo deixou a gaveta aberta'. Eduardo afirmou: 'Denise está mentindo'. Quem deixou a gaveta aberta e quem disse a verdade, respectivamente?",
+    "options": [
+      "Carla e Eduardo.",
+      "Eduardo e Denise.",
+      "Denise e Carla.",
+      "Carla e Denise.",
+      "Denise e Eduardo."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Se Carla deixou a gaveta aberta:\n- Carla diz 'Eu não deixei a gaveta aberta' -> Falso;\n- Denise diz 'Eduardo deixou...' -> Falso;\n- Eduardo diz 'Denise está mentindo' -> Verdadeiro (já que a afirmação de Denise é realmente falsa).\nAssim, apenas um servidor disse a verdade (Eduardo) e apenas uma pessoa deixou a gaveta aberta (Carla)."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um prêmio de produtividade de R$ 3.300,00 foi distribuído entre dois servidores em partes inversamente proporcionais ao número de atrasos no mês: 2 atrasos e 3 atrasos. O servidor que teve 2 atrasos recebeu:",
+    "options": [
+      "R$ 1.320,00",
+      "R$ 1.650,00",
+      "R$ 1.800,00",
+      "R$ 1.980,00",
+      "R$ 2.100,00"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A proporção inversa entre 2 e 3 é dada por (1/2) e (1/3), que equivale à proporção direta de 3 para 2.\nTotal de partes = 3 + 2 = 5 partes.\nO servidor com 2 atrasos tem direito a 3 partes: (3/5) * 3.300 = 3 * 660 = R$ 1.980,00."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um sistema informatizado emite 420 certidões negativas a cada 35 minutos de processamento ininterrupto. Mantida essa mesma taxa operacional, quantas certidões serão emitidas em 1 hora e 10 minutos?",
+    "options": [
+      "720",
+      "780",
+      "800",
+      "840",
+      "880"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1 hora e 10 minutos = 70 minutos.\nComo 70 minutos é o dobro de 35 minutos, o número de certidões emitidas será o dobro: 420 * 2 = 840."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Uma máquina de carimbar identifica formulários repetindo sequencialmente a palavra 'GOIANIA': GOIANIAGOIANIAGOIANIA... A 95ª letra carimbada por essa máquina é a letra:",
+    "options": [
+      "G",
+      "O",
+      "I",
+      "A",
+      "N"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A palavra 'GOIANIA' possui 7 letras.\nDividindo 95 por 7, obtém-se 13 ciclos completos e um resto de 4.\nA 4ª letra da palavra 'GOIANIA' é a letra A."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Em cinco dias de expediente, a média diária de fichas cadastradas em uma escola foi de 54 fichas. Se no sexto dia foram registradas 66 fichas, a nova média diária de fichas cadastradas nos seis dias passou a ser de:",
+    "options": [
+      "55",
+      "56",
+      "57",
+      "58",
+      "60"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Soma das fichas nos primeiros 5 dias = 5 * 54 = 270 fichas.\nSoma nos 6 dias = 270 + 66 = 336 fichas.\nNova média = 336 / 6 = 56 fichas."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere a proposição composta: 'Não é verdade que o processo foi autuado e a taxa foi paga'. Pela Lei de De Morgan, essa afirmação equivale logicamente a:",
+    "options": [
+      "O processo não foi autuado e a taxa não foi paga.",
+      "Se o processo foi autuado, então a taxa foi paga.",
+      "O processo não foi autuado ou a taxa não foi paga.",
+      "O processo foi autuado ou a taxa não foi paga.",
+      "O processo não foi autuado se e somente se a taxa não foi paga."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A primeira Lei de De Morgan estabelece que a negação de uma conjunção é equivalente à disjunção das negações: ~(P ^ Q) ≡ ~P v ~Q ('O processo não foi autuado ou a taxa não foi paga')."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Uma aplicação financeira de R$ 6.000,00 sob taxa de juros simples de 2% ao mês acumulou um montante final de R$ 7.440,00. O tempo total dessa aplicação foi de:",
+    "options": [
+      "10 meses",
+      "11 meses",
+      "12 meses",
+      "14 meses",
+      "15 meses"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Juros = Montante - Capital = 7.440 - 6.000 = 1.440.\nJ = C * i * t\n1.440 = 6.000 * 0,02 * t\n1.440 = 120 * t\nt = 1.440 / 120 = 12 meses."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Em uma escola de Aparecida de Goiânia, a razão entre o número de estudantes matriculados no período matutino e no período vespertino é de 5 para 4. Sabendo que o período matutino tem 120 alunos a mais que o vespertino, o total de alunos nos dois turnos juntos é de:",
+    "options": [
+      "840",
+      "960",
+      "1.020",
+      "1.080",
+      "1.200"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sejam M = 5k e V = 4k.\nA diferença é M - V = 5k - 4k = k = 120.\nO total de alunos é M + V = 5k + 4k = 9k = 9 * 120 = 1.080."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere as proposições simples P como verdadeira (V) e Q como falsa (F). Avaliando a proposição composta ~(P -> Q) v (~P ^ Q), o seu valor lógico final é:",
+    "options": [
+      "Verdadeiro.",
+      "Falso.",
+      "Inconclusivo por falta de dados adicionais.",
+      "Contraditório em relação a P.",
+      "Nulo conforme as regras da disjunção."
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. P -> Q = V -> F = F.\n2. ~(P -> Q) = ~F = V.\n3. ~P ^ Q = F ^ F = F.\n4. V v F = V (Verdadeiro)."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um auxiliar organiza caixas de processos em uma estante seguindo uma progressão aritmética: a primeira caixa recebe a identificação 12, a segunda 19, a terceira 26 e assim por diante. A caixa que recebe o número de identificação 145 ocupa nessa estante a:",
+    "options": [
+      "18ª posição.",
+      "19ª posição.",
+      "20ª posição.",
+      "21ª posição.",
+      "22ª posição."
+    ],
+    "correctAnswer": 2,
+    "explanation": "PA com a1 = 12 e razão r = 19 - 12 = 7.\nan = a1 + (n - 1) * r\n145 = 12 + (n - 1) * 7\n133 = (n - 1) * 7\nn - 1 = 19 => n = 20ª posição."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Três estagiários da secretaria arquivaram 560 processos em quantidades inversamente proporcionais ao número de dias de falta de cada um no trimestre: 1, 2 e 4 faltas. O estagiário que faltou 2 dias arquivou a quantia de:",
+    "options": [
+      "80 processos.",
+      "120 processos.",
+      "160 processos.",
+      "240 processos.",
+      "320 processos."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Proporção inversa: (1/1), (1/2), (1/4). Multiplicando por 4, as proporções são 4, 2 e 1.\nSoma das partes = 4 + 2 + 1 = 7 partes.\nValor de cada parte = 560 / 7 = 80.\nO estagiário com 2 faltas fica com 2 partes: 2 * 80 = 160 processos."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Trabalhando 4 horas diárias durante 6 dias, 5 atendentes prestam atendimento a 300 pessoas. Mantendo o mesmo ritmo operacional, quantas pessoas serão atendidas por 8 atendentes trabalhando 6 horas diárias durante 5 dias?",
+    "options": [
+      "450",
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Regra de três composta:\nPessoas X / 300 = (8/5) * (6/4) * (5/6)\nX / 300 = 8 / 4 = 2\nX = 300 * 2 = 600."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Uma taxa de certidão que custava R$ 50,00 sofreu dois reajustes sucessivos: primeiro um acréscimo de 20% e, em seguida, um acréscimo de 10% sobre o novo valor. O valor final da taxa e a variação percentual acumulada sobre o valor inicial foram, respectivamente:",
+    "options": [
+      "R$ 65,00 e 30%.",
+      "R$ 66,00 e 30%.",
+      "R$ 66,00 e 32%.",
+      "R$ 67,50 e 32%.",
+      "R$ 67,50 e 35%."
+    ],
+    "correctAnswer": 2,
+    "explanation": "1º reajuste: 50 * 1,20 = R$ 60,00.\n2º reajuste: 60 * 1,10 = R$ 66,00.\nFator acumulado = 1,20 * 1,10 = 1,32, correspondendo a um aumento percentual acumulado de 32%."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um capital de R$ 3.200,00 aplicado sob regime de juros simples gerou R$ 576,00 de juros ao término de 6 meses. A taxa de juros anual correspondente dessa aplicação foi de:",
+    "options": [
+      "24% ao ano.",
+      "30% ao ano.",
+      "32% ao ano.",
+      "36% ao ano.",
+      "40% ao ano."
+    ],
+    "correctAnswer": 3,
+    "explanation": "J = C * i * t => 576 = 3.200 * i * 6\n576 = 19.200 * i\ni = 576 / 19.200 = 0,03 = 3% ao mês.\nTaxa anual sob juros simples = 3% * 12 = 36% ao ano."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "De segunda a sexta-feira, a média diária de atendimentos de um guichê foi fixada em exatamente 48 pessoas. Se de segunda a quinta-feira foram atendidas 45, 50, 42 e 55 pessoas, respectivamente, quantas pessoas foram atendidas na sexta-feira?",
+    "options": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Total de atendimentos esperados em 5 dias = 5 * 48 = 240 pessoas.\nSoma de segunda a quinta = 45 + 50 + 42 + 55 = 192 pessoas.\nAtendimentos na sexta-feira = 240 - 192 = 48 pessoas."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere a condicional: 'Se o documento foi protocolado e a taxa foi recolhida, então a certidão é disponibilizada'. A negação lógica formal dessa condicional é expressa por:",
+    "options": [
+      "Se o documento não foi protocolado ou a taxa não foi recolhida, então a certidão não é disponibilizada.",
+      "O documento não foi protocolado ou a taxa não foi recolhida, e a certidão foi disponibilizada.",
+      "O documento foi protocolado, a taxa foi recolhida e a certidão não é disponibilizada.",
+      "O documento não foi protocolado e a taxa não foi recolhida e a certidão não é disponibilizada.",
+      "Se a certidão não é disponibilizada, então o documento não foi protocolado ou a taxa não foi recolhida."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A negação formal de uma condicional P -> R é a conjunção P ^ ~R.\nAqui P = (documento protocolado AND taxa recolhida), R = (certidão disponibilizada).\nPortanto, a negação é: 'O documento foi protocolado, a taxa foi recolhida e a certidão não é disponibilizada'."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Em um setor de conferência, os processos recebem carimbos sequenciais com figuras geométricas repetidas na seguinte ordem periódica: Triângulo, Círculo, Quadrado, Estrela e Losango. A figura geométrica carimbada no 143º processo será:",
+    "options": [
+      "Triângulo.",
+      "Círculo.",
+      "Quadrado.",
+      "Estrela.",
+      "Losango."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A sequência possui um período de 5 elementos.\nDividindo 143 por 5 obtém-se 28 ciclos completos com resto 3.\nO 3º elemento da sequência é o Quadrado."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere verdadeiras as afirmações: I. 'Nenhum documento sem assinatura é válido.' II. 'Alguns requerimentos escolares são documentos sem assinatura.' A partir dessas premissas, é dedutivamente correto afirmar que:",
+    "options": [
+      "Todos os requerimentos escolares são válidos.",
+      "Nenhum requerimento escolar é válido.",
+      "Alguns requerimentos escolares não são válidos.",
+      "Alguns documentos sem assinatura são válidos.",
+      "Todos os requerimentos escolares não possuem assinatura."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Se alguns requerimentos escolares pertencem ao grupo de 'documentos sem assinatura' e nenhum documento desse grupo é válido, segue necessariamente que esses requerimentos escolares em particular também não são válidos."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Para encadernar 150 apostilas de treinamento escolar, o setor de suprimentos gastou 45 metros de espiral plástica. Mantendo rigorosamente o mesmo consumo unitário por apostila, quantos metros de espiral serão necessários para encadernar 220 apostilas idênticas?",
+    "options": [
+      "60 metros.",
+      "62 metros.",
+      "64 metros.",
+      "66 metros.",
+      "70 metros."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Consumo por apostila = 45 / 150 = 0,3 metro.\nPara 220 apostilas: 220 * 0,3 = 66 metros."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Uma equipe de 4 auxiliares conclui a conferência anual do almoxarifado em 15 dias úteis. Caso essa mesma tarefa fosse executada por apenas 3 desses auxiliares, com o mesmo ritmo individual, quantos dias a mais seriam necessários para concluir a conferência?",
+    "options": [
+      "3 dias a mais.",
+      "4 dias a mais.",
+      "5 dias a mais.",
+      "6 dias a mais.",
+      "8 dias a mais."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O número de auxiliares e os dias são grandezas inversamente proporcionais:\n3 * X = 4 * 15 => 3 * X = 60 => X = 20 dias.\nDias a mais necessários = 20 - 15 = 5 dias a mais."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um arquivo de aço com preço de tabela de R$ 1.200,00 foi colocado em liquidação com 25% de desconto. Como o pagamento da instituição foi efetuado à vista em cota única, a loja concedeu um abatimento extra de 10% sobre o preço já reduzido. O valor final desembolsado pelo arquivo foi de:",
+    "options": [
+      "R$ 780,00.",
+      "R$ 800,00.",
+      "R$ 810,00.",
+      "R$ 820,00.",
+      "R$ 840,00."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Preço após o 1º desconto: 1.200 * (1 - 0,25) = 1.200 * 0,75 = R$ 900,00.\nPreço final após o 2º desconto: 900 * (1 - 0,10) = 900 * 0,90 = R$ 810,00."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um capital de R$ 7.000,00 é aplicado sob a modalidade de juros simples à taxa anual de 18% durante um período de 8 meses. O montante final acumulado ao término dessa aplicação é de:",
+    "options": [
+      "R$ 7.640,00.",
+      "R$ 7.720,00.",
+      "R$ 7.800,00.",
+      "R$ 7.840,00.",
+      "R$ 7.920,00."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Taxa mensal = 18% / 12 = 1,5% ao mês.\nJ = 7.000 * 0,015 * 8 = R$ 840,00.\nMontante = Capital + Juros = 7.000 + 840 = R$ 7.840,00."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Um gráfico de setores categoriza 1.440 atendimentos anuais da ouvidoria escolar em três assuntos: Informações Gerais (50%), Matrículas (35%) e Reclamações (15%). A quantidade absoluta de atendimentos dedicados exclusivamente ao tema Reclamações foi de:",
+    "options": [
+      "180",
+      "196",
+      "216",
+      "240",
+      "252"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Quantidade de Reclamações = 15% de 1.440 = 0,15 * 1.440 = 216."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Considere a proposição disjuntiva: 'O candidato comparece à convocação ou perde o direito à vaga'. Uma sentença condicional logicamente equivalente a essa é:",
+    "options": [
+      "Se o candidato comparece à convocação, então perde o direito à vaga.",
+      "Se o candidato perde o direito à vaga, então não compareceu à convocação.",
+      "Se o candidato não comparece à convocação, então perde o direito à vaga.",
+      "Se o candidato não perde o direito à vaga, então não compareceu à convocação.",
+      "O candidato comparece à convocação se e somente se perde o direito à vaga."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pela equivalência entre disjunção e condicional, P v Q ≡ ~P -> Q. Assim, negando a primeira parte e mantendo a segunda, obtém-se: 'Se o candidato não comparece à convocação, então perde o direito à vaga'."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Na sequência numérica recursiva 1, 1, 2, 3, 5, 8, 13, X, Y..., onde a partir do terceiro termo cada elemento é a soma dos dois anteriores, a soma dos valores de X e Y (X + Y) é igual a:",
+    "options": [
+      "48",
+      "52",
+      "55",
+      "58",
+      "62"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sequência de Fibonacci:\nX = 8 + 13 = 21.\nY = 13 + 21 = 34.\nX + Y = 21 + 34 = 55."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Quatro servidores foram indagados sobre quem esqueceu um carimbo funcional fora do cofre. Amanda disse: 'Foi o Bernardo'. Bernardo disse: 'Foi o Caio'. Caio disse: 'O Bernardo mente'. Daniel disse: 'Não fui eu'. Sabendo que apenas um servidor pegou o carimbo e apenas um dos quatro disse a verdade, quem pegou o carimbo foi:",
+    "options": [
+      "Amanda.",
+      "Bernardo.",
+      "Caio.",
+      "Daniel.",
+      "Não é possível identificar com certeza."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Testando quem pegou o carimbo sabendo que existe apenas 1 verdade:\nSe Daniel pegou:\n- Amanda mente ('Foi Bernardo' -> F);\n- Bernardo mente ('Foi Caio' -> F);\n- Caio fala a verdade ('Bernardo mente' -> V, pois Bernardo mentiu mesmo);\n- Daniel mente ('Não fui eu' -> F, pois foi ele).\nNesse cenário, apenas Caio falou a verdade. Logo, Daniel pegou o carimbo."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Em um scanner departamental, a digitalização de 350 páginas de documentos consome exatamente 28 minutos de operação contínua. Mantida a mesma velocidade sem interrupções, o tempo total necessário para digitalizar 600 páginas será de:",
+    "options": [
+      "42 minutos.",
+      "45 minutos.",
+      "48 minutos.",
+      "50 minutos.",
+      "52 minutos."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Regra de três simples:\n350 páginas ----- 28 min\n600 páginas ----- X min\nX = (28 * 600) / 350 = (4 * 600) / 50 = 48 minutos."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "A capacidade do arquivo intermediário de uma repartição municipal passou de 800 caixas para 1.040 caixas após a instalação de novas prateleiras. A variação percentual de ampliação dessa capacidade foi de:",
+    "options": [
+      "24%",
+      "26%",
+      "28%",
+      "30%",
+      "32%"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aumento absoluto = 1.040 - 800 = 240 caixas.\nVariação percentual = (240 / 800) * 100% = 0,30 * 100% = 30%."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Durante quantos meses um capital de R$ 4.000,00 deve permanecer investido sob o regime de juros simples à taxa mensal de 2,5% para acumular R$ 1.500,00 exclusivamente em juros?",
+    "options": [
+      "12 meses.",
+      "14 meses.",
+      "15 meses.",
+      "16 meses.",
+      "18 meses."
+    ],
+    "correctAnswer": 2,
+    "explanation": "J = C * i * t\n1.500 = 4.000 * 0,025 * t\n1.500 = 100 * t\nt = 1.500 / 100 = 15 meses."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "A média da remuneração de 9 auxiliares de secretaria de uma regional era de R$ 2.400,00. Após a chegada de um supervisor geral transferido, a média salarial desse grupo de 10 servidores subiu para R$ 2.650,00. O salário do supervisor geral é de:",
+    "options": [
+      "R$ 4.500,00.",
+      "R$ 4.700,00.",
+      "R$ 4.850,00.",
+      "R$ 4.900,00.",
+      "R$ 5.100,00."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Soma dos salários dos 9 auxiliares = 9 * 2.400 = R$ 21.600,00.\nSoma total dos salários dos 10 servidores = 10 * 2.650 = R$ 26.500,00.\nSalário do supervisor = 26.500 - 21.600 = R$ 4.900,00."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Na análise das formas proposicionais, a proposição composta (P ^ Q) ^ (~P v ~Q) assume valor lógico falso em todas as linhas possíveis de sua tabela-verdade. Tal estrutura é classificada como uma:",
+    "options": [
+      "Contradição.",
+      "Tautologia.",
+      "Contingência.",
+      "Equivalência material nula.",
+      "Disjunção exclusiva reflexiva."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pela lei de De Morgan, (~P v ~Q) equivale a ~(P ^ Q). Logo, a expressão é da forma X ^ ~X, a qual é obrigatoriamente falsa em todas as interpretações possíveis, constituindo uma contradição."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Durante um mutirão de 10 dias úteis de digitalização de certidões, um servidor digitalizou 20 documentos no primeiro dia, 25 no segundo, 30 no terceiro e manteve essa progressão aritmética até o último dia. O total de certidões digitalizadas por ele nesse mutirão foi de:",
+    "options": [
+      "385",
+      "405",
+      "425",
+      "450",
+      "475"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PA com n = 10, a1 = 20 e r = 5.\na10 = 20 + 9 * 5 = 65.\nSoma dos 10 termos: S10 = (a1 + a10) * n / 2 = (20 + 65) * 10 / 2 = 85 * 5 = 425."
+  },
+  {
+    "materia": "Raciocínio Lógico-Mat.",
+    "peso": 4,
+    "text": "Uma gratificação trimestral de R$ 6.000,00 foi rateada entre dois setores da secretaria em partes inversamente proporcionais ao número de inconformidades registradas em cada um: o Setor 1 registrou 3 inconformidades e o Setor 2 registrou 5 inconformidades. A quantia recebida pelo Setor 1 foi de:",
+    "options": [
+      "R$ 2.250,00.",
+      "R$ 2.500,00.",
+      "R$ 3.500,00.",
+      "R$ 3.750,00.",
+      "R$ 4.000,00."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Proporção inversa entre 3 e 5 é dada por 1/3 e 1/5, equivalente à razão direta 5 para 3.\nTotal de partes = 5 + 3 = 8 partes.\nSetor 1 (que teve menos inconformidades) recebe 5 partes: (5/8) * 6.000 = 5 * 750 = R$ 3.750,00."
+  }
+]

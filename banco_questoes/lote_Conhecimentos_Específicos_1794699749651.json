@@ -1,0 +1,436 @@
+[
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com as disposições sobre servidores públicos na Seção Única do Título VIII da Lei Orgânica do Município de Aparecida de Goiânia-GO, a estabilidade após 3 (três) anos de efetivo exercício é condicionada:",
+    "options": [
+      "À obrigatoriedade de filiação a associação de classe municipal.",
+      "À realização e aprovação em avaliação especial de desempenho por comissão instituída para essa finalidade.",
+      "Ao pagamento de contribuição de melhoria pelos serviços administrativos prestados.",
+      "À renúncia expressa ao direito constitucional de greve.",
+      "Ao preenchimento de teste físico de esforço funcional a cada seis meses."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme o art. 41, § 4º da Constituição Federal e as legislações municipais correlatas, a aquisição da estabilidade pelo servidor público nomeado por concurso público é obrigatoriamente condicionada à aprovação em avaliação especial de desempenho por comissão instituída para essa finalidade."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei nº 9.394/1996 (LDB), em seu Art. 4º, inciso X, prevê expressamente como dever do Estado a garantia de vaga na escola pública de educação infantil ou de ensino fundamental mais próxima de sua residência a toda criança a partir do dia em que completar:",
+    "options": [
+      "3 (três) anos de idade.",
+      "4 (quatro) anos de idade.",
+      "5 (cinco) anos de idade.",
+      "6 (seis) anos de idade.",
+      "7 (sete) anos de idade."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Segundo o Art. 4º, inciso X, da LDB, é dever do Estado garantir vaga na escola pública de educação infantil ou de ensino fundamental mais próxima de sua residência a toda criança a partir do dia em que completar 4 (quatro) anos de idade."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na preservação física de livros de matrícula e prontuários acadêmicos em suporte de papel, o controle da umidade relativa do ar na sala do arquivo escolar é crucial. O índice de umidade relativa considerado adequado pela arquivística para evitar tanto o ressecamento do papel quanto a proliferação de fungos situa-se entre:",
+    "options": [
+      "10% e 20%.",
+      "25% e 35%.",
+      "45% e 55%.",
+      "75% e 85%.",
+      "90% e 100%."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Na conservação preventiva arquivística de documentos em suporte de papel, o índice recomendado de umidade relativa do ar situa-se na faixa de 45% a 55% (ou até 60%), evitando o ressecamento das fibras do papel (umidade muito baixa) e a proliferação de fungos e micro-organismos (umidade alta)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Nos termos do Art. 48 da Lei nº 13.709/2018 (LGPD), quando ocorre um incidente de segurança que possa acarretar risco ou dano relevante aos titulares de dados pessoais na administração escolar municipal (como vazamento acidental de histórico médico e cadastral de alunos), o controlador deve comunicar o fato em prazo razoável à:",
+    "options": [
+      "Autoridade Nacional de Proteção de Dados (ANPD) e aos titulares afetados.",
+      "Associação de Moradores do Bairro da unidade escolar.",
+      "Receita Federal do Brasil para fins de arbitramento de multas de importação.",
+      "Câmara de Dirigentes Lojistas do Estado de Goiás.",
+      "Junta Comercial do Estado para cancelamento da inscrição patronal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 48 da LGPD estabelece que o controlador deve comunicar à Autoridade Nacional de Proteção de Dados (ANPD) e aos titulares afetados a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na organização do calendário letivo e fechamento do ano escolar na rede municipal, a secretaria da escola deve certificar o cumprimento legal dos limites de trabalho pedagógico. Conforme o Art. 24 da LDB, o cômputo dos 200 dias de efetivo trabalho escolar:",
+    "options": [
+      "Inclui os dias destinados exclusivamente a reuniões de confraternização dos servidores.",
+      "Exclui o tempo reservado aos exames finais, onde houver.",
+      "Contabiliza os feriados municipais prolongados em que a escola permaneceu fechada.",
+      "Admite redução para 100 dias mediante decisão isolada do grêmio estudantil.",
+      "Pode ser integralmente dispensado se a média de notas dos estudantes for satisfatória."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme o Art. 24, inciso I, da LDB, a carga horária mínima anual deve ser distribuída por um mínimo de duzentos dias de efetivo trabalho escolar, excluído o tempo reservado aos exames finais, onde houver."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 206, inciso V, da Constituição Federal de 1988 estabelece os princípios que regem o ensino no país. De acordo com o texto constitucional, a valorização dos profissionais da educação escolar é garantida, na forma da lei, por meio de planos de carreira e ingresso na rede pública exclusivamente por:",
+    "options": [
+      "Indicação política fundamentada da comissão de pais da unidade escolar.",
+      "Concurso público de provas e títulos.",
+      "Processo seletivo simplificado baseado unicamente em análise curricular de títulos.",
+      "Sorteio público homologado pela câmara municipal de vereadores.",
+      "Contratação direta em regime de terceirização temporária contínua."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 206, V, da Constituição Federal determina a valorização dos profissionais da educação escolar, garantidos, na forma da lei, planos de carreira, com ingresso exclusivamente por concurso público de provas e títulos, aos das redes públicas."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei de Diretrizes e Bases da Educação Nacional (LDB - Lei nº 9.394/1996), em seu Art. 24, inciso III, prevê a possibilidade de as escolas organizarem seus cursos mediante progressão regular por série ou por outros critérios. O referido dispositivo autoriza expressamente os estabelecimentos que utilizam a progressão regular por série a adotarem:",
+    "options": [
+      "O regime de progressão parcial, desde que preservada a sequência do currículo, observadas as normas do respectivo sistema de ensino.",
+      "Aprovação automática incondicional de estudantes sem necessidade de recuperação pedagógica.",
+      "Retenção compulsória de discentes que apresentarem histórico de notas abaixo da média bimestral.",
+      "Eliminação antecipada de componentes curriculares obrigatórios para alunos em dependência escolar.",
+      "Substituição das disciplinas de matemática e língua portuguesa por atividades de lazer esportivo."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 24, III, da LDB prevê que, nos estabelecimentos que adotam a progressão regular por série, o regimento escolar pode admitir formas de progressão parcial, desde que preservada a sequência do currículo, observadas as normas do respectivo sistema de ensino."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No desempenho das funções de apoio administrativo na secretaria escolar, um servidor público é abordado por um amigo de infância solicitando a expedição prioritária de uma declaração de transferência em prazo menor do que o estabelecido formalmente na unidade, oferecendo em troca uma cesta de presentes. Em respeito aos princípios da ética no serviço público e da impessoalidade, o auxiliar de secretaria deve:",
+    "options": [
+      "Aceitar os presentes e adiantar a emissão do documento, pois relações de proximidade pessoal autorizam flexibilidade administrativa.",
+      "Recusar os presentes e o favorecimento indevido, informando que a expedição de documentos obedece a prazos regulamentares isonômicos aplicáveis a todos os cidadãos.",
+      "Receber os presentes em segredo e solicitar que outro colega assine a declaração para afastar sua responsabilidade.",
+      "Atrasar deliberadamente a expedição do documento por prazo indeterminado como forma de penalizar o solicitante.",
+      "Exigir uma contraprestação pecuniária maior destinada à compra de itens de escritório da própria escola."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Em respeito aos princípios constitucionais da moralidade, impessoalidade e legalidade no serviço público, o servidor deve recusar qualquer vantagem indevida, presente ou privilégio pessoal, assegurando a isonomia de tratamento e o cumprimento dos prazos regulamentares aplicáveis a toda a coletividade."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Estatuto da Criança e do Adolescente (ECA - Lei nº 8.069/1990) disciplina os direitos fundamentais no âmbito escolar. O Art. 53, inciso II, assegura expressamente à criança e ao adolescente o direito de:",
+    "options": [
+      "Vetar a presença de membros da equipe diretiva na fiscalização dos intervalos escolares.",
+      "Ser respeitado por seus educadores.",
+      "Definir a jornada diária de trabalho dos auxiliares de secretaria escolar.",
+      "Substituir docentes em exercício caso discorde do plano de curso semestral.",
+      "Isentar a si próprio do cumprimento da frequência mínima obrigatória prevista na LDB."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 53, inciso II, do Estatuto da Criança e do Adolescente (ECA) estabelece expressamente que a criança e o adolescente têm direito à educação, visando ao pleno desenvolvimento de sua pessoa, assegurando-se-lhes o direito de 'ser respeitado por seus educadores'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Durante o período de remanejamento escolar, uma responsável comparece à secretaria visivelmente angustiada porque não conseguiu transferir seu filho para o turno matutino, o qual viabilizaria sua rotina de trabalho. Considerando as noções de relações interpessoais e atendimento humanizado na escola, a conduta recomendada ao auxiliar é:",
+    "options": [
+      "Interromper bruscamente a responsável, afirmando que a secretaria não tem relação com horários de trabalho de familiares.",
+      "Demonstrar acolhimento por meio de escuta atenta, explicar de forma transparente os critérios técnicos de distribuição de vagas e orientar sobre a inclusão do pedido em lista de espera.",
+      "Garantir verbalmente a troca imediata de turno, mesmo sem vaga disponível no sistema, apenas para tranquilizar a mãe.",
+      "Fechar o guichê de atendimento e solicitar a intervenção imediata da polícia civil para retirar a mãe do recinto.",
+      "Afirmar que a responsabilidade exclusiva pelo problema decorre do descaso do Conselho Tutelar do município."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O atendimento ao público e as boas relações interpessoais no ambiente público pautam-se pela empatia, linguagem clara, transparência e orientação técnica adequada, escutando ativamente a demanda sem fazer falsas promessas nem desrespeitar os procedimentos normativos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na arquivologia, a classificação e a ordenação de documentos na fase corrente podem ser operacionalizadas por diferentes métodos. Quando os processos e expedientes escolares são ordenados rigorosamente pela data de sua emissão ou autuação (ano, mês e dia), adota-se o método:",
+    "options": [
+      "Numérico dígito-terminal.",
+      "Ideológico enciclopédico.",
+      "Geográfico por microrregião.",
+      "Cronológico.",
+      "Alfabético estrito."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O método de ordenação cronológico é aquele em que os documentos são dispostos estritamente pela sequência da data (ano, mês e dia) de emissão, registro ou autuação."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme o Manual de Redação da Presidência da República (3ª Edição, 2018), a impessoalidade é um dos princípios basilares das comunicações oficiais. Esse princípio traduz-se no texto oficial pela seguinte característica:",
+    "options": [
+      "Uso de adjetivação expressiva e figuras de linguagem poéticas que traduzam o estilo pessoal do redator.",
+      "Ausência de impressões subjetivas ou juízos individuais, predominando o caráter público do emissor e o foco estritamente funcional do assunto.",
+      "Obrigatoriedade de citar a biografia do chefe do Poder Executivo em todas as introduções de expedientes administrativos.",
+      "Inserção de comentários pessoais de louvor ao signatário nos parágrafos conclusivos do documento.",
+      "Emprego de expressões informais cotidianas para aproximar o poder público do linguajar coloquial da comunidade."
+    ],
+    "correctAnswer": 1,
+    "explanation": "De acordo com o Manual de Redação da Presidência da República, a impessoalidade decorre da própria natureza pública das comunicações oficiais, significando a isenção de impressões de caráter individual/subjetivo e a prevalência do interesse público e da função institucional."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No contexto da segurança da informação na rotina administrativa de secretarias escolares, um tipo nocivo de código malicioso (malware) que bloqueia ou criptografa os arquivos do computador institucional e exige o pagamento de um resgate financeiro para restaurar o acesso é denominado:",
+    "options": [
+      "Ransomware.",
+      "Firewall de borda.",
+      "Driver de impressão.",
+      "Sistema de gerenciamento de banco de dados.",
+      "Protocolo de transferência de correio seguro."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O ransomware é um tipo de malware de extorsão que sequestra (criptografa ou impede o acesso a) dados e sistemas digitais, exigindo o pagamento de resgate para restabelecer o acesso aos dados."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018) disciplina no Art. 6º os princípios a serem observados em atividades de tratamento. O princípio que determina que o tratamento deve limitar-se à realização de finalidades legítimas, específicas, explícitas e informadas ao titular, sem possibilidade de tratamento posterior de forma incompatível, é o princípio da:",
+    "options": [
+      "Finalidade.",
+      "Livre circulação comercial.",
+      "Não discriminação relativa.",
+      "Transparência discricionária.",
+      "Eliminação tarifada."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 6º, I, da LGPD estabelece o princípio da finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei de Acesso à Informação (Lei nº 12.527/2011) garante aos cidadãos o direito de obter informações contidas em registros ou documentos públicos. Em relação aos requisitos para a formulação do pedido de informação perante o órgão público escolar, assinale a opção correta:",
+    "options": [
+      "O requerente é obrigado a justificar perante a direção escolar o motivo pelo qual deseja conhecer os dados estatísticos da unidade.",
+      "O pedido deve conter a identificação do requerente e a especificação da informação demandada, sendo vedada a exigência de motivos determinantes da solicitação.",
+      "O requerimento exige o pagamento prévio de taxas administrativas fixadas pelo conselho escolar para deferimento do protocolo.",
+      "Apenas advogados regularmente inscritos na OAB têm legitimidade ativa para apresentar pedidos com base na LAI.",
+      "O solicitante deve comprovar residência fixa a menos de 500 metros da escola objeto do pedido informativo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme o Art. 10, § 3º, da Lei nº 12.527/2011 (LAI), são vedadas quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público. O pedido exige apenas a identificação do requerente e a especificação da informação pretendida."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Seção Única do Título VIII da Lei Orgânica do Município de Aparecida de Goiânia-GO dispõe sobre o regime dos servidores públicos municipais em consonância com a Constituição Federal. A respeito da acumulação de cargos públicos remunerados na administração municipal, é regra geral:",
+    "options": [
+      "Ampla e irrestrita acumulação remunerada de quaisquer cargos administrativos municipais até o limite de quatro vínculos.",
+      "Proibição da acumulação remunerada de cargos públicos, ressalvadas as hipóteses constitucionais em que haja compatibilidade de horários.",
+      "Permissão para acumular dois cargos técnicos da área administrativa da secretaria com um mandato de vereador sem restrição horária.",
+      "Vedação absoluta e irrevogável mesmo para os casos de profissionais do magistério e da saúde.",
+      "Possibilidade de acumular até três cargos em comissão de chefia no mesmo órgão executivo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A regra geral constitucional e municipal é a vedação da acumulação remunerada de cargos públicos, ressalvadas as exceções expressas no texto constitucional (como dois cargos de professor, um de professor com outro técnico/científico, ou dois cargos da saúde) desde que haja compatibilidade de horários."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Nos termos da Seção III do Capítulo I do Título VII da Lei Orgânica do Município de Aparecida de Goiânia-GO (Da Educação), o dever do Município para com a educação escolar pública é efetivado mediante a garantia de:",
+    "options": [
+      "Cobrança obrigatória de contribuição de melhoria escolar no ato de emissão de certificados e históricos.",
+      "Ensino fundamental obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria.",
+      "Atendimento exclusivo a estudantes do ensino superior presencial em faculdades privadas municipais.",
+      "Substituição integral da merenda escolar por repasses em espécie aos estabelecimentos comerciais vizinhos.",
+      "Gestão autocrática sem consulta prévia a conselhos escolares ou entidades comunitárias de bairro."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Em consonância com a CF/88, o dever do Município com a educação abrange a garantia do ensino fundamental obrigatório e gratuito, inclusive garantido a sua oferta para todos os que a ele não tiveram acesso na idade própria."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na rotina de gestão de pessoal e expediente administrativo da secretaria escolar, o instrumento oficial no qual é assentado diariamente o registro de entrada e saída dos servidores públicos da unidade escolar para fins de controle de assiduidade e pontualidade denomina-se:",
+    "options": [
+      "Folha de Registro de Ponto (ou Livro de Ponto).",
+      "Guia de Recolhimento da Previdência Social.",
+      "Declaração de Quitação Eleitoral Consolidada.",
+      "Prontuário de Saúde Ocupacional Privativo.",
+      "Tabela de Incidência de Imposto Territorial."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Folha de Registro de Ponto (ou Livro de Ponto) é o documento administrativo próprio utilizado para o acompanhamento e controle diário de frequência, pontualidade e assiduidade dos servidores na instituição pública."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em atenção às diretrizes nacionais de direitos humanos e às normativas dos sistemas de ensino sobre a inclusão escolar, um estudante travesti ou transexual matriculado na rede municipal solicita a utilização de seu nome social nos registros escolares. Em relação aos procedimentos da secretaria escolar, é correto afirmar:",
+    "options": [
+      "O uso do nome social é terminantemente proibido nos estabelecimentos oficiais de ensino básico antes dos 21 anos completos.",
+      "O nome social deve ser registrado nos documentos de uso interno e cotidiano da escola (diários de classe, chamadas, carteiras estudantis), respeitando a identidade de gênero do educando.",
+      "Secretaria somente pode adotar o nome social mediante prévia sentença judicial transitada em julgado de alteração do registro civil de nascimento.",
+      "O aluno deve ser transferido compulsoriamente para turmas noturnas de educação a distância em caso de pedido de nome social.",
+      "Escola pode cobrar taxa administrativa diferenciada para viabilizar a impressão de documentos com nome social."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme a Resolução CNE/CP nº 1/2018 e diretrizes de inclusão escolar, o nome social deve ser assegurado e registrado nos documentos de uso cotidiano e interno da escola (diário de classe, lista de chamada, crachás, boletins internos), assegurando a dignidade e a identidade de gênero do estudante."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 3º, inciso I, da Lei nº 9.394/1996 (LDB) estabelece que o ensino será ministrado com base em princípios formativos fundamentais. O primeiro princípio expressamente elencado no referido artigo refere-se à:",
+    "options": [
+      "Uniformização compulsória de todas as concepções pedagógicas nas redes estaduais e municipais.",
+      "Igualdade de condições para o acesso e permanência na escola.",
+      "Cobrança obrigatória de matrícula de acordo com a renda per capita declarada.",
+      "Priorização irrestrita de disciplinas teóricas em detrimento da educação física e artística.",
+      "Exclusão de discentes que apresentarem mais de duas reprovações consecutivas no ensino básico."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 3º, inciso I, da LDB prevê expressamente que o ensino será ministrado com base no princípio da 'igualdade de condições para o acesso e permanência na escola'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A lavratura de Atas de Reuniões Pedagógicas e de Conselhos de Classe na secretaria escolar exige rigor metodológico e formal para salvaguardar a segurança jurídica dos atos praticados. Dentre os requisitos de validade desse instrumento, destaca-se:",
+    "options": [
+      "Redação em texto contínuo, sem entrelinhas desnecessárias ou espaços em branco que permitam inserções adulteradas posteriores, colhendo-se as assinaturas dos presentes.",
+      "O preenchimento facultativo dos nomes dos participantes, admitindo-se assinaturas com pseudônimos.",
+      "Destruição sumária do caderno de atas após 30 dias de sua homologação pelo diretor da unidade.",
+      "O uso livre de corretivo líquido sobre decisões de reprovação para evitar atritos com os responsáveis.",
+      "Dispensa da datação e do local em que se realizou a assembleia colegiada escolar."
+    ],
+    "correctAnswer": 0,
+    "explanation": "As atas são documentos formais que registram deliberações e ocorrências de reuniões. Elas devem ser redigidas de forma contínua, sem espaçamentos, rasuras, corretivos ou entrelinhas, para evitar qualquer alteração posterior, e colher as assinaturas de todos os presentes."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na tramitação formal de processos e documentos na administração pública municipal, o expediente técnico utilizado pelo protocolo para registrar a remessa coletiva de documentos de um setor para outro, contendo a lista dos itens, assinaturas de quem envia e recibo de quem recebe, denomina-se:",
+    "options": [
+      "Guia de Tramitação (ou Guia de Remessa).",
+      "Termo de Rescisão Contratual Unilateral.",
+      "Certidão Positiva de Ação Cível.",
+      "Memorial Descritivo de Obra Pública.",
+      "Auto de Constatação Tributária Externa."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Guia de Tramitação (ou Guia de Remessa/Protocolo) é o documento que formaliza a transferência de processos e documentos de uma unidade administrativa para outra, registrando o remetente, o destinatário, o conteúdo e a confirmação de recebimento."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em arquivologia, o material físico ou meio no qual as informações e os dados são registrados e fixados (como papel, filme de microfilme, fita magnética, disco óptico ou meio magnético/digital) recebe tecnicamente o nome de:",
+    "options": [
+      "Suporte documental.",
+      "Tipo documental privativo.",
+      "Espécie probatória abstrata.",
+      "Fundo aberto extraordinário.",
+      "Tabela de temporalidade genérica."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suporte documental é a base física ou meio de registro sobre o qual as informações e dados são gravados (ex: papel, fita magnética, microfilme, disco óptico, arquivo digital)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na edição de textos de relatórios e ofícios utilizando o Microsoft Word em sua configuração padrão em português do Brasil, o atalho de teclado empregado para selecionar simultaneamente todo o conteúdo do documento ativo é:",
+    "options": [
+      "Ctrl + C.",
+      "Ctrl + V.",
+      "Ctrl + T.",
+      "Ctrl + B.",
+      "Ctrl + P."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Na versão em Português (Brasil) do Microsoft Word, a combinação de teclas de atalho para 'Selecionar Tudo' é Ctrl + T."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na rotina da secretaria, um servidor precisa acessar o Sistema Integrado de Gestão Escolar com urgência, mas esqueceu sua senha funcional. Um colega oferece sua própria credencial de login e senha para que ele efetue alterações no diário de notas de terceiros. Sob as normas de segurança da informação e conduta ética no serviço público, a atitude adequada do servidor é:",
+    "options": [
+      "Aceitar o acesso compartilhado e lançar as notas utilizando a senha alheia para agilizar a demanda.",
+      "Recusar o compartilhamento de credenciais, pois senhas funcionais são pessoais e intransferíveis, e solicitar a redefinição de sua própria senha pelos canais oficiais de suporte.",
+      "Anotar a senha do colega no mural público da secretaria para permitir que todos os estagiários também acessem o sistema.",
+      "Acessar o sistema com a senha do colega e alterar as permissões de administrador sem autorização.",
+      "Desligar os servidores da prefeitura para forçar o reinício de todas as senhas da rede municipal."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Senhas funcionais de acesso aos sistemas de informação do poder público são estritamente pessoais e intransferíveis para garantir a auditabilidade, autoria dos atos e segurança da informação."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 56, inciso I, do Estatuto da Criança e do Adolescente (Lei nº 8.069/1990) impõe obrigações legais diretas aos dirigentes de estabelecimentos de ensino fundamental. O referido inciso determina que os dirigentes comunicarão obrigatoriamente ao Conselho Tutelar os casos de:",
+    "options": [
+      "Maus-tratos envolvendo seus alunos.",
+      "Atraso injustificado no retorno dos livros da biblioteca escolar.",
+      "Uso de vestimenta sem o emblema oficial da administração municipal.",
+      "Notas baixas obtidas na primeira avaliação diagnóstica semestral.",
+      "Opiniões políticas discordantes manifestadas por pais em grupos de mensagens."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 56, I, do ECA estabelece que os dirigentes de estabelecimentos de ensino fundamental comunicarão obrigatoriamente ao Conselho Tutelar os casos de maus-tratos envolvendo seus alunos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme o Art. 208, inciso V, da Constituição Federal de 1988, o dever do Estado com a educação será efetivado mediante a garantia de acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística:",
+    "options": [
+      "Mediante pagamento compulsório de taxas laboratoriais suplementares.",
+      "Segundo a capacidade de cada um.",
+      "Exclusivamente por critérios de sorteio público informatizado.",
+      "Apenas para os discentes que concluírem o ensino médio em escolas militares.",
+      "Condicionado à comprovação de renda familiar superior a dez salários mínimos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 208, V, da CF/88 dispõe que o dever do Estado com a educação será efetivado mediante a garantia de 'acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 6º, inciso IV, da Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD) define o princípio do livre acesso. Aplicado à rotina da secretaria escolar municipal, esse princípio confere aos pais e responsáveis legais pelo estudante o direito de:",
+    "options": [
+      "Alterar livremente as notas e registros de presença de seus filhos sem autorização docente.",
+      "Consultar de forma facilitada e gratuita a exatidão, a forma e a duração do tratamento de todos os dados pessoais do aluno em poder da escola.",
+      "Comercializar os dados cadastrais da turma com empresas de formatura particulares.",
+      "Exigir a destruição imediata de livros de matrícula permanentes protegidos por lei arquivística.",
+      "Proibir a realização do Censo Escolar nacional obrigatório pelo Ministério da Educação."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme o Art. 6º, IV, da LGPD, o princípio do livre acesso garante aos titulares a consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na redação oficial, o vocativo é a forma pela qual o emissor se dirige formalmente ao destinatário no início do expediente. Em conformidade com o Manual de Redação da Presidência da República (3ª Edição, 2018), ao endereçar um ofício ao Secretário Municipal de Educação, a forma correta do vocativo é:",
+    "options": [
+      "Ilustríssimo Senhor Secretário Municipal de Educação,",
+      "Digníssimo Senhor Doutor Secretário de Educação,",
+      "Senhor Secretário,",
+      "Prezado Amigo e Mui Digno Secretário Municipal,",
+      "Vossa Magnificência de Educação Básica,"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Segundo o Manual de Redação da Presidência da República (3ª edição, 2018), o vocativo a ser empregado nas comunicações oficiais para autoridades é 'Senhor' seguido do cargo da autoridade (por exemplo: 'Senhor Secretário,'). Foram abolidos os vocativos 'Ilustríssimo' e 'Digníssimo'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei de Diretrizes e Bases da Educação Nacional (LDB - Lei nº 9.394/1996), em seu Art. 24, inciso V, alínea 'e', regulamenta a verificação do rendimento escolar na educação básica. De acordo com o texto legal, a instituição de ensino tem a obrigação de ofertar aos discentes de baixo rendimento escolar:",
+    "options": [
+      "Exames de expulsão disciplinar sumaríssimos ao término do primeiro semestre letivo.",
+      "Estudos de recuperação, de preferência paralelos ao período letivo, a serem disciplinados no regimento escolar.",
+      "Aprovação compulsória automática sem qualquer avaliação suplementar de conteúdo.",
+      "Transferência obrigatória para escolas rurais de municípios vizinhos.",
+      "Cobrança suplementar de taxas de reforço escolar recolhidas aos cofres municipais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 24, V, 'e', da LDB determina a 'obrigatoriedade de estudos de recuperação, de preferência paralelos ao período letivo, para os casos de baixo rendimento escolar, a serem disciplinados pelas instituições de ensino em seus regimentos'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 214 da Constituição Federal de 1988 estabelece que o Plano Nacional de Educação (PNE), de duração decenal, tem como meta articular o sistema nacional de ensino em regime de colaboração. Dentre as diretrizes expressamente enumeradas no texto constitucional para as ações do PNE, inclui-se:",
+    "options": [
+      "Privatização gradual de estabelecimentos da educação infantil municipal.",
+      "Erradicação do analfabetismo e a universalização do atendimento escolar.",
+      "Supressão dos conselhos escolares deliberativos em áreas urbanas periféricas.",
+      "Imposição de avaliação classificatória punitiva para retenção no maternal.",
+      "Unificação compulsória de todos os calendários agrícolas municipais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 214 da CF/88 estabelece que o Plano Nacional de Educação visará à articulação do sistema nacional de ensino e define entre suas diretrizes a erradicação do analfabetismo (inciso I) e a universalização do atendimento escolar (inciso II)."
+  }
+]

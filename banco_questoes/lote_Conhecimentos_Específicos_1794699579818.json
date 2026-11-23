@@ -1,0 +1,464 @@
+[
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Censo Escolar da Educação Básica é o principal instrumento estatístico de coleta de dados sobre a educação no Brasil, coordenado nacionalmente pelo INEP. Na rotina da secretaria escolar municipal, o fornecimento fidedigno das informações do censo tem impacto direto:",
+    "options": [
+      "Na definição do valor venal do IPTU cobrado dos imóveis vizinhos à escola.",
+      "No cálculo e repasse de recursos federais (como FUNDEB, merenda do PNAE e transporte escolar do PNATE) destinados ao município.",
+      "Na isenção do pagamento de energia elétrica para os servidores da secretaria escolar.",
+      "Na alteração automática do calendário de feriados religiosos do município.",
+      "Na nomeação direta de servidores comissionados pelo Poder Legislativo estadual."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Os dados repassados ao Censo Escolar/INEP servem de base direta para o cálculo do repasse de verbas e programas federais de assistência educacional, como o FUNDEB, o PNAE (alimentação escolar) e o PNATE (transporte escolar)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com o Manual de Redação da Presidência da República (3ª Edição, 2018), ao redigir um ofício expedido pela secretaria da escola municipal e endereçado a um Juiz de Direito da Vara da Infância e da Juventude, o pronome de tratamento correto a ser empregado no corpo do texto é:",
+    "options": [
+      "Vossa Santidade.",
+      "Vossa Magnificência.",
+      "Vossa Excelência.",
+      "Vossa Paternidade.",
+      "Vossa Ilustríssima Benignidade."
+    ],
+    "correctAnswer": 2,
+    "explanation": "No padrão ofício e de acordo com o Manual de Redação da Presidência da República, autoridades do Poder Judiciário (como Juízes de Direito) recebem o tratamento de Vossa Excelência."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Um aluno sofre um acidente grave durante o recreio na escola e necessita de socorro médico emergencial imediato. A equipe médica do SAMU solicita à secretaria o histórico de alergias e o tipo sanguíneo arquivados na ficha médica do estudante. Sob a ótica da LGPD (Lei nº 13.709/2018), o fornecimento imediato desses dados sensíveis aos socorristas:",
+    "options": [
+      "É expressamente vedado sob pena de multa milionária imposta pela ANPD.",
+      "É plenamente legítimo, fundamentando-se na proteção da vida ou da incolumidade física do titular dos dados.",
+      "Depende de autorização judicial prévia por escrito da comarca de Aparecida de Goiânia.",
+      "Exige a convocação extraordinária do conselho escolar e votação da maioria absoluta.",
+      "Fica condicionado à prévia publicação do laudo médico no diário oficial do município."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Segundo o art. 7º, VII, e art. 11, II, 'c', da LGPD, o tratamento de dados pessoais (inclusive sensíveis) é dispensado de consentimento quando necessário para a proteção da vida ou da incolumidade física do titular ou de terceiro."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme a Lei de Acesso à Informação (Lei nº 12.527/2011, Art. 9º), os órgãos e entidades do poder público devem viabilizar a realização de pedidos de informação por qualquer interessado. Para esse fim, é dever do Poder Público criar e manter o:",
+    "options": [
+      "Serviço de Informações ao Cidadão (SIC), em unidade física e sítio oficial na internet.",
+      "Comitê Secreto de Informações Restritas, de acesso exclusivo a prefeitos e vereadores.",
+      "Balcão de Auditoria Judiciária Domiciliar.",
+      "Gabinete de Censura Prévia às Reclamações Comunitárias.",
+      "Posto de Coleta Noturna de Denúncias Anônimas."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Lei de Acesso à Informação (Lei nº 12.527/2011), em seu artigo 9º, determina a criação do Serviço de Informações ao Cidadão (SIC) em local físico adequado e em sítio eletrônico oficial."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No ambiente computacional da secretaria escolar, o mecanismo de segurança que codifica dados legíveis transformando-os em caracteres incompreensíveis para quem não possui a chave autorizada de decodificação, garantindo a confidencialidade no envio de relatórios e senhas, denomina-se:",
+    "options": [
+      "Desfragmentação.",
+      "Criptografia.",
+      "Overclocking.",
+      "Compactação zip sem senha.",
+      "Formatação rápida de disco."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Criptografia é o processo de codificação de dados legíveis em texto cifrado para prevenir o acesso não autorizado por partes que não possuem a chave de decodificação."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com a Seção Única do Título VIII da Lei Orgânica do Município de Aparecida de Goiânia-GO e o Art. 41, § 1º, da Constituição Federal, o servidor público estável só perderá o cargo:",
+    "options": [
+      "Por vontade unilateral e discricionária do prefeito, sem necessidade de fundamentação.",
+      "Em virtude de sentença judicial transitada em julgado ou mediante processo administrativo disciplinar no qual lhe seja assegurada ampla defesa.",
+      "Caso não participe de festividades e eventos cívicos organizados pela secretaria municipal.",
+      "Sempre que houver troca de gestão política no Poder Executivo municipal.",
+      "Se expressar discordância técnica em relação aos métodos pedagógicos do conselho de classe."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O servidor estável perde o cargo em virtude de sentença judicial transitada em julgado, processo administrativo disciplinar (PAD) com ampla defesa, ou procedimento de avaliação periódica de desempenho."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996), em seu Art. 14, estabelece que os sistemas de ensino definirão as normas da gestão democrática do ensino público na educação básica, de acordo com as suas peculiaridades e conforme os seguintes princípios:",
+    "options": [
+      "Nomeação direta de todos os cargos por sorteio público e extinção dos conselhos escolares.",
+      "Participação dos profissionais da educação na elaboração do projeto pedagógico da escola e participação das comunidades escolar e local em conselhos escolares ou equivalentes.",
+      "Centralização orçamentária no Poder Legislativo e proibição da participação de grêmios estudantis.",
+      "Delegação das atribuições escolares exclusivas a fundações privadas com fins lucrativos.",
+      "Eliminação de avaliações institucionais e proibição de reuniões entre pais e professores."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 14 da LDB estabelece a participação dos profissionais da educação na elaboração do projeto pedagógico da escola e a participação das comunidades escolar e local em conselhos escolares ou equivalentes como princípios da gestão democrática."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 207 da Constituição Federal de 1988 estabelece que as universidades gozam de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre:",
+    "options": [
+      "Ensino, pesquisa e extensão.",
+      "Ensino religioso, ensino militar e ensino técnico.",
+      "Administração pública, iniciativa privada e sindicatos.",
+      "Notas escolares, frequência bimestral e mensalidades.",
+      "Teoria pedagógica, disciplina corretiva e vigilância patrimonial."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O artigo 207 da Constituição Federal prevê explicitamente que as universidades obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na documentação escolar sob guarda da secretaria, o documento que estrutura formalmente a relação de componentes curriculares (disciplinas), sua distribuição por séries ou anos de ensino e as respectivas cargas horárias semanais e anuais é a:",
+    "options": [
+      "Ficha individual de saúde discente.",
+      "Matriz Curricular.",
+      "Guia de trânsito em julgado.",
+      "Notificação extrajudicial de cobrança.",
+      "Relação de bens fungíveis da biblioteca."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Matriz Curricular é o documento institucional que organiza as disciplinas/componentes curriculares, a distribuição em séries/anos e a carga horária correspondente."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No contexto arquivístico escolar, os documentos que deixaram de ser consultados com frequência diária, mas que ainda devem ser conservados pela administração escolar para aguardar prazos prescricionais ou precaucionais de eventuais direitos legais, pertencem ao arquivo:",
+    "options": [
+      "Corrente ou de gestão.",
+      "Intermediário (ou pré-arquivo).",
+      "Permanente ou histórico.",
+      "Extinto ou destruído.",
+      "Anônimo ou clandestino."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Arquivo Intermediário guarda documentos que perderam a frequência de consulta diária (fase corrente), mas que devem ser preservados aguardando prazos prescricionais/precaucionais antes do descarte ou guarda permanente."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No Manual de Redação da Presidência da República (3ª Edição, 2018), a identificação do expediente no Padrão Ofício (composta pela palavra Ofício, a sigla do órgão expedidor e o número sequencial do documento) é posicionada:",
+    "options": [
+      "Centralizada na margem inferior da última página.",
+      "No canto superior direito, alinhada à direita da folha.",
+      "No início do documento, à margem esquerda, abaixo do cabeçalho.",
+      "No rodapé da página, em notas explicativas de tamanho reduzido.",
+      "Em caixa de texto flutuante transversal sobre o texto principal."
+    ],
+    "correctAnswer": 2,
+    "explanation": "De acordo com o MRPR (3ª ed.), o cabeçalho fica centralizado no topo e o título/identificação do documento é posicionado à margem esquerda, logo abaixo do cabeçalho."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com o Art. 13 do Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), os casos de suspeita ou confirmação de castigo físico, de tratamento cruel ou degradante e de maus-tratos contra criança ou adolescente serão obrigatoriamente comunicados ao:",
+    "options": [
+      "Cartório de Registro de Imóveis da respectiva comarca.",
+      "Conselho Tutelar da respectiva localidade, sem prejuízo de outras medidas legais.",
+      "Sindicato dos Trabalhadores do Ensino Privado.",
+      "Tribunal de Contas dos Municípios do Estado de Goiás.",
+      "Procon municipal para abertura de processo sancionatório mercantil."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 13 do ECA determina que os casos de suspeita ou confirmação de maus-tratos, castigo físico ou tratamento cruel/degradante contra crianças e adolescentes serão obrigatoriamente comunicados ao Conselho Tutelar da respectiva localidade."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em situações em que um cidadão apresenta reclamação incisiva na secretaria sobre um atraso na expedição de um certificado de conclusão, a aplicação de técnicas de resolução de problemas e relações humanas orienta que o servidor:",
+    "options": [
+      "Culpe explicitamente os colegas de outros turnos para livrar-se de qualquer cobrança pessoal.",
+      "Demonstre interesse real na queixa, verifique imediatamente o status do processo no sistema, informe prazos precisos e mantenha postura serena e respeitosa.",
+      "Recuse-se a responder até que o requerente traga um advogado devidamente constituído.",
+      "Responda com ironia para demonstrar que atrasos administrativos são rotineiros e inevitáveis.",
+      "Retenha os documentos originais do aluno como forma de punição pela abordagem ríspida."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A boa prática no atendimento ao público e nas relações interpessoais orienta manter a calma, demonstrar empatia e interesse, consultar as informações concretas do processo e agir com cortesia e profissionalismo."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Ao utilizar um navegador de internet (como Google Chrome ou Mozilla Firefox) em um computador de uso compartilhado na secretaria escolar, a funcionalidade de 'Navegação Anônima' ou 'Privada' tem como característica principal:",
+    "options": [
+      "Garantir que o computador fique imune a ataques físicos de curto-circuito na rede elétrica.",
+      "Não salvar histórico de navegação, cookies e dados de formulários inseridos durante aquela sessão após o fechamento da janela.",
+      "Aumentar a velocidade do processador físico do computador em mais de 100%.",
+      "Tornar o servidor público completamente invisível perante as câmeras de segurança da repartição.",
+      "Dispensar o uso de senhas para acessar o sistema bancário oficial da prefeitura."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A navegação anônima/privada impede que o navegador guarde localmente o histórico de navegação, cookies e informações digitadas em formulários após a sessão ser encerrada."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme a Lei Orgânica do Município de Aparecida de Goiânia-GO, a organização do sistema municipal de ensino deve assegurar aos estabelecimentos oficiais de educação:",
+    "options": [
+      "Cobrança de taxa de conservação predial dos discentes em vulnerabilidade social.",
+      "Graus progressivos de autonomia pedagógica, administrativa e de gestão financeira, observadas as normas gerais de direito financeiro público.",
+      "Exclusão definitiva de conselhos comunitários das decisões sobre cardápio escolar.",
+      "Proibição de projetos esportivos ou artísticos nas dependências das escolas municipais.",
+      "Conversão de escolas públicas em empresas públicas de capital aberto."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A legislação prevê a garantia de graus progressivos de autonomia pedagógica, administrativa e de gestão financeira às instituições de ensino públicas, respeitada a legislação financeira aplicável."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A situação em que o confronto entre o interesse público e os interesses privados do servidor público possa comprometer o interesse coletivo ou influenciar, de maneira imprópria, o desempenho de suas funções é denominada:",
+    "options": [
+      "Prevaricação legítima.",
+      "Conflito de interesses.",
+      "Coisa julgada material.",
+      "Desvio de função consentido.",
+      "Livre iniciativa funcional."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O conflito de interesses ocorre quando o interesse privado do agente público colide com os deveres do cargo e o interesse público."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na rotina de protocolo e tramitação de processos administrativos na secretaria escolar, o ato formal de retirar definitivamente folhas ou documentos de um processo, mediante certidão e justificativa da autoridade competente, denomina-se:",
+    "options": [
+      "Desentranhamento.",
+      "Apensamento tácito.",
+      "Diligência externa.",
+      "Juntada por linha de corte.",
+      "Homologação preliminar."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Desentranhamento é a retirada formal de documentos autuados previamente em um processo administrativo, mediante justificativa e lavratura de termo/certidão."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 3º, inciso X, da Lei nº 9.394/1996 (LDB) estabelece como um dos princípios norteadores do ensino nacional a:",
+    "options": [
+      "Desconsideração total de qualquer experiência obtida pelo discente fora da escola oficial.",
+      "Valorização da experiência extraescolar.",
+      "Obrigatoriedade de internação compulsória para alunos com histórico de reprovação.",
+      "Proibição do ensino de história regional nos anos iniciais do ensino fundamental.",
+      "Extinção dos critérios de avaliação formativa e diagnóstica."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O inciso X do art. 3º da LDB prevê a 'valorização da experiência extraescolar' como um dos princípios norteadores do ensino."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme o Art. 16 da Lei nº 13.709/2018 (LGPD), os dados pessoais serão eliminados após o término de seu tratamento, no âmbito e nos limites técnicos das atividades, autorizada a sua conservação para:",
+    "options": [
+      "Venda a empresas terceirizadas de publicidade de produtos escolares.",
+      "Cumprimento de obrigação legal ou regulatória pelo controlador e estudo por órgão de pesquisa (garantida a anonimização sempre que possível).",
+      "Publicação em murais abertos da comunidade para fins de constrangimento cívico.",
+      "Distribuição a agências bancárias particulares para oferta de crédito pessoal a menores.",
+      "Exposição em eventos comemorativos locais sem o consentimento dos titulares."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 16 da LGPD prevê hipóteses de conservação de dados após o fim do tratamento, tais como o cumprimento de obrigação legal ou regulatória pelo controlador e o estudo por órgão de pesquisa."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No Manual de Redação da Presidência da República e nos manuais estaduais de redação oficial, o atributo que garante que o texto seja compreendido de imediato pelo leitor, sem ambiguidades sintáticas ou construções obscuras, é a:",
+    "options": [
+      "Prolixidade ornamental.",
+      "Clareza.",
+      "Subjetividade poética.",
+      "Afetação vocabular.",
+      "Parcialidade retórica."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A clareza é o atributo do texto oficial que possibilita a imediata compreensão pelo leitor, evitando ambiguidades e obscuridades."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No exercício de suas funções, o auxiliar de secretaria escolar tem acesso contínuo a prontuários, registros socioeconômicos e relatórios pedagógicos de estudantes. Em relação ao sigilo das informações e à conduta ética no serviço público, assinale a afirmativa correta:",
+    "options": [
+      "O dever de sigilo funcional extingue-se automaticamente caso o estudante seja transferido para outra instituição de ensino do município.",
+      "Divulgação de dados privados de discentes é permitida sem autorização quando solicitada informalmente por líderes comunitários do bairro.",
+      "O servidor deve guardar reserva sobre dados e documentos institucionais obtidos em função do cargo, sendo o sigilo um dever funcional permanente.",
+      "O princípio da publicidade administrativa autoriza a fixação das fichas médicas de alunos nos murais externos da secretaria escolar.",
+      "O auxiliar de secretaria pode compartilhar cópias de históricos escolares com estabelecimentos comerciais locais para concessão de descontos."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Guardar sigilo e reserva de dados pessoais obtidos em razão do cargo é dever ético e funcional permanente do servidor público."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 206 da Constituição Federal de 1988 estabelece os princípios mediante os quais o ensino será ministrado. O inciso VIII desse artigo, incluído pela Emenda Constitucional nº 53/2006, consagra expressamente a garantia de:",
+    "options": [
+      "Uniforme escolar gratuito padronizado em todas as instituições de ensino fundamental e superior.",
+      "Piso salarial profissional nacional para os profissionais da educação escolar pública, nos termos de lei federal.",
+      "Isenção tributária integral aos estabelecimentos educacionais mantidos por entidades privadas comerciais.",
+      "Acesso irrestrito de candidatos não concursados ao magistério efetivo da rede pública municipal.",
+      "Bolsa de estudos internacional compulsória a todos os concludentes dos anos finais do ensino fundamental."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A EC nº 53/2006 incluiu o inciso VIII no Art. 206 da CF/88, instituindo o piso salarial profissional nacional para os profissionais da educação escolar pública."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme o Art. 4º, inciso III, da Lei nº 9.394/1996 (LDB), o dever do Estado com a educação escolar pública será efetivado mediante a garantia de atendimento educacional especializado gratuito aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação:",
+    "options": [
+      "Exclusivamente aos sábados em regime de internato assistencial mantido por fundações privadas.",
+      "Transversal a todos os níveis, etapas e modalidades, preferencialmente na rede regular de ensino.",
+      "Apenas na educação infantil, cessando a assistência ao ingressar no ensino fundamental regular.",
+      "Mediante pagamento subsidiado de taxas de apoio pedagógico pelos respectivos responsáveis legais.",
+      "Condicionado à aprovação prévia em exame classificatório elaborado pela comissão de professores."
+    ],
+    "correctAnswer": 1,
+    "explanation": "De acordo com o Art. 4º, III, da LDB, o atendimento educacional especializado é gratuito e transversal a todos os níveis, etapas e modalidades, preferencialmente na rede regular de ensino."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 54 do Estatuto da Criança e do Adolescente (ECA - Lei nº 8.069/1990) disciplina as garantias a serem efetivadas pelo Poder Público na educação. De acordo com o inciso VII desse artigo, o atendimento no ensino fundamental dar-se-á por meio de programas suplementares de:",
+    "options": [
+      "Material didático-escolar, transporte, alimentação e assistência à saúde.",
+      "Aquisição compulsória de imóveis residenciais funcionais para os docentes.",
+      "Fornecimento de internet gratuita em aparelhos telefônicos particulares dos familiares.",
+      "Subvenção econômica a empresas privadas de alimentação que atuam fora da escola.",
+      "Crédito rotativo bancário municipal concedido a alunos de menor rendimento acadêmico."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 54, VII, do ECA preconiza programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde para o ensino fundamental."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No contexto do atendimento em secretarias escolares e das relações interpessoais com pais e responsáveis, o profissional que emprega a comunicação assertiva caracteriza-se por:",
+    "options": [
+      "Impor suas decisões de maneira autoritária, desconsiderando as indagações dos familiares para demonstrar poder institucional.",
+      "Concordar passivamente com exigências contrárias às normas legais apenas para encerrar rapidamente o diálogo no balcão.",
+      "Expressar as normas e orientações institucionais com clareza, firmeza, cortesia e respeito, sem recorrer à agressividade ou à submissão.",
+      "Recusar o diálogo presencial, delegando toda a comunicação a cartazes fixados no portão da instituição escolar.",
+      "Emitir juízos de valor negativos acerca da conduta familiar do aluno durante o atendimento ao público."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A comunicação assertiva envolve expressar posições e normas com clareza, firmeza e respeito, sem cair no autoritarismo agressivo nem na passividade submissa."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na organização de documentos de reuniões e conselhos de classe, a ata formal já encerrada e assinada pode necessitar de uma retificação decorrente de omissão constatada posteriormente. A fórmula correta para registrar esse acréscimo após as assinaturas denomina-se:",
+    "options": [
+      "Entrelinha tácita.",
+      "Em tempo.",
+      "Despacho preclusivo.",
+      "Auto de infração.",
+      "Alvará escolar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A expressão 'Em tempo' é a ressalva/aditamento formal utilizada ao final da ata após o encerramento para corrigir omissões ou aditar esclarecimentos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No setor de protocolo da administração escolar municipal, o ato administrativo inicial de reunir peças documentais apresentadas por um cidadão, inserindo capa padronizada, número sequencial de registro e termo de abertura para formalizar o início de um processo, denomina-se:",
+    "options": [
+      "Autuação.",
+      "Desentranhamento.",
+      "Expurgo sumário.",
+      "Preclusão consumativa.",
+      "Tabelamento temporário."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Autuação é o ato inicial de autuar (colocar capa, autuar documentos, atribuir número de protocolo) para formação formal de um processo administrativo."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na arquivologia aplicada à secretaria escolar, a ordenação de pastas de alunos pelo método alfabético obedece a regras de alfabetação consagradas. Ao arquivar prontuários com sobrenomes compostos com designativos de parentesco (Filho, Júnior, Neto, Sobrinho), a regra determina que:",
+    "options": [
+      "O designativo de parentesco seja ignorado completamente na escrita da ficha de identificação.",
+      "O designativo de parentesco acompanhe o sobrenome anterior para formar a entrada principal de alfabetação.",
+      "Entrada seja feita prioritariamente pela primeira letra do prenome do aluno registrado.",
+      "O designativo de parentesco encabece a ordem antes mesmo do último sobrenome familiar.",
+      "Pasta seja remetida obrigatoriamente para a seção de arquivos numéricos especiais da prefeitura."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pelas regras clássicas de alfabetação de nomes (ex.: Marcondes Filho), os qualificadores de parentesco acompanham o sobrenome precedente na ordenação alfabética."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Diário de Classe é documento escolar oficial indispensável para a comprovação da frequência e do rendimento dos estudantes. Acerca de sua natureza jurídica e operacional na secretaria escolar, é correto afirmar que:",
+    "options": [
+      "Possui natureza de rascunho de uso particular do docente, dispensando guarda oficial ou arquivo após o ano letivo.",
+      "É documento com fé pública institucional, cuja escrituração deve ser fidedigna, sem rasuras, servindo de base legal para a emissão do histórico escolar.",
+      "Pode ser modificado livremente pelo auxiliar de secretaria mediante uso de corretivo líquido sempre que solicitado pela turma.",
+      "Sua elaboração é de responsabilidade exclusiva dos membros do grêmio estudantil eleito na unidade.",
+      "Pode ser eliminado imediatamente após o lançamento dos boletins bimestrais nas redes sociais escolares."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Diário de Classe possui natureza de documento oficial dotado de fé pública institucional, cujas informações servem de base para a emissão de históricos escolares e comprovantes de escolaridade."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei de Acesso à Informação (Lei nº 12.527/2011), em seu Art. 8º, preconiza o dever dos órgãos e entidades públicas municipais de promoverem a divulgação de informações de interesse coletivo ou geral, independentemente de requerimentos. Esse mecanismo legal denomina-se:",
+    "options": [
+      "Transparência ativa.",
+      "Transparência passiva.",
+      "Sigilo compulsório.",
+      "Reserva de jurisdição.",
+      "Acesso restrito condicionado."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A divulgação espontânea de dados de interesse público pelo poder público, sem necessidade de provocação pelo cidadão, chama-se transparência ativa."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Nos termos da Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD), o documento elaborado pelo controlador que descreve os processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas e mecanismos de mitigação de risco, é o:",
+    "options": [
+      "Livro de Termo de Posse Funcional.",
+      "Relatório de Impacto à Proteção de Dados Pessoais (RIPD).",
+      "Manual de Gestão Orçamentária da Educação Básica.",
+      "Boletim Circunstanciado de Ocorrências Escolares.",
+      "Certificado de Conclusão do Ensino Fundamental."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Relatório de Impacto à Proteção de Dados Pessoais (RIPD) é a documentação do controlador que detalha o tratamento e as medidas de salvaguarda e mitigação dos riscos envolvidos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Manual de Redação da Presidência da República (3ª Edição, 2018) estabelece parâmetros padronizados de tipografia para os documentos oficiais elaborados no Padrão Ofício. De acordo com as normas vigentes, a fonte e o tamanho recomendados para o corpo do texto do ofício são:",
+    "options": [
+      "Comic Sans, corpo 14.",
+      "Calibri ou Carlito, corpo 12 para o texto em geral e corpo 10 para notas de rodapé e citações longas.",
+      "Courier New, corpo 16 para dar destaque às ordens administrativas.",
+      "Times New Roman negritada, corpo 18 em todas as linhas da correspondência oficial.",
+      "Impact com espaçamento duplo, corpo 8 para economizar espaço de folha."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Manual da Presidência da República (3ª ed., 2018) estabelece o uso das fontes Calibri ou Carlito, tamanho 12 pt no corpo do texto e tamanho 10 pt para notas de rodapé e citações destacadas."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na rotina de informática da secretaria escolar, um sistema de segurança baseado em hardware ou software que monitora e filtra o tráfego de dados de entrada e saída da rede com base em regras de segurança predefinidas, impedindo invasões externas, denomina-se:",
+    "options": [
+      "Firewall.",
+      "Mouse óptico.",
+      "Memória Cache.",
+      "Trackball.",
+      "Plotter."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Um Firewall é um dispositivo de segurança de rede (hardware ou software) que monitora o tráfego de entrada e saída, bloqueando acessos não autorizados segundo regras predefinidas."
+  }
+]

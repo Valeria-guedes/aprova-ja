@@ -1,0 +1,352 @@
+[
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Durante o expediente na secretaria de uma escola municipal, um pai solicita à Conhecimentos Específicos informações sobre o laudo médico e as notas de um aluno que não é seu filho, alegando que este colega tem prejudicado o rendimento da turma. Considerando a ética no serviço público e o sigilo das informações institucionais, a conduta correta do servidor é:",
+    "options": [
+      "Fornecer as informações apenas verbalmente, evitando registros que possam caracterizar infração.",
+      "Apresentar o laudo médico para acalmar o pai, mas manter sigilo sobre as notas, que são protegidas pelo Conselho de Classe.",
+      "Negar o acesso às informações solicitadas, justificando o dever de sigilo, a proteção à privacidade do estudante e o cumprimento das normativas éticas.",
+      "Exigir que o pai preencha um requerimento formal no protocolo, para só então fornecer a cópia do laudo e do histórico escolar.",
+      "Consultar a direção da escola para que o diretor decida se o pai tem o direito de ler o prontuário do aluno na secretaria."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O sigilo das informações institucionais e a ética profissional impedem o compartilhamento de dados pessoais, acadêmicos e, sobretudo, sensíveis (como laudos médicos) com terceiros não autorizados. A proteção à privacidade do aluno deve ser garantida pela secretaria."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Conforme a Constituição Federal de 1988 (Art. 205), a educação é definida constitucionalmente como:",
+    "options": [
+      "Direito apenas das crianças e adolescentes e dever exclusivo do Estado, visando ao preparo para o trabalho.",
+      "Direito de todos e dever do Estado e da família, promovida e incentivada com a colaboração da sociedade.",
+      "Direito exclusivo dos cidadãos brasileiros natos, sendo dever da família custear o ensino básico.",
+      "Dever do Estado, da União e dos Municípios, cabendo à família apenas o acompanhamento das notas escolares.",
+      "Serviço público facultativo, ofertado pelo Estado àqueles que comprovarem carência socioeconômica."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Constituição Federal, em seu art. 205, estabelece claramente que a educação é direito de todos e dever do Estado e da família, e será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "De acordo com o Art. 206 da Constituição Federal de 1988, o ensino será ministrado com base em diversos princípios. Assinale a alternativa que NÃO apresenta um desses princípios constitucionais.",
+    "options": [
+      "Igualdade de condições para o acesso e permanência na escola.",
+      "Liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber.",
+      "Obrigatoriedade de uniforme escolar padronizado nacionalmente.",
+      "Pluralismo de ideias e de concepções pedagógicas.",
+      "Gratuidade do ensino público em estabelecimentos oficiais."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O uso de uniforme não é um princípio constitucional. Os incisos do Art. 206 elencam como princípios a igualdade de condições, a liberdade de aprender e ensinar, o pluralismo de ideias, a gratuidade do ensino público oficial, a valorização dos profissionais da educação e a gestão democrática do ensino público, entre outros."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "A Lei nº 9.394/1996 (Diretrizes e Bases da Educação Nacional - LDB) estrutura a educação escolar brasileira. Segundo a LDB, a educação escolar compõe-se de:",
+    "options": [
+      "Ensino Fundamental e Ensino Médio.",
+      "Educação Infantil, Ensino Fundamental, Ensino Médio e Ensino Técnico.",
+      "Educação Básica (formada pela educação infantil, ensino fundamental e ensino médio) e Educação Superior.",
+      "Educação Básica (apenas ensino fundamental) e Educação Profissional.",
+      "Creches, Pré-escolas, Ensino Fundamental e Ensino Superior."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O Art. 21 da LDB estabelece que a educação escolar compõe-se de: I - educação básica, formada pela educação infantil, ensino fundamental e ensino médio; II - educação superior."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "A Educação de Jovens e Adultos (EJA), a Educação Especial e a Educação Profissional Tecnológica são definidas pela Lei nº 9.394/1996 (LDB) como:",
+    "options": [
+      "Níveis de ensino vinculados obrigatoriamente à educação superior.",
+      "Modalidades de educação, que perpassam os diferentes níveis da educação nacional.",
+      "Etapas do ensino fundamental exclusivas da rede municipal.",
+      "Programas suplementares de assistência estudantil.",
+      "Subníveis da educação infantil para atendimento em regime de creche."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A LDB organiza a educação em níveis (básica e superior), etapas (infantil, fundamental, médio) e modalidades (Educação Especial, EJA, Profissional, Indígena, etc.), que são as formas de oferta adaptadas a públicos ou contextos específicos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "O Estatuto da Criança e do Adolescente (ECA) assegura o direito à educação. É um direito garantido aos pais ou responsáveis legais, segundo o ECA, no âmbito escolar:",
+    "options": [
+      "Definir a matriz curricular e os métodos de avaliação dos professores.",
+      "Decidir sobre a aprovação ou reprovação final do aluno no conselho de classe.",
+      "Ter ciência do processo pedagógico, bem como participar da definição das propostas educacionais.",
+      "Ter acesso livre e irrestrito às salas de aula durante o momento das provas.",
+      "Substituir o professor em caso de ausência para garantir a continuidade do ensino."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O ECA, em seu Art. 53, parágrafo único, assegura explicitamente que é direito dos pais ou responsáveis ter ciência do processo pedagógico, bem como participar da definição das propostas educacionais."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "No que se refere ao Estatuto da Criança e do Adolescente (ECA), os dirigentes de estabelecimentos de ensino fundamental devem comunicar ao Conselho Tutelar os casos de, EXCETO:",
+    "options": [
+      "Maus-tratos envolvendo seus alunos.",
+      "Reiteração de faltas injustificadas e de evasão escolar, esgotados os recursos escolares.",
+      "Elevados níveis de repetência.",
+      "Atraso no pagamento das mensalidades em caso de escolas particulares.",
+      "Suspeita de violência física ou psicológica ocorrida no ambiente intrafamiliar contra a criança."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O Art. 56 do ECA obriga a comunicação ao Conselho Tutelar em casos de: I - maus-tratos; II - reiteração de faltas/evasão (esgotados recursos escolares); e III - elevados níveis de repetência. Questões financeiras de inadimplência não acionam o Conselho Tutelar."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Em uma escola municipal de Aparecida de Goiânia, um pai chega à secretaria bastante irritado, elevando o tom de voz e reclamando de uma falha na emissão do histórico do filho. Considerando as técnicas de atendimento e relações interpessoais, a atitude adequada da Conhecimentos Específicos deve ser:",
+    "options": [
+      "Levantar a voz no mesmo tom para impor respeito imediato e demonstrar autoridade na secretaria.",
+      "Ignorar o pai até que ele se acalme espontaneamente, voltando a fazer seus registros no sistema.",
+      "Manter o controle emocional, praticar a escuta ativa e demonstrar disposição para solucionar o problema de forma objetiva e ágil.",
+      "Debater e explicar os erros do pai perante os demais presentes na secretaria para provar a inocência da escola.",
+      "Solicitar imediatamente a presença da guarda municipal antes mesmo de entender a origem da reclamação."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A comunicação institucional e as relações interpessoais exigem que o servidor adote postura profissional, pautada na inteligência emocional, empatia e escuta ativa (ouvir para compreender e resolver), desescalando o conflito no atendimento ao público."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Nas rotinas da secretaria escolar, dois procedimentos administrativos fundamentais garantem o ingresso e a mobilidade do aluno na rede de ensino. A diferença técnica entre Matrícula e Transferência é:",
+    "options": [
+      "Matrícula é o registro inicial no sistema público; transferência é a passagem do aluno para o ensino superior.",
+      "Matrícula é o ato que vincula o aluno à escola em determinado curso/série; transferência é a movimentação do aluno de uma escola para outra, acompanhada do seu histórico escolar.",
+      "Matrícula e transferência são sinônimos e utilizam exatamente a mesma documentação para registros internos.",
+      "Transferência ocorre apenas no final do ano letivo, enquanto a matrícula ocorre todos os dias do ano, a qualquer hora.",
+      "Transferência exige apenas autorização verbal dos pais, ao passo que a matrícula requer a presença de um juiz."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A matrícula consolida o vínculo do estudante com a unidade escolar. A transferência é a mudança formal do aluno para outra instituição educacional, sendo necessário desvincular da escola de origem e emitir os documentos comprobatórios (histórico e declaração) para o ingresso na nova escola."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "O Conselho de Classe é um órgão colegiado fundamental na escola. Qual é o papel da secretaria escolar em apoio à organização de reuniões e conselhos de classe?",
+    "options": [
+      "Determinar as notas finais e a aprovação ou reprovação dos alunos com dificuldades.",
+      "Preparar, organizar e fornecer antecipadamente as pautas, fichas de rendimento, diários de classe e registros de frequência necessários para a análise dos docentes.",
+      "Substituir o diretor da escola na condução pedagógica da reunião e no julgamento dos professores.",
+      "Expulsar alunos que obtiveram notas baixas, emitindo os comunicados sem consulta aos professores.",
+      "Redigir novas propostas curriculares e planos de aula em substituição aos professores ausentes."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O apoio administrativo e técnico da secretaria em reuniões e conselhos inclui subsidiar a equipe pedagógica com a documentação escolar fidedigna e organizada (mapões de notas, frequências, atas), sem interferir nas decisões pedagógicas de mérito do conselho."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Na arquivologia, o ciclo vital dos documentos é fundamentado na Teoria das Três Idades. Um documento que perdeu seu valor administrativo, mas que é preservado definitivamente pelo seu valor histórico ou de pesquisa científica, encontra-se no arquivo:",
+    "options": [
+      "Corrente.",
+      "Intermediário.",
+      "Morto.",
+      "Permanente.",
+      "Temporário."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pela Teoria das Três Idades, documentos em tramitação frequente ficam no arquivo corrente; aqueles guardados por questões legais, com pouca consulta, vão para o intermediário; e os que possuem valor histórico/cultural irreversível formam o arquivo permanente (não podem ser eliminados)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Em relação ao protocolo e à tramitação de documentos na administração pública, o setor de protocolo é responsável, principalmente, pelas seguintes atividades:",
+    "options": [
+      "Elaboração de leis municipais, sanção e veto de documentos escolares.",
+      "Recebimento, registro, classificação, autuação, distribuição/tramitação e expedição de documentos e processos.",
+      "Eliminação imediata de documentos intermediários e incineração de ofícios sigilosos.",
+      "Avaliação pedagógica de alunos, registro de notas e definição do calendário escolar.",
+      "Guarda permanente de documentos históricos que não sofrem mais movimentação no órgão."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O protocolo é a 'porta de entrada' da instituição. Suas rotinas clássicas em arquivologia abrangem o recebimento, classificação preliminar, registro autuação (quando se torna processo), distribuição para os setores e expedição."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Dentre os documentos escolares emitidos e arquivados pela secretaria, o Histórico Escolar possui uma função essencial, que é:",
+    "options": [
+      "Registrar diariamente as presenças, ausências e as matérias lecionadas pelo professor.",
+      "Servir como comunicação informal e passageira entre a direção da escola e a família do aluno.",
+      "Comprovar de maneira oficial e definitiva as etapas, graus, séries e notas concluídas pelo aluno ao longo de sua vida acadêmica.",
+      "Atuar como rascunho temporário até a emissão do Diário de Classe ao final de cada mês.",
+      "Atestar unicamente o comportamento disciplinar do aluno para fins de premiação."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O Histórico Escolar é o documento oficial, com valor legal e permanente, que registra a trajetória escolar do aluno (frequência, notas/conceitos, carga horária, situação final), sendo fundamental em transferências e conclusões de curso."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "O Diário de Classe (físico ou eletrônico) é uma peça basilar no contexto escolar. Sobre o seu preenchimento e manuseio, é correto afirmar:",
+    "options": [
+      "É um documento de uso exclusivo do Conhecimentos Específicos, que deve deduzir as frequências com base nas entradas da portaria.",
+      "O preenchimento diário dos conteúdos, faltas e notas é responsabilidade do professor, cabendo à secretaria a guarda e auditoria formal desses registros ao final do período letivo.",
+      "Pode ser rasurado e alterado com corretivo líquido, desde que com autorização verbal dos pais do aluno.",
+      "Não é considerado um documento oficial, sendo apenas um caderno de anotações pessoais do docente, dispensando arquivamento.",
+      "O diretor da escola é o único responsável legal por anotar as presenças em todas as turmas da unidade."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Diário de Classe é um documento com valor legal, cuja responsabilidade de preenchimento fidedigno e atualizado (frequência, notas e conteúdos lecionados) é do professor regente, mas o controle, recolhimento e arquivamento cabem à secretaria escolar."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "A Lei de Acesso à Informação (Lei nº 12.527/2011) prevê prazos para a administração pública responder às solicitações de informação. Se a informação não puder ser fornecida imediatamente, o órgão ou entidade tem o prazo máximo de:",
+    "options": [
+      "5 (cinco) dias, improrrogáveis.",
+      "10 (dez) dias, prorrogáveis por mais 5 (cinco) dias.",
+      "20 (vinte) dias, que poderão ser prorrogados por mais 10 (dez) dias, mediante justificativa expressa.",
+      "30 (trinta) dias, prorrogáveis por igual período de forma automática.",
+      "45 (quarenta e cinco) dias, a depender do volume de documentos solicitados."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A LAI estabelece que o acesso seja concedido de forma imediata (Art. 11). Não sendo possível, o órgão tem prazo de 20 dias para responder, admitida a prorrogação por mais 10 dias, mediante justificativa expressa e ciência do requerente."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Na rotina da secretaria, a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD) impõe regras rigorosas. Quando se trata do tratamento de dados pessoais de crianças, a LGPD estabelece que:",
+    "options": [
+      "Pode ser feito livremente por qualquer servidor, desde que não seja para fins comerciais.",
+      "Deverá ser realizado com o consentimento específico e em destaque dado por pelo menos um dos pais ou pelo responsável legal.",
+      "É proibido em absoluto nas escolas municipais, devendo o aluno usar um pseudônimo em todos os documentos.",
+      "Não necessita de consentimento dos pais, desde que o Ministério Público estadual autorize as matrículas em massa.",
+      "Os dados devem ser compartilhados de forma aberta em murais públicos para promover a transparência escolar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 14, § 1º, da LGPD é claro ao exigir que o tratamento de dados pessoais de crianças deverá ser realizado com o consentimento específico e em destaque dado por pelo menos um dos pais ou pelo responsável legal (exceto para contato de urgência ou proteção da criança)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "O Manual de Redação da Presidência da República (3ª Edição, 2018) estabeleceu o Padrão Ofício. Uma das alterações mais significativas desta edição foi a abolição do emprego do pronome de tratamento 'Vossa Excelência' para as autoridades:",
+    "options": [
+      "Do Poder Legislativo e do Poder Judiciário, em qualquer nível da Federação.",
+      "Exclusivamente do Poder Executivo federal, mantendo-se apenas o pronome de tratamento 'Senhor'.",
+      "Do corpo diplomático e embaixadores estrangeiros.",
+      "Militares das Forças Armadas, substituído pelo pronome 'Ilustríssimo'.",
+      "Eclesiásticas e religiosas de todas as denominações."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme a 3ª edição do MRPR e normativas correlatas de 2019, houve a simplificação dos tratamentos no âmbito do Poder Executivo Federal, abolindo 'Vossa Excelência' para essas autoridades e padronizando o tratamento 'Senhor'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Na redação de documentos oficiais do ambiente escolar e da administração pública, um texto deve evitar a prolixidade e comunicar de forma direta e estritamente necessária ao entendimento do leitor. Esse princípio é o atributo da:",
+    "options": [
+      "Impessoalidade.",
+      "Formalidade.",
+      "Subjetividade.",
+      "Concisão.",
+      "Polidez."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A concisão é a qualidade de expressar o máximo de informações com o mínimo de palavras, eliminando termos inúteis ou redundantes, tornando o texto ágil e direto."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "O uso de ferramentas de informática na rotina administrativa requer cuidados com a segurança e a comunicação. Ao enviar um e-mail institucional pela escola para os pais de 100 alunos, visando proteger a privacidade e os endereços eletrônicos das famílias, o servidor deve utilizar o campo:",
+    "options": [
+      "Para (To), inserindo todos os endereços visíveis para mostrar transparência.",
+      "Cc (Cópia), para garantir que todos saibam quem recebeu o e-mail.",
+      "Cco ou Bcc (Cópia Oculta), ocultando os endereços dos destinatários entre si.",
+      "Assunto (Subject), colocando os e-mails como título da mensagem.",
+      "Anexo (Attachment), enviando um arquivo de texto não criptografado com os e-mails."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A função Cco (Cópia Carbono Oculta) ou Bcc em inglês permite o envio de um e-mail para múltiplos destinatários sem que eles vejam os endereços uns dos outros, sendo uma medida básica de proteção de dados pessoais (privacidade)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Ata é um documento muito frequente nas rotinas das secretarias e dos conselhos de classe. Qual das seguintes afirmações representa uma regra técnica correta na elaboração de uma Ata?",
+    "options": [
+      "Deve ser escrita deixando largos espaços em branco e parágrafos recuados para facilitar a leitura futura.",
+      "Números, datas e valores devem ser sempre grafados exclusivamente com algarismos matemáticos para economizar papel.",
+      "É lavrada em texto corrido, sem parágrafos ou espaços em branco, com numerais escritos por extenso, para evitar fraudes ou inserções posteriores.",
+      "É um documento flexível que pode ser alterado por qualquer servidor a qualquer tempo mediante uso de corretivo.",
+      "Requer assinaturas apenas do redator da ata, dispensando a assinatura do presidente da reunião ou dos demais presentes."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Para garantir a fidedignidade e evitar adulterações (como inclusões indevidas), as atas formais são redigidas em texto corrido (sem espaços, sem parágrafos vazios), sem rasuras e com os números grafados por extenso."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "De acordo com o princípio da impessoalidade aplicável à administração pública e norteador do atendimento no serviço municipal e redação oficial, o Conhecimentos Específicos deve:",
+    "options": [
+      "Usar pronomes na primeira pessoa do singular nas circulares para mostrar empatia.",
+      "Atender aos interesses da administração pública com objetividade, abstendo-se de discriminações ou favorecimentos pessoais.",
+      "Identificar o prefeito ou secretário municipal como o emissor pessoal de todas as benfeitorias da escola.",
+      "Priorizar o atendimento de pessoas com quem mantém laços de amizade, valorizando o clima escolar.",
+      "Expressar opiniões políticas e religiosas nos murais oficiais da secretaria para gerar debate reflexivo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O princípio da impessoalidade exige que a administração atenda ao interesse público sem privilégios ou preconceitos e que a atuação do servidor não seja pessoal, mas em nome do Estado. Na redação oficial, isso impede o uso de impressões particulares."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Para garantir a organização dos expedientes administrativos de uma escola, ferramentas de planilhas eletrônicas (como o Microsoft Excel ou LibreOffice Calc) são bastante úteis. Nesses programas, uma célula é definida como:",
+    "options": [
+      "Uma fórmula matemática pré-programada que calcula a soma das médias.",
+      "Intersecção de uma coluna com uma linha, formando a unidade básica onde se inserem os dados.",
+      "Um comando exclusivo para a impressão do diário de classe.",
+      "O espaço onde é formatado o cabeçalho do documento de texto (Word).",
+      "Um vírus de macro que corrompe arquivos antigos do protocolo escolar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Em softwares de planilhas eletrônicas, a célula é o elemento básico de uma tabela, sendo a caixa formada pelo encontro (intersecção) de uma linha horizontal e uma coluna vertical (ex: Célula A1)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "A emissão de declarações de matrícula pela secretaria exige a correta verificação de autenticidade dos dados. A declaração escolar diferencia-se do Histórico Escolar porque:",
+    "options": [
+      "Declaração é expedida apenas após a conclusão definitiva de um curso superior.",
+      "Declaração atesta um fato ou situação momentânea (ex.: está matriculado ou frequenta a escola), não substituindo as notas finais detalhadas do Histórico.",
+      "Declaração tem caráter permanente e o histórico tem validade de apenas 30 dias.",
+      "O histórico escolar pode ser emitido verbalmente, enquanto a declaração exige papel timbrado obrigatório do Ministério da Educação.",
+      "Declaração só pode ser assinada pelo Prefeito Municipal, enquanto o Histórico é assinado pelo secretário escolar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Declaração é um documento afirmativo sobre a existência ou não de um direito/situação num dado momento, muito usada para comprovar matrícula atual. O Histórico Escolar é o documento abrangente que consolida notas e carga horária de períodos já cursados."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Considerando a Lei Orgânica do Município de Aparecida de Goiânia em suas disposições aplicáveis aos servidores públicos, é uma regra constitucional adotada no regime municipal:",
+    "options": [
+      "Livre acumulação de cargos públicos remunerados para todos os servidores da área administrativa sem restrição de carga horária.",
+      "Obrigatoriedade de filiação partidária para tomar posse em cargos efetivos da secretaria da educação.",
+      "Proibição da acumulação remunerada de cargos públicos, exceto os casos previstos na Constituição, como a de dois cargos de professor, havendo compatibilidade de horários.",
+      "O direito de greve vetado integral e absolutamente a todos os servidores públicos civis sob pena de demissão sumária.",
+      "Contratação temporária de servidores públicos para cargos em comissão vitalícios."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Lei Orgânica Municipal deve espelhar a Constituição Federal (Art. 37, XVI). A regra é a inacumulabilidade remunerada, existindo apenas as três exceções constitucionais clássicas (dois de professor; um de professor com um técnico/científico; dois na área da saúde), desde que haja compatibilidade de horários."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 1,
+    "text": "Ainda baseando-se nas disposições constitucionais atreladas às Leis Orgânicas Municipais referentes à Educação, os Municípios atuarão prioritariamente:",
+    "options": [
+      "No ensino médio e na educação superior de excelência.",
+      "Exclusivamente no ensino superior a distância.",
+      "No ensino fundamental e na educação infantil.",
+      "No ensino técnico federal e escolas militares.",
+      "Apenas no transporte de universitários intermunicipais, delegando a educação infantil à iniciativa privada."
+    ],
+    "correctAnswer": 2,
+    "explanation": "De acordo com o Art. 211, § 2º da Constituição Federal (que vincula o Título da Educação das Leis Orgânicas Municipais), os Municípios atuarão prioritariamente no ensino fundamental e na educação infantil."
+  }
+]

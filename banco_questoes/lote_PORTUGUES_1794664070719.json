@@ -1,0 +1,464 @@
+[
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Os vocábulos 'desburocratização' e 'enriquecer' foram formados, respectivamente, pelos processos de:",
+    "options": [
+      "Derivação prefixal e sufixal (não simultânea) / Derivação parassintética (simultânea).",
+      "Composição por justaposição / Derivação regressiva deverbal.",
+      "Derivação parassintética em ambos os vocábulos.",
+      "Hibridismo grego / Composição por aglutinação com perda fonética.",
+      "Derivação imprópria por conversão / Prefixação erudita."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Em 'desburocratização', a prefixação (des-) e a sufixação (-ção) ocorrem de forma não simultânea (existem as formas 'burocratização' e 'desburocratizar'). Já em 'enriquecer', o prefixo (en-) e o sufixo (-ecer) foram anexados simultaneamente ao radical 'ric-', configurando derivação parassintética (pois não existem os vocábulos 'enrico' nem 'riquecer')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na oração 'A diretora exigiu QUE TODOS OS SERVIDORES ASSINASSEM A FOLHA DE PONTO', a palavra destacada atua morfologicamente como:",
+    "options": [
+      "Pronome relativo, retomando o substantivo 'diretora'.",
+      "Conjunção integrante, introduzindo uma oração subordinada substantiva objetiva direta.",
+      "Partícula expletiva de realce puramente estilística.",
+      "Conjunção subordinativa causal com valor de 'já que'.",
+      "Pronome indefinido substantivo em início de período."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A palavra 'que' atua como conjunção integrante, pois introduz uma oração subordinada substantiva que exerce a função de objeto direto do verbo transitivo direto 'exigiu' ('A diretora exigiu ISTO')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere a frase: 'O conselho escolar julgou INOPORTUNA a alteração do horário de funcionamento da biblioteca.' O termo em destaque desempenha a função sintática de:",
+    "options": [
+      "Predicativo do sujeito 'o conselho escolar'.",
+      "Adjunto adnominal ligado ao núcleo 'conselho'.",
+      "Predicativo do objeto direto 'a alteração do horário de funcionamento da biblioteca'.",
+      "Complemento nominal do substantivo 'biblioteca'.",
+      "Adjunto adverbial de modo derivado de adjetivo."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O termo 'inoportuna' atribui uma característica/qualidade ao objeto direto ('a alteração do horário de funcionamento da biblioteca'), sendo atribuído através do verbo julgar/considerar. Trata-se, portanto, de um predicativo do objeto direto."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No período composto 'CONVÉM QUE O AUXILIAR DE SECRETARIA ORGANIZE AS FICHAS POR ORDEM ALFABÉTICA', a oração sublinhada classifica-se sintaticamente como subordinada substantiva:",
+    "options": [
+      "Objetiva direta.",
+      "Objetiva indireta.",
+      "Subjetiva, exercendo o papel de sujeito do verbo impessoal 'convém'.",
+      "Predicativa do sujeito.",
+      "Apositiva enumerativa."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A oração 'que o auxiliar de secretaria organize as fichas por ordem alfabética' funciona como sujeito gramatical da oração principal cujo verbo é 'convém' ('Isto convém'). Portanto, classifica-se como oração subordinada substantiva subjetiva."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em 'AINDA QUE O SISTEMA INFORMATIZADO APRESENTE INSTABILIDADE NO INÍCIO DA MANHÃ, o recebimento de requerimentos impressos prosseguirá normalmente', a oração destacada possui valor sintático-semântico de:",
+    "options": [
+      "Causa incontestável.",
+      "Concessão, indicando um obstáculo real ou presumido que não impede o cumprimento do que foi declarado na oração principal.",
+      "Condição prévia para a realização do serviço.",
+      "Proporcionalidade cronológica de eventos.",
+      "Conformidade com os regulamentos municipais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A locução conjuntiva 'ainda que' introduz uma oração subordinada adverbial concessiva, que aponta uma objeção ou obstáculo que, no entanto, não impede a realização do fato expresso na oração principal."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que exemplifica o emprego de uma Oração Coordenada Sindética Adversativa segundo a norma-padrão.",
+    "options": [
+      "O auxiliar organizou todas as pastas de arquivo e despachou as certidões aos requerentes.",
+      "Os formulários estavam completamente preenchidos, NO ENTANTO faltavam as assinaturas dos responsáveis legais.",
+      "Ou os pais entregam os comprovantes hoje, ou as matrículas serão suspensas administrativamente.",
+      "O diretor convocou a comissão avaliadora, logo haverá reunião extraordinária no auditório.",
+      "Entre na sala da coordenação com calma, pois a equipe está em atendimento reservado."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A locução conjuntiva 'no entanto' possui valor adversativo (oposição, contraste), introduzindo uma oração coordenada sindética adversativa."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em relação à concordância verbal com locuções e expressões partitivas ou coletivas, assinale a oração formulada em DESACORDO com a norma culta.",
+    "options": [
+      "A maioria dos servidores municipais aprovou o novo sistema de protocolo eletrônico.",
+      "A maioria dos servidores municipais aprovaram o novo sistema de protocolo eletrônico.",
+      "Um enxame de abelhas invadiram a quadra esportiva do colégio durante o intervalo matutino.",
+      "Grande parte dos candidatos obteve classificação dentro das vagas estipuladas no edital.",
+      "Grande parte dos candidatos obtiveram classificação dentro das vagas estipuladas no edital."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Com o substantivo coletivo não partitivo no singular ('um enxame'), a concordância verbal deve ser feita obrigatoriamente no singular ('invadiu'). A concordância opcional no plural só é admitida com expressões partitivas ('a maioria de', 'grande parte de')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que preenche correta e respectivamente as lacunas, de acordo com as regras de concordância verbal com verbos impessoais: 'Na secretaria escolar, _____ muitos processos pendentes de validação; além disso, _____ semanas que a diretoria aguarda novas diretrizes e _____ de haver providências urgentes.'",
+    "options": [
+      "Haviam – faz – hão",
+      "Havia – faz – há",
+      "Havia – fazem – hão",
+      "Haviam – fazem – há",
+      "Havia – faz – haviam"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1) O verbo 'haver' no sentido de existir é impessoal e fica na 3ª pessoa do singular ('Havia muitos processos'); 2) O verbo 'fazer' indicando tempo decorrido também é impessoal ('faz semanas'); 3) Na locução verbal modalizadora/existencial 'há de haver', o verbo auxiliar 'há' fica no singular por ser impessoal."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em relação à concordância nominal, assinale a opção inteiramente CORRETA de acordo com o padrão culto da língua.",
+    "options": [
+      "Na portaria da escola, é proibida entrada de pessoas sem crachá de identificação funcional.",
+      "Seguem inclusos às notificações as declarações cadastrais exigidas pela secretaria de educação.",
+      "As servidoras municipais mesmas conferiram todas as certidões de transferência emitidas no mês.",
+      "Ficou meio assustadas as funcionárias com o tumulto ocorrido no encerramento das inscrições.",
+      "Os requerimentos anexos ao memorando continham bastantes rasura que impediram a tramitação."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Na alternativa C, o adjetivo/pronome 'mesmas' concorda em gênero e número com o substantivo a que se refere ('servidoras'). Nas demais: A) sem artigo 'a', a expressão correta é 'é proibido'; B) 'inclusas' deveria concordar com 'declarações'; D) o verbo deveria estar no plural ('ficaram'); E) o adjetivo 'bastantes' exigiria o substantivo no plural ('rasuras')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que atende rigorosamente às regras de regência do verbo 'implicar' no sentido de 'acarretar / ter como consequência'.",
+    "options": [
+      "A falta de apresentação da carteira de vacinação do aluno implicará no cancelamento imediato da matrícula.",
+      "A falta de apresentação da carteira de vacinação do aluno implicará o cancelamento imediato da matrícula.",
+      "A falta de apresentação da carteira de vacinação do aluno implicará ao cancelamento imediato da matrícula.",
+      "A falta de apresentação da carteira de vacinação do aluno implicará com o cancelamento imediato da matrícula.",
+      "A falta de apresentação da carteira de vacinação do aluno implicará sobre o cancelamento imediato da matrícula."
+    ],
+    "correctAnswer": 1,
+    "explanation": "No sentido de 'acarretar' ou 'trazer como consequência', o verbo 'implicar' é transitivo direto, exigindo complemento sem preposição ('implicará o cancelamento')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "De acordo com a norma-padrão da língua, os verbos 'simpatizar' e 'antipatizar' caracterizam-se por:",
+    "options": [
+      "Serem pronominais obrigatórios regidos pela preposição 'com' (ex.: simpatizar-se com).",
+      "Serem transitivos diretos, dispensando qualquer preposição com relação ao objeto.",
+      "Serem transitivos indiretos regidos pela preposição 'com', não admitindo o uso na forma pronominal reflexiva.",
+      "Regerem compulsoriamente a preposição 'a' com fusão obrigatória de crase.",
+      "Serem intransitivos plenos, proibindo qualquer complemento oracional."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Segundo a norma culta gramatical, 'simpatizar' e 'antipatizar' são verbos transitivos indiretos regidos pela preposição 'com' e NÃO admitem uso pronominal (sendo incorreto dizer 'simpatizar-se')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que o verbo 'chegar' foi empregado com regência em estrita conformidade com a norma culta.",
+    "options": [
+      "O auxiliar de secretaria chegou no colégio pontualmente às sete horas da manhã.",
+      "Os novos estagiários chegaram na sala da diretoria com os documentos solicitados.",
+      "O secretário de educação chegou ao auditório municipal para presidir a conferência discente.",
+      "Chegamos em Aparecida de Goiânia após três horas de intensa viagem rodoviária.",
+      "Os pais chegaram no guichê de atendimento com dúvidas sobre o processo de rematrícula."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Na norma culta da língua portuguesa, o verbo 'chegar' (que indica movimento a um lugar) rege a preposição 'a' (chegar a algum lugar), e não 'em'. Logo, a forma correta é 'chegou ao auditório'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em relação ao uso da pontuação, assinale a opção em que a vírgula foi empregada obrigatoriamente para isolar o VOCATIVO.",
+    "options": [
+      "Aparecida de Goiânia, um dos municípios mais dinâmicos do Centro-Oeste, investe em creches públicas.",
+      "Na semana passada, todos os servidores participaram de um treinamento interno sobre ética pública.",
+      "Auxiliar de secretaria, confira a documentação dos estudantes antes de despachar os processos ao diretor.",
+      "O diretor da escola, muito compenetrado, homologou as notas da avaliação trimestral.",
+      "Os arquivos foram guardados, as portas foram trancadas, e os funcionários saíram para o intervalo."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Em C, 'Auxiliar de secretaria' é um chamamento direto ao interlocutor (vocativo), devendo obrigatoriamente ser separado por vírgula. Nas demais opções temos aposto explicativo (A), adjunto adverbial despensável (B), adjetivo explicativo/aposto (D) e orações coordenadas (E)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que a ocorrência do sinal indicativo de crase é OBRIGATÓRIA segundo a norma-padrão.",
+    "options": [
+      "A secretaria encerra o atendimento ao público às dezessete horas em ponto.",
+      "Os formulários foram entregues a uma funcionária do departamento pedagógico.",
+      "A coordenação prestou os esclarecimentos a diretoria sem hesitações formais.",
+      "O candidato começou a responder as provas com grande serenidade e equilíbrio.",
+      "Todos os servidores devem submeter-se a regras administrativas estipuladas em lei."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A crase é obrigatória antes de horas exatas/determinadas ('às dezessete horas'). Nas outras opções: B) antes do artigo indefinido 'uma' não há crase; D) antes de verbo 'responder' não há crase; E) antes de termo no plural no sentido genérico sem artigo 'regras' não ocorre crase."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "De acordo com as normas oficiais de acentuação gráfica, assinale a palavra que recebe acento gráfico pela regra dos monossílabos tônicos terminados em -a, -e, -o (seguidos ou não de -s).",
+    "options": [
+      "Café.",
+      "Pá.",
+      "Saúde.",
+      "Colégio.",
+      "Amém."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Pá' é um monossílabo tônico terminado em '-a', enquadrando-se exatamente nessa regra. 'Café' e 'Amém' são oxítonas; 'Saúde' é acentuada pela regra do hiato; 'Colégio' é paroxítona terminada em ditongo."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que preenche correta e respectivamente as lacunas da frase: 'A proposta pedagógica veio _____ anseios da comunidade, eliminando os conflitos; todavia, a falta de verbas foi _____ planos da coordenação escolar.'",
+    "options": [
+      "Ao encontro dos – de encontro aos",
+      "De encontro aos – ao encontro dos",
+      "Ao encontro dos – ao encontro dos",
+      "De encontro aos – de encontro aos",
+      "Ao nível dos – em nível aos"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Ao encontro de' significa estar em harmonia/concordância com (eliminar conflitos). 'De encontro a' exprime ideia de oposição, choque ou contrariedade (a falta de verbas opôs-se aos planos)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No que se refere à ortografia de palavras grafadas com 'S' ou 'Z', assinale a alternativa em que todas as palavras estão grafadas CORRETAMENTE.",
+    "options": [
+      "Analisar, paralisar, pesquisar, catequizar.",
+      "Analizar, paralizar, pesquisar, catequizar.",
+      "Analisar, paralizar, pesquizar, catequisar.",
+      "Analizar, paralisar, pesquisar, catequisar.",
+      "Analisar, paralisar, pesquizar, catequizar."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Analisar (de análise), paralisar (de paralisia) e pesquisar (de pesquisa) mantêm o 's' de seus radicais primitivos. Catequizar deriva de catequese, mas recebe o sufixo formador de verbos -izar com 'z'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No contexto da gestão escolar, a 'Notificação' é um expediente frequentemente emitido pela secretaria. Assinale a alternativa que define com exatidão a funcionalidade desse gênero textual.",
+    "options": [
+      "Comunicar oficialmente a uma pessoa física ou jurídica um fato, dever legal ou prazo processual, cientificando-a de consequências jurídicas em caso de descumprimento.",
+      "Convidar formalmente os membros da comunidade para festividades juninas e eventos esportivos de cunho recreativo.",
+      "Narrar acontecimentos históricos do município com propósitos estritamente artísticos e pedagógicos.",
+      "Estabelecer um pacto financeiro voluntário entre estudantes para compra de bens particulares.",
+      "Divulgar poesias e crônicas literárias redigidas pelos alunos do ensino fundamental."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A notificação administrativa ou jurídica tem por objetivo dar ciência oficial a alguém sobre determinado fato, norma, dever legal ou prazo, ressaltando os desdobramentos legais resultantes da eventual inobservância."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Leia o excerto: 'A universalização do acesso ao ensino público em Aparecida de Goiânia exige não somente a ampliação de vagas físicas, mas também a erradicação das barreiras de permanência socioeconômica dos discentes.' A partir dos mecanismos de inferência do texto, depreende-se que:",
+    "options": [
+      "A construção de novos prédios escolares é a única medida suficiente para garantir a permanência de todos os alunos até o término do ciclo letivo.",
+      "O acesso formal à matrícula, dissociado de políticas públicas de apoio socioeconômico, é insuficiente para assegurar a permanência integral dos alunos na escola.",
+      "A secretaria escolar deve priorizar a matrícula de alunos de maior renda para reduzir os custos operacionais da rede municipal de ensino.",
+      "As barreiras socioeconômicas foram totalmente eliminadas das unidades escolares da rede municipal na última década.",
+      "A oferta física de vagas escolares excede a demanda real da população do município, tornando os gastos estruturais supérfluos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O texto afirma que não basta ampliar vagas físicas, pois também é necessário erradicar as barreiras socioeconômicas para que os alunos permaneçam na escola, o que valida diretamente a alternativa B."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Ao atender um munícipe recém-chegado de outra região brasileira, o auxiliar de secretaria percebe pronúncias e vocabulários distintos dos habituais em Goiás. Esse fenômeno fundamenta-se na variação linguística:",
+    "options": [
+      "Diatópica (geográfica ou regional), motivada pelas diferenças de procedência territorial e cultural dos falantes do idioma nacional.",
+      "Diacrônica, provocada exclusivamente pelo lapso temporal de séculos transcorridos entre as gerações.",
+      "Diafásica, caracterizada pela incapacidade cognitiva do falante de escolher o registro adequado em repartições.",
+      "Diamésica, restrita à diferença formal entre a escrita impressa e o texto em suporte audiovisual.",
+      "Jargão profissional, inventado para restringir a compreensão de pessoas de fora da administração pública."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A variação diatópica (ou regional/geográfica) é aquela associada à origem geográfica do falante, resultando em particularidades de pronúncia (sotaque) e de vocabulário."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na frase 'A diretoria da escola precisou apagar os incêndios gerados pela falta de energia no dia da matrícula', a expressão destacada exemplifica o emprego de:",
+    "options": [
+      "Metáfora, fundamentada na transposição conotativa de sentido para expressar a resolução rápida de problemas críticos imprevistos.",
+      "Ambiguidade sintática decorrente da má colocação do adjunto adverbial de tempo no predicado verbal.",
+      "Pleonasmo vicioso condenado pela norma culta da língua portuguesa.",
+      "Ironia corrosiva voltada a ofender diretamente os profissionais eletricistas da prefeitura.",
+      "Metonímia do efeito pela causa desprovida de figuração semântica."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A expressão 'apagar os incêndios' está empregada em sentido figurado (conotativo), operando uma metáfora para indicar o ato de resolver imprevistos e problemas urgentes."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em 'Os servidores organizaram as pastas suspensas; em seguida, etiquetaram cada uma com tarjas coloridas', o mecanismo de coesão referencial estabelecido pelo pronome 'cada uma' atua de forma:",
+    "options": [
+      "Anafórica, retomando o antecedente nominal 'as pastas suspensas' de maneira distributiva.",
+      "Catafórica, antecipando o significado de tarjas coloridas no final da oração coordenada.",
+      "Hiponímica, reduzindo o vocábulo a uma subclasse biológica de arquivamento.",
+      "Exofórica, apontando para um objeto ausente do texto escrito da secretaria.",
+      "Pleonástica viciosa, duplicando termos gramaticais sem função sintática definida."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A anáfora ocorre quando um termo retoma um elemento antecedentemente citado no texto. 'Cada uma' retoma o termo anterior 'as pastas suspensas' de modo distributivo."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere o texto: 'A secretaria do colégio possui trinta metros quadrados, paredes em tons de cinza claro, três mesas de madeira e duas janelas amplas voltadas para o jardim central.' A sequência textual predominante classifica-se como:",
+    "options": [
+      "Descritiva, pois retrata estaticamente os elementos, dimensões e arranjo espacial de um ambiente físico determinado.",
+      "Narrativa, em razão da sucessão de acontecimentos temporais conduzidos por personagens atuantes.",
+      "Injuntiva, determinando regras e comandos operacionais de circulação obrigatória aos servidores.",
+      "Argumentativa, voltada a convencer o leitor acerca da necessidade de reforma do setor predial.",
+      "Expositiva conceitual, discutindo correntes teóricas de arquitetura escolar contemporânea."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O trecho caracteriza-se pela enumeração de aspectos físicos, detalhamento de dimensões e arranjo espacial sem progressão temporal, configurando uma sequência predominantemente descritiva."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Ao sustentar a adoção de um novo sistema de controle biométrico de frequência, o secretário argumentou: 'Todas as escolas privadas da capital utilizam a biometria com sucesso; portanto, nosso colégio também deve implementá-la imediatamente.' Esse tipo de sustentação apoia-se em um argumento por:",
+    "options": [
+      "Analogia (comparação entre contexts tidos como semelhantes para justificar uma escolha administrativa).",
+      "Autoridade jurídica calcada na jurisprudência vinculante do Supremo Tribunal Federal.",
+      "Causa e efeito estritamente demonstrada em perícia técnica da Secretaria de Educação.",
+      "Redução ao absurdo dedutivo no encadeamento dos predicados nominais.",
+      "Evidência estatística amparada em relatórios oficiais do Censo Escolar nacional."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O argumento por analogia sustenta uma conclusão comparando dois contextos similares (escolas privadas da capital vs. o colégio público em questão), defendendo que o sucesso observado em um se replicará no outro."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Analise a formação morfológica dos vocábulos 'entardecer', 'inútil' e 'deslealdade'. Os processos de formação dessas palavras são, respectivamente:",
+    "options": [
+      "Derivação parassintética / derivação prefixal / derivação prefixal e sufixal.",
+      "Derivação prefixal / derivação sufixal / composição por aglutinação mórfica.",
+      "Derivação regressiva / derivação imprópria / derivação parassintética simples.",
+      "Composição por justaposição / hibridismo greco-latino / derivação sufixal.",
+      "Derivação parassintética / derivação regressiva / composição por aglutinação."
+    ],
+    "correctAnswer": 0,
+    "explanation": "1) 'entardecer': en- + tarde + -ecer (parassíntese, pois não existem 'entarde' nem 'tardecer'); 2) 'inútil': in- + útil (derivação prefixal); 3) 'deslealdade': des- + leal + -dade (derivação prefixal e sufixal não simultânea, pois existem 'lealdade' e 'desleal')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que o emprego do pronome relativo 'cujo' (e suas flexões) atende com rigor às normas gramaticais cultas.",
+    "options": [
+      "Este é o aluno cujos os pais compareceram ontem ao atendimento da secretaria municipal.",
+      "A instituição escolar cuja infraestrutura foi modernizada atende a centenas de crianças da comunidade.",
+      "O documento cujo o teor desconheço foi encaminhado diretamente ao setor de auditoria fiscal.",
+      "Conheci a secretária da qual cuja dedicação é amplamente elogiada pelos professores da escola.",
+      "As normas regimentais cujas quais foram votadas em conselho entrarão em vigor no próximo mês."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A alternativa B emprega corretamente o pronome relativo 'cuja' (que estabelece posse e concorda com o elemento subsequente 'infraestrutura'). É incorreto utilizar artigos após 'cujo' ('cujos os', 'cujo o'), além de redundâncias como 'da qual cuja' ou 'cujas quais'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere a oração: 'Registraram-se todas as ocorrências disciplinares no livro competente.' A classificação correta da função sintática do termo em destaque é:",
+    "options": [
+      "Sujeito paciente da voz passiva sintética, determinado pela presença da partícula apassivadora 'se'.",
+      "Objeto direto preposicionado do verbo transitivo direto e indireto registrar.",
+      "Predicativo do sujeito regido por verbo de ligação elíptico na oração.",
+      "Agente da passiva introduzido pela contração de preposição com pronome demonstrativo.",
+      "Sujeito indeterminado com partícula integrante do verbo pronominal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Em 'Registraram-se todas as ocorrências disciplinares', o 'se' atua como partícula apassivadora acompanhando verbo transitivo direto ('registrar'). O termo 'todas as ocorrências disciplinares' é o sujeito paciente da oração em voz passiva sintética (equivalente a 'Todas as ocorrências foram registradas')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No período composto 'É indispensável QUE A SECRETARIA CONFIRA AS CERTIDÕES DOS ALUNOS ANTES DA MATRÍCULA', a oração sublinhada classifica-se como subordinada substantiva:",
+    "options": [
+      "Subjetiva, pois atua como sujeito gramatical da oração principal 'É indispensável'.",
+      "Objetiva direta, por completar o sentido de um verbo transitivo direto antecedente.",
+      "Objetiva indireta, regida por preposição elíptica no núcleo do predicado verbal.",
+      "Completiva nominal, subordinada ao adjetivo com regência bivalente.",
+      "Apositiva, delimitando o sentido de um pronome substantivo demonstrativo neutro."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A oração introduzida por 'que' funciona como sujeito da oração principal 'É indispensável' ('Isto é indispensável' -> 'Que a secretaria confira... é indispensável'). Portanto, trata-se de oração subordinada substantiva subjetiva."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em 'CONQUANTO O VOLUME DE TRABALHO TENHA AUMENTADO NO ENCERRAMENTO DO BIMESTRE, a equipe escolar manteve o padrão de excelência', a oração sublinhada expressa valor semântico de:",
+    "options": [
+      "Concessão, apresentando uma circunstância contrária à principal que, todavia, não impede sua realização.",
+      "Condição indispensável para que o trabalho da secretaria escolar fosse efetivado.",
+      "Proporcionalidade cronológica em relação às ações desencadeadas pelos funcionários.",
+      "Finalidade almejada pela coordenação técnica da rede municipal de Aparecida de Goiânia.",
+      "Conformidade absoluta com os padrões regulamentares do conselho pedagógico."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A conjunção 'conquanto' é subordinativa concessiva, introduzindo a ideia de concessão (um fato que cria oposição ao da oração principal, mas sem impedi-lo)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que o conectivo 'porquanto' foi empregado corretamente com seu valor semântico próprio de CAUSA ou EXPLICAÇÃO perante a norma-padrão.",
+    "options": [
+      "Os servidores trabalharam durante o sábado, porquanto o prazo das matrículas expirava naquele dia.",
+      "O candidato não estudou para a prova, porquanto obteve o primeiro lugar com ampla folga.",
+      "Ele estava com muita pressa; porquanto, esqueceu de recolher a assinatura do diretor da escola.",
+      "Embora houvesse vagas abertas, porquanto ninguém compareceu ao colégio municipal pela manhã.",
+      "O expediente foi suspenso temporariamente, porquanto todos os problemas já estavam resolvidos."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O conectivo 'porquanto' é causal/explicativo (equivalente a 'visto que', 'porque', 'já que'). Na alternativa A, ele introduz corretamente a razão/causa pela qual os servidores trabalharam no sábado."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase cuja concordância verbal se encontra em DESACORDO com as exigências da norma culta.",
+    "options": [
+      "Cerca de cinquenta alunos compareceram ao anfiteatro para assistir à palestra.",
+      "Mais de um funcionário assinou o livro de presença durante a assembleia matutina.",
+      "Mais de um auxiliar de secretaria se cumprimentaram cordialmente no início do turno.",
+      "Faziam vários anos que o prédio escolar não recebia intervenções de infraestrutura predial.",
+      "Havia muitas pastas empilhadas sobre a mesa de despacho da secretaria municipal."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O verbo 'fazer', quando indica tempo decorrido, é impessoal e deve ser flexionado obrigatoriamente no singular: 'Fazia vários anos que...'"
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No que se refere à concordância verbal em construções sintáticas com a partícula 'se', assinale a frase inteiramente CORRETA.",
+    "options": [
+      "Consertam-se computadores da rede escolar com agilidade no departamento técnico da prefeitura.",
+      "Precisam-se de novos auxiliares de secretaria para atender à demanda das escolas de Aparecida de Goiânia.",
+      "Tratam-se de assuntos urgentes relativos ao calendário de reposição das aulas do ensino fundamental.",
+      "Plastificou-se os documentos originais dos estudantes para evitar deterioração precoce pelo tempo.",
+      "Divulgou-se as listas de classificação preliminar do concurso no painel de avisos da recepção."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Em A, o 'se' é partícula apassivadora, logo o verbo concorda no plural com o sujeito paciente 'computadores da rede escolar' ('Computadores são consertados'). Em B e C o verbo deveria ficar no singular ('Precisa-se', 'Trata-se'), pois o 'se' é índice de indeterminação do sujeito. Em D e E, por haver voz passiva sintética, o verbo deveria concordar no plural com os sujeitos ('Plastificaram-se os documentos', 'Divulgaram-se as listas')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em relação à concordância nominal das palavras 'anexo', 'bastante' e 'quite', assinale a frase que respeita plenamente a norma-padrão.",
+    "options": [
+      "As certidões escolares seguem anexas ao ofício encaminhado à promotoria de justiça da infância.",
+      "Os professores enviaram bastantes relatórios, mas estavam quite com a diretoria pedagógica do colégio.",
+      "Em anexo à declaração oficial, seguem inclusas as vias do histórico escolar do aluno transferido.",
+      "Segue anexo as fichas cadastrais preenchidas pelos pais no período regular de matrícula da rede.",
+      "O coordenador e a diretora mantiveram-se quite com suas obrigações administrativas ao final do ano."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A alternativa A está correta pois 'anexas' concorda perfeitamente com o substantivo 'certidões'. Em B e E, 'quite' deveria flexionar no plural ('estavam quites', 'mantiveram-se quites'). Em D, 'anexo' deveria concordar no feminino plural ('Seguem anexas as fichas')."
+  }
+]

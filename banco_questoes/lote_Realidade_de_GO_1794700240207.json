@@ -1,0 +1,1402 @@
+[
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O processo de formação histórico-territorial de Goiás está intrinsecamente ligado ao movimento das Bandeiras. Sobre a ocupação inicial do território goiano no período colonial, é correto afirmar que:",
+    "options": [
+      "Ocorreu de forma pacífica, caracterizando-se por alianças duradouras entre bandeirantes e as nações indígenas locais para a exploração conjunta do ouro.",
+      "Foi impulsionada exclusivamente pela expansão da pecuária extensiva, que antecedeu a descoberta de minerais preciosos na região do Planalto Central.",
+      "Esteve vinculada à busca e exploração de jazidas auríferas, liderada por figuras como Bartolomeu Bueno da Silva, resultando na dizimação e escravização de populações indígenas.",
+      "Resultou de um projeto da Coroa Portuguesa para a construção de uma nova capital administrativa no interior do Brasil, visando proteger o litoral de invasões estrangeiras.",
+      "Baseou-se na economia canavieira, com a instalação de grandes engenhos e forte presença de mão de obra escravizada trazida diretamente de colônias francesas."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A ocupação inicial de Goiás no período colonial esteve diretamente ligada às entradas e bandeiras em busca de ouro, sob a liderança de bandeirantes como Bartolomeu Bueno da Silva (o Anhanguera), marcando o genocídio e escravização de diversas etnias indígenas locais."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Aparecida de Goiânia, hoje um dos municípios mais populosos e economicamente relevantes do estado, teve sua origem histórica ligada a um contexto específico. Assinale a alternativa que indica corretamente o marco inicial do povoamento do município:",
+    "options": [
+      "A fundação de um polo industrial na década de 1920 para abrigar a indústria automobilística do Centro-Oeste.",
+      "A doação de terras feita por fazendeiros locais em 1922 à Igreja Católica, onde foi erguida uma capela em louvor a Nossa Senhora Aparecida.",
+      "O desmembramento direto da Cidade de Goiás no século XIX, visando descentralizar a administração provincial.",
+      "A construção da Estrada de Ferro Goyaz, que transformou a região em um entroncamento ferroviário de escoamento de café.",
+      "O estabelecimento de um assentamento da reforma agrária no governo de Getúlio Vargas, durante a Marcha para o Oeste."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O povoamento do município de Aparecida de Goiânia teve início em maio de 1922 com a doação de terras por fazendeiros da região à Igreja Católica para a construção da capela dedicada a Nossa Senhora Aparecida."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Após o esgotamento das principais jazidas de ouro no final do século XVIII e início do século XIX, a economia goiana passou por uma reestruturação profunda. Essa nova fase econômica caracterizou-se:",
+    "options": [
+      "Pela imediata industrialização das antigas vilas mineradoras, focada na produção de têxteis para exportação.",
+      "Pelo desenvolvimento da agricultura de exportação, especialmente a cafeicultura em larga escala, que dominou a economia provincial.",
+      "Pelo isolamento econômico e consolidação de uma economia baseada na pecuária extensiva e na agricultura de subsistência.",
+      "Pelo forte investimento da Coroa Portuguesa na extração de borracha no norte do estado, substituindo o ouro.",
+      "Pela urbanização acelerada, resultante do comércio fluvial estabelecido na bacia do Rio Araguaia com mercadores platinos."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Com a decadência do ciclo da mineração, a Província de Goiás voltou-se para a subsistência e a pecuária extensiva, vivenciando um relativo isolamento econômico ao longo de boa parte do século XIX."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Sobre os aspectos físicos do território goiano, o estado está inserido predominantemente no bioma Cerrado. Entre as características fitogeográficas e edáficas desse bioma, destaca-se:",
+    "options": [
+      "A predominância de solos altamente férteis e rasos, vegetação de coníferas e clima temperado o ano todo.",
+      "A vegetação latifoliada perene, clima equatorial úmido e solos com baixo teor de alumínio.",
+      "A formação de planícies alagáveis, com espécies endêmicas de manguezais adaptadas a ambientes salobros.",
+      "O predomínio de árvores de troncos tortuosos, cascas grossas, raízes profundas e solos geralmente ácidos, adaptados à sazonalidade do clima tropical.",
+      "A ausência de estrato herbáceo, predominando florestas densas de dossel fechado típicas de áreas de transição com os pampas."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O bioma Cerrado caracteriza-se por árvores com troncos tortuosos, casca espessa, raízes profundas adaptadas a captar água em lençóis freáticos mais baixos e solos latossolos ácidos com baixa fertilidade natural e presença de alumínio."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Na década de 1930, Goiás passou por uma transformação política e territorial significativa com a Revolução de 1930 e a nomeação de Pedro Ludovico Teixeira como interventor. A principal marca física e simbólica dessa gestão, que alterou a dinâmica do estado, foi:",
+    "options": [
+      "A criação de Aparecida de Goiânia como capital provisória para fortalecer a industrialização.",
+      "A transferência da capital da Cidade de Goiás para Goiânia, simbolizando a ruptura com as oligarquias tradicionais e a modernização.",
+      "A emancipação do território do Tocantins, objetivando facilitar a administração da porção norte do estado.",
+      "O tombamento da Cidade de Goiás como patrimônio histórico e a proibição de novas construções na região central do estado.",
+      "A federalização das ferrovias goianas para a exportação exclusiva de carne bovina para a Europa."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pedro Ludovico Teixeira liderou a construção de Goiânia e a subsequente transferência da capital estadual na década de 1930, marcando o rompimento com a hegemonia das oligarquias rurais (como os Caiado) sediadas na antiga Vila Boa."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Aparecida de Goiânia vivenciou uma intensa explosão demográfica a partir da segunda metade do século XX. Historicamente, essa expansão urbana acelerada esteve associada:",
+    "options": [
+      "À descoberta de novos veios de ouro e diamante no leito do rio Meia Ponte.",
+      "Ao esvaziamento de Goiânia devido a epidemias, o que forçou a população a migrar para Aparecida.",
+      "À conurbação com Goiânia, atraindo uma grande massa de trabalhadores em busca de moradia mais barata nas franjas da capital.",
+      "À criação de colônias de imigrantes europeus direcionadas ao município após a Segunda Guerra Mundial.",
+      "À instalação exclusiva de universidades federais, o que transformou a cidade em um polo estritamente estudantil."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O vertiginoso crescimento populacional de Aparecida de Goiânia deveu-se à sua condição de cidade-dormitório vizinha à capital, formando um contínuo urbano (conurbação) e atraindo trabalhadores pela disponibilidade de loteamentos populares mais acessíveis."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A modernização da agricultura em Goiás, impulsionada pela chamada Revolução Verde a partir da década de 1970, reconfigurou o espaço rural do estado. Assinale a alternativa que apresenta uma consequência direta desse processo:",
+    "options": [
+      "A desconcentração fundiária, com o amplo sucesso de programas de reforma agrária em todo o estado.",
+      "A substituição das monoculturas voltadas para exportação pelo policultivo orgânico familiar.",
+      "O declínio expressivo do êxodo rural, fixando a população no campo devido à demanda por trabalho braçal.",
+      "A introdução de tecnologias como a calagem dos solos e mecanização, que expandiram a fronteira agrícola, sobretudo para o cultivo de soja, e intensificaram o êxodo rural.",
+      "A preservação integral do bioma Cerrado, visto que as novas tecnologias dispensavam a abertura de novas áreas de plantio."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A Revolução Verde no Cerrado goiano envolveu a correção da acidez do solo (calagem), forte adubação e uso intensivo de máquinas agrícolas, o que viabilizou as monoculturas de grãos (soja e milho) para exportação, mas também reduziu a necessidade de mão de obra direta, acelerando o êxodo rural."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No contexto das políticas ambientais e dos recursos hídricos, o estado de Goiás destaca-se por possuir em seu território importantes divisores de águas. As três principais bacias hidrográficas que drenam o território goiano são:",
+    "options": [
+      "Bacia do Amazonas, Bacia do Parnaíba e Bacia do Uruguai.",
+      "Bacia Tocantins-Araguaia, Bacia do Paraná e Bacia do São Francisco.",
+      "Bacia do Paraguai, Bacia do Atlântico Sul e Bacia do Paraíba do Sul.",
+      "Bacia do Doce, Bacia do São Francisco e Bacia do Jequitinhonha.",
+      "Bacia Amazônica, Bacia do Atlântico Nordeste Oriental e Bacia do Paraná."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goiás abriga nascentes e cursos d'água das três grandes bacias hidrográficas brasileiras: Bacia do Tocantins-Araguaia (norte/centro-oeste), Bacia do Paraná (sul/sudeste/centro) e Bacia do São Francisco (extremo leste)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O município de Aparecida de Goiânia emancipou-se politicamente de Goiânia no ano de 1963. Um fator estrutural de grande relevância que contribuiu significativamente para o desenvolvimento e integração econômica do município a partir das décadas seguintes foi:",
+    "options": [
+      "A construção da rodovia BR-153, eixo de escoamento e atração de indústrias, estruturando o perfil econômico e logístico da cidade.",
+      "A inauguração do porto fluvial no Rio Meia Ponte, garantindo acesso direto ao Rio Paraná para exportação.",
+      "A implantação do sistema de trens metropolitanos subterrâneos ligando o centro de Goiânia às áreas industriais de Aparecida.",
+      "A exploração maciça de urânio nas bordas da cidade, atraindo indústrias de base tecnológica bélica.",
+      "O isolamento imposto pelas políticas estaduais de proteção ambiental, que impediu o avanço da industrialização no município."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A rodovia BR-153 (Rodovia Transbrasiliana) cortou o município de Aparecida de Goiânia, servindo de vetor central para a instalação de indústrias, distritos de logística e entrepostos de comércio atacadista."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A respeito das manifestações da arte, cultura e patrimônio na região Centro-Oeste, especificamente em Goiás, destaca-se uma festa tradicional religiosa e folclórica celebrada há mais de duzentos anos, notabilizada pelas encenações de batalhas entre mouros e cristãos. Trata-se:",
+    "options": [
+      "Do Círio de Nazaré, no município de Trindade.",
+      "Da Festa do Divino Pai Eterno, na Cidade de Goiás.",
+      "Das Cavalhadas, que têm em Pirenópolis um de seus mais famosos polos de realização.",
+      "Da Procissão do Fogaréu, restrita exclusivamente à capital Goiânia.",
+      "Da Dança do Cururu e Siriri, originária das aldeias Karajá do Vale do Araguaia."
+    ],
+    "correctAnswer": 2,
+    "explanation": "As Cavalhadas são um célebre folguedo de tradição ibérica encenado durante as festas do Divino Espírito Santo, com destaque histórico e mundialmente famoso na cidade de Pirenópolis."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Um dos episódios de emergência de saúde e desastre envolvendo materiais perigosos mais graves da história do Brasil ocorreu em Goiás, em setembro de 1987. Esse evento provocou mortes, contaminação do meio ambiente e profunda estigmatização da população local. O episódio em questão foi:",
+    "options": [
+      "O rompimento da barragem de rejeitos da mineração de amianto em Minaçu.",
+      "A epidemia de febre amarela silvestre nas fazendas do Vale do São Patrício.",
+      "O vazamento de gás tóxico no polo industrial de Anápolis.",
+      "O acidente radiológico com o isótopo Césio-137 em Goiânia.",
+      "A contaminação generalizada pelo vírus ebola oriundo de trabalhadores migrantes."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Em setembro de 1987, a abertura violada de um aparelho de radioterapia descartado incorretamente causou o maior acidente radiológico em área urbana do mundo com o Césio-137, na cidade de Goiânia."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No que se refere aos conflitos sociais e à desigualdade espacial na região metropolitana de Goiânia, Aparecida de Goiânia historicamente enfrentou desafios significativos. Qual das opções abaixo descreve corretamente uma dinâmica social observada no processo de urbanização do município?",
+    "options": [
+      "A cidade foi planejada desde o início com rígido controle habitacional, o que impediu a formação de ocupações irregulares.",
+      "O déficit de infraestrutura urbana nas décadas de 1980 e 1990 gerou fortes movimentos sociais por moradia, asfalto e saneamento básico nos bairros periféricos.",
+      "A total ausência de atividades industriais manteve o município livre de tensões trabalhistas, configurando um tecido social estritamente rural.",
+      "A prefeitura local proibiu a migração de pessoas de outros estados, eliminando os bolsões de pobreza extrema.",
+      "O crescimento demográfico foi acompanhado de investimentos imediatos em serviços públicos universais, evitando a segregação socioespacial."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O rápido inchaço demográfico desacompanhado de investimentos públicos imediatos nas décadas de 1980 e 1990 provocou severas carências de saneamento e transporte, impulsionando lutas e movimentos comunitários organizados em bairros periféricos de Aparecida."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Embora Aparecida de Goiânia tenha surgido historicamente vinculada à religiosidade e servido de cidade-dormitório por muito tempo, a partir do final do século XX e início do século XXI a cidade passou por uma forte transformação econômica, caracterizada:",
+    "options": [
+      "Pela consolidação como um robusto polo industrial, destacando-se a criação de complexos como o DAIAG e o DIMAG.",
+      "Pelo abandono da indústria de transformação e o foco exclusivo no agronegócio de precisão voltado à exportação de frutas vermelhas.",
+      "Pela proibição de instalação de novas empresas para proteger as áreas de recarga de aquíferos locais.",
+      "Pelo fechamento da fronteira comercial com Goiânia e pela privatização de todos os serviços essenciais.",
+      "Pela sua transformação no maior polo de turismo ecológico do Centro-Oeste, focado nos cânions do Meia Ponte."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A criação de distritos industriais como o DAIAG (Distrito Agroindustrial de Aparecida de Goiânia) e o DIMAG mudou o perfil econômico da cidade, atraindo milhares de indústrias e empresas de logística."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O clima tropical típico (ou sazonal) predomina no estado de Goiás e exerce forte influência no regime hídrico, na produção agrícola e na saúde pública. Sobre as características desse clima, é correto afirmar que apresenta:",
+    "options": [
+      "Chuvas bem distribuídas ao longo de todos os meses do ano, mantendo a umidade relativa do ar sempre acima dos 60%.",
+      "Invernos rigorosos com frequente precipitação de neve nas áreas de chapada e verões amenos.",
+      "Duas estações bem definidas: um verão quente e chuvoso e um inverno seco, que favorece focos de incêndio no Cerrado e agrava doenças respiratórias.",
+      "Extrema aridez o ano todo, assemelhando-se ao clima semiárido do polígono das secas nordestino.",
+      "Alta amplitude térmica diária apenas durante o verão, com as precipitações concentrando-se exclusivamente entre junho e agosto."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O clima tropical semiúmido/sazonal em Goiás é marcado por dois períodos bem nítidos: um verão quente e bastante chuvoso (outubro a abril) e um inverno seco com baixíssima umidade do ar (maio a setembro)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Dentre as políticas e questões ambientais atuais no território goiano, o desmatamento do bioma Cerrado figura como um dos maiores desafios ecológicos. Esse desmatamento intensivo nas últimas décadas tem como vetor principal:",
+    "options": [
+      "A extração sistemática de madeira de lei para a indústria moveleira de luxo na Europa.",
+      "A mineração de carvão mineral em larga escala a céu aberto.",
+      "A expansão da fronteira agropecuária, impulsionada pelo cultivo mecanizado de commodities agrícolas (soja e milho) e pastagens.",
+      "A construção de uma extensa rede de ferrovias transcontinentais que cortam todo o estado.",
+      "O assentamento massivo de populações indígenas e quilombolas promovido por políticas públicas recentes."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A expansão da agropecuária em grande escala para a produção de grãos de exportação (soja, milho) e pastagens para pecuária é a principal causa da alteração e supressão da vegetação nativa do Cerrado goiano."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O reconhecimento e valorização do patrimônio histórico-cultural goiano ganhou dimensão internacional em 2001, quando uma de suas cidades foi declarada Patrimônio Cultural da Humanidade pela UNESCO. A cidade contemplada com esse título, reconhecida por sua arquitetura colonial e integração orgânica com o meio ambiente, é:",
+    "options": [
+      "Pirenópolis.",
+      "Corumbá de Goiás.",
+      "Cidade de Goiás (antiga Vila Boa).",
+      "Caldas Novas.",
+      "Goiânia."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Cidade de Goiás (antiga Vila Boa de Goyaz) obteve o título de Patrimônio Histórico e Cultural da Humanidade pela UNESCO no ano de 2001 devido ao seu acervo arquitetônico barroco/colonial preservado."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A respeito do turismo e da cultura em Goiás, o estado atrai anualmente milhares de visitantes para regiões específicas com características hidrotermais singulares no mundo. Qual polo turístico goiano é mundialmente famoso por suas águas quentes naturais?",
+    "options": [
+      "O Parque Nacional das Emas, localizado na tríplice divisa de estados.",
+      "A região de Caldas Novas e Rio Quente, no sul do estado.",
+      "O arquipélago no rio Araguaia, na altura de Aruanã.",
+      "O Vale da Lua, situado no Parque Nacional da Chapada dos Veadeiros.",
+      "O complexo de cachoeiras de Formosa e Salto de Itiquira."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A região constituída por Caldas Novas e Rio Quente abriga a maior estância hidrotermal do mundo, sendo o polo turístico de águas termais mais visitado do Centro-Oeste."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No contexto da modernização urbana e da infraestrutura estadual, o trecho que liga Goiânia a Aparecida de Goiânia e Brasília compõe o Eixo Monumental do desenvolvimento econômico. A dinâmica entre Goiânia e Aparecida é frequentemente definida na geografia urbana contemporânea como um processo de:",
+    "options": [
+      "Gentrificação reversa.",
+      "Conurbação, caracterizando uma única e contígua mancha urbana.",
+      "Macrocefalia urbana segregada, onde os limites físicos de cada cidade são separados por vastos cinturões verdes intransponíveis.",
+      "Desmetropolização centrífuga, havendo o esvaziamento habitacional de ambas as cidades.",
+      "Rururbanização primária, predominando atividades agropecuárias nas vias principais que as interligam."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conurbação é o fenômeno urbano em que duas ou mais cidades vizinhas crescem ao ponto de se encontrarem, formando um tecido urbano contínuo e integrado, exatamente como ocorre entre Goiânia e Aparecida de Goiânia."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Em relação aos conflitos sociais e aos direitos humanos em Goiás rural, a concentração de terras gerou, ao longo das décadas, fortes embates no campo. Destaca-se no estado a atuação de movimentos sociais camponeses. O município goiano que ficou nacionalmente conhecido por abrigar um dos maiores e mais simbólicos assentamentos rurais de reforma agrária (Assentamento Canudos) está localizado em área de histórico conflito. Esse tipo de assentamento evidencia:",
+    "options": [
+      "A ausência total de desigualdade no meio rural após a constituição de 1988.",
+      "A luta pelo acesso à terra e a tensão entre latifundiários e trabalhadores sem terra.",
+      "O sucesso absoluto das políticas estaduais de distribuição gratuita de terras a empresas multinacionais.",
+      "O fim da agricultura patronal e o monopólio da agricultura familiar no abastecimento estadual.",
+      "O esvaziamento das pautas de direitos humanos perante a hegemonia pacífica do agronegócio."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Assentamento Canudos (em Palmeiras de Goiás e arredores) tornou-se um marco simbólico da mobilização do Movimento dos Trabalhadores Rurais Sem Terra (MST) e da luta pelo acesso democratizado às propriedades rurais latifundiárias em Goiás."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Do ponto de vista geomorfológico, o relevo do estado de Goiás apresenta características que influenciam a hidrografia e a ocupação do solo. Assinale a alternativa que melhor descreve o relevo goiano:",
+    "options": [
+      "Predomínio absoluto de extensas planícies litorâneas no norte do estado, sujeitas a inundações.",
+      "Formações predominantemente montanhosas, com os maiores picos da cordilheira dos Andes brasileiros no sudoeste.",
+      "Predomínio de planaltos, chapadas e depressões, com terrenos de topografia plana a ondulada, favoráveis à mecanização agrícola.",
+      "Extensas áreas de falhas geológicas ativas formando profundos desfiladeiros vulcânicos no sul do estado.",
+      "Relevo de mar de morros cristalinos, com altíssimas declividades inviabilizando a agricultura comercial."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O relevo de Goiás situa-se no Planalto Central Brasileiro, apresentando chapadões, planaltos tabulares e depressões interplanálticas, cujas formas suavemente onduladas favorecem a mecanização da lavoura."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Historicamente, Aparecida de Goiânia teve seu topônimo modificado algumas vezes antes de adotar a denominação atual. Qual dos nomes abaixo já foi utilizado oficialmente para se referir ao povoado ou município que hoje conhecemos como Aparecida de Goiânia?",
+    "options": [
+      "Campinas de Goiás.",
+      "Goialândia.",
+      "Vila Boa de São Bartolomeu.",
+      "Pouso Alto do Sul.",
+      "Arraial de Meia Ponte."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Entre a emancipação política e a denominação definitiva, a localidade passou por alterações de nome em sua trajetória histórico-administrativa, sendo denominada 'Goialândia' na legislação em meados da década de 1950."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No bojo das mudanças climáticas globais e das questões atuais do meio ambiente, o estado de Goiás vem sentindo os impactos nas últimas décadas. Um dos efeitos ambientais diretos das alterações climáticas e do desmatamento que impacta severamente a economia e a sociedade goiana é:",
+    "options": [
+      "A elevação descontrolada do nível do mar, ameaçando os polos turísticos de Caldas Novas.",
+      "A alteração drástica do regime de chuvas, gerando secas mais prolongadas que ameaçam o abastecimento hídrico e as safras agrícolas.",
+      "O resfriamento extremo do clima local, transformando o bioma Cerrado em uma Tundra ártica.",
+      "A ausência total de tempestades elétricas no estado, que antes alimentavam as bacias hidrográficas.",
+      "A imunidade absoluta do estado às mudanças climáticas globais, por estar localizado geograficamente no centro do continente."
+    ],
+    "correctAnswer": 1,
+    "explanation": "As mudanças no padrão pluviométrico causam irregularidades nas estações chuvosas, estendendo os períodos de seca, afetando reservatórios urbanos de água potável e reduzindo a produtividade das lavouras."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Sobre as emergências em saúde, surtos e epidemias, Goiás e seus municípios, incluindo Aparecida de Goiânia, enfrentam ciclicamente o desafio de doenças transmitidas por vetores. A urbanização acelerada, somada à precariedade de saneamento em algumas áreas no passado recente, agravou sobretudo a ocorrência epidêmica de:",
+    "options": [
+      "Malária, endêmica e restrita aos centros urbanos hiperadensados.",
+      "Doença de Chagas, transmitida exclusivamente pelo consumo de água não tratada nas grandes cidades.",
+      "Dengue, Zika e Chikungunya, vinculadas à proliferação do mosquito Aedes aegypti em ambientes urbanos.",
+      "Esquistossomose, devido ao uso extensivo de ar-condicionado nos polos industriais.",
+      "Cólera, cujo surto principal ainda hoje paralisa a economia do estado anualmente."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dengue, Chikungunya e Zika vírus são arboviroses urbanas de ampla circulação no estado de Goiás, transmitidas pelo mosquito vetor Aedes aegypti, cujos focos se reproduzem em recipientes com água limpa acumulada."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O patrimônio cultural de Goiás é riquíssimo e sua literatura reflete a alma de seu povo e as paisagens físicas e sociais de sua história. Dentre os grandes expoentes da literatura e da arte de Goiás, destaca-se uma poetisa e contista nascida na Cidade de Goiás, cujos versos sobre a simplicidade, o rio Vermelho e a vida das pedreiras ganharam notoriedade nacional tardiamente. Trata-se de:",
+    "options": [
+      "Clarice Lispector.",
+      "Rachel de Queiroz.",
+      "Cora Coralina.",
+      "Cecília Meireles.",
+      "Lygia Fagundes Telles."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cora Coralina (Ana Lins dos Guimarães Peixoto Bretas, 1889-1985) é a célebre poetisa goiana da Cidade de Goiás que imortalizou em poesia a história do povo simples, os doces e o rio Vermelho."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Atualmente, a estrutura produtiva de Aparecida de Goiânia é sustentada pelo forte dinamismo de setores específicos da economia. Com base nas transformações das últimas décadas, o perfil econômico dominante no município hoje está centrado:",
+    "options": [
+      "Na extração rudimentar de minérios não-metálicos e no artesanato indígena.",
+      "Exclusivamente na agropecuária extensiva e no turismo balnear.",
+      "Nos setores industrial (com polos diversificados), de comércio atacadista/varejista e de prestação de serviços e logística.",
+      "Na produção e exportação internacional exclusiva de café e algodão cru.",
+      "Na total dependência de repasses do funcionalismo público federal militar alocado na base da cidade."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aparecida de Goiânia converteu-se em um poderoso polo econômico industrial, comercial (atacadista/varejista) e centro de distribuição logística do Centro-Oeste."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A história agrária de Goiás registra importantes movimentos de resistência camponesa frente à concentração de terras e à grilagem. Dentre eles, o conflito ocorrido na década de 1950 no norte goiano (região de Trombas e Formoso), sob a liderança de José Porfírio, destacou-se no cenário nacional por:",
+    "options": [
+      "Ter sido uma revolta vitoriosa organizada por posseiros contra fazendeiros grileiros e a polícia, garantindo a posse comunitária da terra aos lavradores até o golpe de 1964.",
+      "Ter promovido a expulsão sistemática de povos indígenas para a instalação de empresas multinacionais de celulose.",
+      "Constituir uma rebelião de grandes latifundiários contra as taxas tributárias cobradas pelo governo de Pedro Ludovico Teixeira.",
+      "Ter sido um movimento de caráter exclusivamente messiânico que rejeitava qualquer reivindicação material sobre a posse da terra.",
+      "Resultar na extinção total dos conflitos fundiários em Goiás a partir da intervenção pacificadora imediata do Senado Federal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Revolta de Trombas e Formoso (década de 1950) foi uma vitoriosa resistência armada aut organizada por camponeses e posseiros contra grileiros e forças policiais, conquistando a gestão autônoma da terra até o advento do Golpe Militar de 1964."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A formação étnico-social de Goiás conta com forte herança afro-brasileira oriunda da mão de obra escravizada trazida no período da mineração e da agropecuária tradicional. A comunidade Kalunga, situada no nordeste goiano, representa historicamente:",
+    "options": [
+      "Um grupo indígena que adotou costumes europeus após os aldeamentos jesuíticos setecentistas.",
+      "Uma colônia de trabalhadores livres imigrantes que fundou indústrias têxteis no início do século XX.",
+      "O maior território quilombola remanescente do Brasil em extensão territorial, cujos membros mantiveram saberes, cultura e isolamento secular nas serras da Chapada dos Veadeiros.",
+      "Um núcleo urbano operário formado nos arredores de Goiânia durante a transferência da capital.",
+      "Uma comunidade religiosa de matriz exclusivamente protestante criada por missionários norte-americanos no Vale do Paranã."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O Sítio Histórico e Patrimônio Cultural Kalunga é o maior território quilombola do país em extensão, agrupando descendentes de africanos escravizados que buscaram refúgio nas regiões montanhosas do Nordeste goiano (Cavalcante, Teresina de Goiás e Monte Alegre)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Compreender os limites geográficos e a localização espacial é indispensável para a análise territorial de Aparecida de Goiânia. Assinale a alternativa que indica corretamente municípios que fazem divisa territorial direta com Aparecida de Goiânia:",
+    "options": [
+      "Anápolis, Trindade, Abadia de Goiás e Rio Verde.",
+      "Caldas Novas, Piracanjuba, Bela Vista de Goiás e Silvânia.",
+      "Catalão, Goiânia, Goianira e Nerópolis.",
+      "Goiânia, Senador Canedo, Bela Vista de Goiás, Hidrolândia e Aragoiânia.",
+      "Formosa, Planaltina de Goiás, Goiânia e Guapó."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aparecida de Goiânia faz limites territoriais diretos com os municípios de Goiânia (norte), Senador Canedo (leste), Bela Vista de Goiás (sudeste), Hidrolândia (sul) e Aragoiânia (oeste)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A bacia do Rio Meia Ponte é estratégica para a Região Metropolitana de Goiânia, banhando os territórios da capital e de Aparecida de Goiânia. Contudo, nas últimas décadas, esse recurso hídrico tem enfrentado recorrentes crises ambientais caracterizadas por:",
+    "options": [
+      "Assoreamento natural sazonal, sem interferência antrópica, que reduz a calha do rio exclusivamente durante a transição climática do outono.",
+      "Contaminação severa por esgotos domésticos e efluentes industriais, somada ao estresse hídrico no período de seca gerado pela captação excessiva para consumo urbano e irrigação.",
+      "Salinização acelerada das águas em virtude da lixiviação de solos naturalmente alcalinos e rasos característicos do sudeste goiano.",
+      "Redução drástica de seu fluxo em decorrência da construção de complexos hidrelétricos de grande porte instalados no perímetro urbano de Aparecida de Goiânia.",
+      "Eutrofização induzida por políticas de fomento à aquicultura em larga escala, visando substituir a agricultura comercial nas margens da bacia."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O rio Meia Ponte sofre com o despejo de efluentes sanitários e industriais sem tratamento adequado e com o desbalanço entre a alta demanda de captação de água na estiagem e o baixo volume disponível."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Durante a Primeira República (1889-1930), a dinâmica política em Goiás espelhava a estrutura coronelista nacional. A facção oligárquica hegemônica que controlou o poder político no estado durante a maior parte desse período esteve associada:",
+    "options": [
+      "Ao Partido Trabalhista Brasileiro, liderado pelos sindicatos operários fabris de Campinas.",
+      "À família Bulhões, que manteve controle incontestável e ininterrupto desde 1889 até a década de 1950.",
+      "Aos movimentos tenentistas organizados nos quartéis da futura cidade de Brasília.",
+      "Ao grupo liberal fundado por Alberto Torres, focado na industrialização imediata do Vale do Araguaia.",
+      "À família Caiado, principal liderança do Partido Democrata de Goiás, cuja hegemonia foi rompida com a Revolução de 1930."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Durante o período da República Velha, a família Caiado (liderada por Totó Caiado no Partido Democrata) dominou o cenário político goiano até ser desbancada pela Revolução de 1930 e a posse de Pedro Ludovico."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No bojo da política de integração territorial ('Marcha para o Oeste') implementada pelo governo de Getúlio Vargas, o estado de Goiás sediou uma iniciativa modelo de reforma e colonização agrária pelo governo federal em 1941. Esse projeto foi a criação da:",
+    "options": [
+      "Colônia Agrícola Nacional de Goiás (CANG), localizada no Vale do São Patrício, dando origem ao município de Ceres.",
+      "Superintendência do Desenvolvimento do Centro-Oeste (SUDECO), sediada pioneiramente em Aparecida de Goiânia.",
+      "Cooperativa Central dos Produtores de Grãos de Jataí (COMIGO), financiada pelo Plano Marshall.",
+      "Zona Franca Agroindustrial de Rio Verde, voltada à exportação exclusiva de aves e suínos.",
+      "Empresa Brasileira de Pesquisa Agropecuária (Embrapa Cerrados), que distribuiu terras gratuitamente aos bandeirantes."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A CANG (Colônia Agrícola Nacional de Goiás) foi um projeto divisor de águas criado em 1941 pelo Governo Vargas no Vale do São Patrício, atraindo migrantes de todo o país e dando origem à cidade de Ceres."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Diante das emergências de saúde pública geradas pela pandemia de Covid-19, a gestão pública de Aparecida de Goiânia adotou uma política de enfrentamento que obteve destaque técnico no cenário regional. Essa estratégia consistiu:",
+    "options": [
+      "Na proibição irrevogável da entrada de cidadãos vacinados no município de Goiânia por meio de barreiras militares.",
+      "No fechamento contínuo e irrestrito de todos os serviços por dois anos consecutivos, extinguindo o comércio da cidade.",
+      "Na implantação do isolamento social escalonado por macrozonas, fechando as atividades econômicas por rodízio geográfico semanal conforme a taxa de contágio e ocupação hospitalar.",
+      "Na substituição da rede hospitalar pública por centros de atendimento voltados exclusivamente à homeopatia alternativa.",
+      "No cancelamento definitivo das campanhas de vacinação infantil e de grupos prioritários para evitar filas."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aparecida de Goiânia criou o modelo de escalonamento regionalizado por matriz de risco (isolamento por macrozonas em dias alternados), servindo de modelo científico para conciliar controle da contaminação e manutenção da economia."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A geomorfologia de Goiás apresenta altitudes variadas que condicionam o clima e as bacias hidrográficas. O ponto culminante do estado de Goiás, com cerca de 1.676 metros de altitude, localiza-se na Chapada dos Veadeiros e é denominado:",
+    "options": [
+      "Morro dos Pireneus.",
+      "Serra da Canastra.",
+      "Morro do Macaco.",
+      "Pouso Alto.",
+      "Pico da Bandeira goiano."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O Pico do Pouso Alto, localizado na Chapada dos Veadeiros (município de Alto Paraíso de Goiás), possui aproximadamente 1.676 m de altitude, sendo o ponto mais elevado do estado de Goiás."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O patrimônio imaterial goiano reflete saberes, fazeres e tradições culinárias que remontam aos tropeiros, indígenas e quilombolas. Dentre os frutos típicos do Cerrado amplamente utilizados na gastronomia e na identidade cultural de Goiás, destaca-se:",
+    "options": [
+      "O açaí silvestre, ingrediente base do empadão colonial de Rio Verde.",
+      "O pequi, fruto de casca verde, polpa amarela espinhosa e aroma característico, utilizado em pratos típicos como o arroz com galinha.",
+      "O pinhão nativo, aproveitado como farinha nas festas do Divino de Pirenópolis.",
+      "O cupuaçu do planalto, usado exclusivamente em doces conventuais da antiga capital.",
+      "A graviola rasteira, base da dieta das populações ribeirinhas do Vale do Araguaia."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O pequi (Caryocar brasiliense) é o fruto símbolo da culinária goiana, largamente empregado na confecção de arroz com pequi, galinhada e licores."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Aparecida de Goiânia consolidou-se nas últimas duas décadas como um dos polos de comércio atacadista e centros de distribuição mais estratégicos do Centro-Oeste brasileiro. O principal fator geográfico e viário determinante para essa vocação é:",
+    "options": [
+      "A localização no coração do Brasil associada ao corte direto da rodovia BR-153, que conecta o Norte ao Sul do país e integra a malha metropolitana.",
+      "A presença de um grande porto seco alfandegado hidroviário com calado profundo às margens do córrego Santo Antônio.",
+      "A isenção tributária perpétua garantida pelo texto da Constituição Estadual a empresas estrangeiras que se fixem no município.",
+      "A ausência de concorrência com o comércio de Goiânia, visto que a capital proibiu a instalação de galpões logísticos em seu território.",
+      "O fato de ser a única cidade de Goiás servida por um ramal da ferrovia transoceânica ligando o Atlântico ao Pacífico."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A posição geográfica central aliada ao eixo estruturante da BR-153 permitiu que Aparecida se destacasse no recebimento, armazenamento e distribuição de mercadorias para todo o país."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No que se refere à questão da pobreza, vulnerabilidade social e disparidades regionais em Goiás, analistas e órgãos de planejamento (como o Instituto Mauro Borges) apontam fortes contrastes socioeconômicos internos. Historicamente, a mesorregião com menores índices de renda per capita e maiores déficits de serviços públicos é:",
+    "options": [
+      "O Sudoeste Goiano, dominado por pequenos agricultores familiares desprovidos de maquinário.",
+      "A Região Sul, devido à falência do complexo termal e das usinas de cana-de-açúcar.",
+      "O Centro Goiano, por causa do esvaziamento econômico de Goiânia e Anápolis.",
+      "O Entorno de Goiânia, onde o setor industrial foi completamente desativado no século XXI.",
+      "O Nordeste Goiano (Vale do Paranã), marcado por isolamento histórico, baixa infraestrutura de transporte e concentração de bolsões de vulnerabilidade."
+    ],
+    "correctAnswer": 4,
+    "explanation": "O Nordeste Goiano (região do Vale do Paranã) é historicamente a região com menor nível de desenvolvimento econômico, menor IDH e maiores carências de infraestrutura do estado."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O Parque Nacional das Emas, localizado no extremo sudoeste de Goiás, é uma Unidade de Conservação de relevância global. Dentre os fenômenos naturais e ecoturísticos característicos dessa unidade durante a primavera (início da estação chuvosa), destaca-se:",
+    "options": [
+      "A migração sazonal de aves aquáticas oriundas da Bacia Amazônica, que utilizam as veredas do parque como zona exclusiva de nidificação.",
+      "O afloramento massivo de águas termais nas áreas de depressão interplanáltica, fomentando o turismo de saúde nas cidades do entorno.",
+      "A bioluminescência dos cupinzeiros, gerada por larvas de vaga-lumes que se iluminam à noite para atrair cupins alados.",
+      "A ocorrência de fortes geadas que encobrem os campos rupestres com finas camadas de gelo cristalino, alterando drasticamente o ciclo da flora endêmica.",
+      "A seca absoluta dos mananciais superficiais, que força a fauna silvestre a migrar temporariamente para o Parque Nacional da Chapada dos Veadeiros."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A bioluminescência cupinzeira no Parque Nacional das Emas ocorre no início das chuvas, quando larvas de vaga-lumes encravadas nos cupinzeiros emitem luz esverdeada para atrair cupins alados no período reprodutivo."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O processo inicial de urbanização de Aparecida de Goiânia, a partir da fundação da capela em 1922, concentrou seus primeiros edifícios e manifestações de sociabilidade comunitária no espaço que hoje corresponde ao:",
+    "options": [
+      "Polo Empresarial Goiás.",
+      "Setor Central (Praça da Matriz), onde foi erguida a histórica Igreja Matriz de Nossa Senhora Aparecida.",
+      "Bairro Cidade Livre, criado exclusivamente para acolher operários da construção de Brasília.",
+      "Setor Garavelo, fundado no século XVIII pelos mineradores de ouro de Pouso Alto.",
+      "Jardim Monte Cristo, concebido pelo engenheiro Attilio Corrêa Lima para ser o centro cívico municipal."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O núcleo embrionário da cidade desenvolveu-se ao redor da Praça da Matriz no Setor Central de Aparecida de Goiânia, onde fica a histórica Igreja de Nossa Senhora Aparecida."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A respeito das populações indígenas que resistiram à expansão das frentes colonizadoras e agropecuárias em Goiás, destaca-se um grupo étnico caçador-coletor que sobreviveu a décadas de perseguição nas matas do norte do estado e possui território demarcado no Alto Tocantins. Trata-se dos:",
+    "options": [
+      "Yanomami.",
+      "Guaranis-Caiová.",
+      "Xukuru-Kariri.",
+      "Avá-Canoeiro.",
+      "Pataxó Hã-hã-hãe."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Os Avá-Canoeiro (povo da matriz linguística Tupi-Guarani) são historicamente conhecidos pela resistência ao contato e por vagarem como caçadores-coletores nas regiões do norte goiano."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O conjunto urbano e arquitetônico de Goiânia, cuja influência estilística se irradiou pela região central de Goiás nas décadas de 1930 e 1940, foi projetado e construído sob forte influência das matrizes artísticas internacionais modernas da época, com destaque para o estilo:",
+    "options": [
+      "Art Déco, caracterizado por linhas geométricas, aerodinâmica e racionalismo formal, com diversos edifícios tombados pelo IPHAN.",
+      "Barroco Rococó, com fachadas profusamente ornamentadas com ouro e anjos de pedra-sabão.",
+      "Gótico Flamejante, com catedrais de ogivas agudas e grandes vitrais medievais.",
+      "Brutalismo Soviético, com construções em blocos maciços de concreto armado cru e ausência de vidros.",
+      "Arquitetura Neoclássica Portuguesa, cópia fidedigna dos palácios setecentistas de Lisboa."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Goiânia possui um dos maiores e mais expressivos acervos arquitetônicos em estilo Art Déco do mundo, construído durante o planejamento original da cidade assinado por Attilio Corrêa Lima e Armando de Godoy."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Em conformidade com a Política Nacional de Resíduos Sólidos e as políticas de saneamento ambiental, os municípios da Região Metropolitana de Goiânia precisaram superar os antigos lixões a céu aberto. Em Aparecida de Goiânia, a destinação dos resíduos sólidos urbanos é executada por meio de:",
+    "options": [
+      "Incineração a céu aberto ao longo das margens da rodovia BR-153.",
+      "Descarte direto no leito principal do rio Meia Ponte sem qualquer tratamento prévio.",
+      "Aterro Sanitário planejado, dotado de impermeabilização do solo, sistema de drenagem e tratamento de chorume e queima/controle do biogás.",
+      "Exportação de todo o lixo domiciliar em navios cargueiros para países da União Europeia.",
+      "Abandono dos resíduos em crateras de antigas minas desativadas no Parque da Serra das Areias."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aparecida de Goiânia destina os resíduos sólidos domiciliares para um Aterro Sanitário privado/licenciado dotado de engenharia de controle ambiental (drenagem, impermeabilização com geomembrana e tratamento de chorume)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O município de Aparecida de Goiânia abriga o principal complexo penitenciário do estado de Goiás. O sistema prisional é frequentemente tema de relatórios de direitos humanos e segurança pública devido a desafios históricos que incluem:",
+    "options": [
+      "A carência de presos para ocupar as milhares de vagas ociosas geradas pelos investimentos estaduais.",
+      "A superlotação carcerária, rebeliões periódicas e a necessidade de assegurar condições dignas de custódia e reinserção social aos apenados.",
+      "A gestão militar internacional comandada por forças de paz da Organização das Nações Unidas (ONU).",
+      "A proibição total da atuação da Defensoria Pública e da Ordem dos Advogados do Brasil no interior das penitenciárias.",
+      "A erradicação definitiva de qualquer tipo de delito no município após a inauguração do complexo penitenciário."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Complexo Prisional de Aparecida de Goiânia (Complexo Oregões) enfrenta desafios socioestruturais comuns aos grandes estabelecimentos prisionais brasileiros, como déficit de vagas e superlotação."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Com base nos dados oficiais do Censo Demográfico do IBGE de 2022, o perfil populacional de Aparecida de Goiânia caracteriza-se por consolidar o município como:",
+    "options": [
+      "Uma pequena vila interiorana de base demográfica estagnada, com menos de 50 mil habitantes.",
+      "A capital política de fato do estado de Goiás, abrigando a sede dos três poderes estaduais.",
+      "A cidade com o maior percentual de população residente em zonas estritamente rurais do Centro-Oeste.",
+      "O município mais populoso de Goiás, tendo superado numericamente a população da capital Goiânia.",
+      "O segundo município mais populoso do estado de Goiás, ultrapassando os 500 mil habitantes e possuindo perfil essencialmente urbano."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Conforme o Censo de 2022, Aparecida de Goiânia possui mais de 500 mil habitantes (527.550 habitantes), sendo o segundo município mais populoso de Goiás (atrás apenas de Goiânia)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No mosaico da vegetação do bioma Cerrado presente no território goiano, as formações florestais associadas aos cursos d'água desempenham função ecológica essencial para a conservação dos solos e da biodiversidade aquática. A faixa de mata que acompanha estreitamente os rios menores e córregos, formando corredores biológicos protegidos por lei, denomina-se:",
+    "options": [
+      "Mata de Galeria (ou Ciliar).",
+      "Caatinga Hiperxerófila.",
+      "Cerradão Eutrófico.",
+      "Campo Rupestre de Altitude.",
+      "Estepe Gramíneo-Lenhosa."
+    ],
+    "correctAnswer": 0,
+    "explanation": "As Matas de Galeria (ou Matas Ciliares) acompanham os cursos de água de pequeno porte no Cerrado, formando verdadeiras florestas de proteção ao redor de rios e nascentes."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Um dos episódios de maior impacto na configuração geográfica, política e territorial de Goiás no século XX foi a criação do estado do Tocantins pela Assembleia Nacional Constituinte em 1988. Esse ato histórico causou:",
+    "options": [
+      "A anexação do Triângulo Mineiro ao sul de Goiás para compensar a perda do norte.",
+      "A falência econômica irreversível de Goiânia, que perdeu todo o seu parque metalúrgico para Palmas.",
+      "O isolamento das rotas rodoviárias com Brasília, uma vez que as rodovias federais foram desmanteladas.",
+      "A divisão do antigo território goiano, separando a porção norte e reduzindo a área geográfica do estado de Goiás praticamente pela metade.",
+      "A transferência imediata de Aparecida de Goiânia para as margens do Rio Tocantins."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A promulgação da Constituição de 1988 determinou a desmembração do antigo norte de Goiás para formar o estado do Tocantins, reduzindo significativamente a extensão territorial goiana."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O relevo e a hidrografia de Aparecida de Goiânia são drenados por microbacias que cruzam seus bairros e desembocam no rio Meia Ponte. Dentre os afluentes urbanos mais relevantes e conhecidos que cortam o município de Aparecida de Goiânia, destaca-se o:",
+    "options": [
+      "Rio Paranaíba.",
+      "Córrego Santo Antônio.",
+      "Rio Claro.",
+      "Rio Tocantinszinho.",
+      "Córrego do Urubu-Rei."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Córrego Santo Antônio é um dos corpos de água urbanos mais importantes de Aparecida de Goiânia, cortando regiões centrais e históricas da cidade."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Na primeira metade do século XVIII, para ligar a capitania de São Paulo às recém-descobertas minas de ouro de Goiás e garantir a arrecadação da tributação régia (como o quinto e as entradas), a Coroa Portuguesa oficializou um roteiro de circulação terrestre conhecido na historiografia colonial como:",
+    "options": [
+      "Estrada de Ferro Madeira-Mamoré.",
+      "Rodovia Transbrasiliana Colonial.",
+      "Caminho dos Goyazes.",
+      "Rota das Esmeraldas Borba Gato.",
+      "Picada de Cuiabá ao Prata."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O Caminho dos Goyazes (ou Estrada Real dos Goyazes) ligava São Paulo às minas de ouro do interior goiano, utilizado por tropas, bandeirantes e pela administração colonial."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Embora o estado de Goiás ostente posições de liderança nacional na agropecuária e no saldo comercial do agronegócio de exportação, parcelas da população urbana e rural ainda enfrentam situações de vulnerabilidade alimentar. Sociologicamente, essa contradição é explicada:",
+    "options": [
+      "Pela inexistência de solos aráveis fora das reservas indígenas demarcadas em Goiás.",
+      "Pela proibição legal do comércio de hortifrutigranjeiros nas feiras livres e mercados municipais.",
+      "Pela preferência cultural da população local por consumir produtos alimentícios industrializados importados da Europa.",
+      "Pela total escassez de água que impede o cultivo de qualquer tipo de alimento para o mercado interno.",
+      "Pela priorização das lavouras em latifúndios monocultores de commodities para o mercado externo e desigualdade na renda, em detrimento do apoio estruturante à agricultura familiar que abastece o mercado interno."
+    ],
+    "correctAnswer": 4,
+    "explanation": "A vulnerabilidade alimentar em regiões agrícolas produtoras ocorre porque grande parte da produção visa commodities de exportação (soja/milho), coexistindo com concentração fundiária e desigualdade socioeconômica."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O Brasão de Armas do Município de Aparecida de Goiânia sintetiza visualmente sua evolução histórica, espiritualidade e forças produtivas. Nele, encontram-se representados elementos alusivos:",
+    "options": [
+      "À devoção religiosa católica (em referência a Nossa Senhora Aparecida) combinada a símbolos da indústria, do comércio e do trabalho que impulsionaram a cidade.",
+      "À monarquia absolutista francesa e à atividade de extração petrolífera em plataformas submarinas.",
+      "À exploração de carvão mineral e às caravelas portuguesas aportadas no porto municipal.",
+      "Ao domínio militar da Guerra do Paraguai e à fundação jesuítica da primeira missão espanhola.",
+      "Exclusivamente a elementos astrológicos e constelações do hemisfério norte sem ligação com a história local."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O brasão de Aparecida carrega símbolos religiosos (a flor de lis/manto Mariano remetendo a Nossa Senhora Aparecida) juntamente com engrenagens e motivos que representam o parque industrial e comercial."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O turismo religioso é uma das forças culturais e econômicas mais expressivas de Goiás. A Festa do Divino Pai Eterno, que atrai anualmente milhões de peregrinos e romeiros da Região Metropolitana de Goiânia e de todo o Brasil, é celebrada no município de:",
+    "options": [
+      "Posse.",
+      "Trindade.",
+      "Jataí.",
+      "Cristalina.",
+      "São Luís de Montes Belos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Romaria do Divino Pai Eterno é celebrada no município de Trindade (integrante da Região Metropolitana de Goiânia), atraindo milhões de fiéis todos os anos."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A Área de Proteção Ambiental (APA) da Serra das Areias, instituída por legislação estadual na década de 1990, constitui o patrimônio natural e ecológico mais relevante do município de Aparecida de Goiânia. A principal função ambiental dessa unidade de conservação para o município consiste:",
+    "options": [
+      "No fornecimento irrestrito de brita e saibro para as obras de infraestrutura viária de toda a Região Metropolitana de Goiânia.",
+      "No abrigo de cabeceiras de drenagem e recarga de aquíferos que abastecem córregos locais, além de funcionar como barreira ecológica contra a conurbação predatória e refúgio da biodiversidade nativa do Cerrado.",
+      "Na instalação exclusiva de usinas termelétricas a carvão vegetal para suprir a demanda energética das indústrias locais.",
+      "No cultivo intensivo e irrigado de monoculturas de soja transgênica destinadas à exportação direta.",
+      "No confinamento controlado de espécies exóticas trazidas de savanas africanas para fins de caça esportiva regulamentada."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Serra das Areias protege mananciais essenciais para o abastecimento de água do município de Aparecida, servindo como o principal 'pulmão verde' e reserva de biodiversidade da cidade."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Durante os desdobramentos do Golpe Militar de 1964 no estado de Goiás, o cenário político estadual sofreu severa ruptura institucional. O governador constitucional de Goiás deposto pela Ditadura Militar em novembro de 1964 sob intervenção federal foi:",
+    "options": [
+      "Pedro Ludovico Teixeira.",
+      "Henrique Santillo.",
+      "Mauro Borges Teixeira.",
+      "Iris Rezende Machado.",
+      "Jerônimo Coimbra Bueno."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mauro Borges Teixeira (filho de Pedro Ludovico) exercia o mandato de governador eleito quando sofreu intervenção federal do regime militar instaurado em 1964, sendo cassado e removido do cargo."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No mosaico vegetacional do Cerrado goiano, uma fitofisionomia destaca-se pela presença constante de solos hidromórficos encharcados e pela ocorrência marcante da palmeira buriti (Mauritia flexuosa), exercendo papel ecológico vital como oásis de recarga hídrica e abrigo da fauna. Essa fitofisionomia é classificada como:",
+    "options": [
+      "Vereda.",
+      "Cerradão.",
+      "Campo Limpo Rupestre.",
+      "Floresta Estacional Decidual.",
+      "Caatinga Arbustiva."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Veredas são fitofisionomias de vales com solo encharcado (hidromórfico), dominadas pela palmeira Buriti e com vegetação graminosa ao redor, cruciais para a conservação de nascentes."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A autonomia formal de Aparecida de Goiânia concretizou-se na década de 1960. O ato legal de emancipação político-administrativa do município, desmembrando-o definitivamente de Goiânia, deu-se por meio da:",
+    "options": [
+      "Carta Régia promulgada por Dom João VI em 1818.",
+      "Lei Estadual nº 4.927, sancionada em 14 de novembro de 1963.",
+      "Emenda Constitucional Estadual nº 1, de 5 de outubro de 1988.",
+      "Deliberação da Câmara de Vereadores de Pouso Alto no ano de 1922.",
+      "Portaria do Ministério da Fazenda baixada durante o Estado Novo em 1937."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aparecida de Goiânia conquistou sua emancipação política oficial com a aprovação e sanção da Lei Estadual nº 4.927, de 14 de novembro de 1963."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No âmbito dos direitos humanos e do mundo do trabalho contemporâneo em Goiás, operações fiscais coordenadas pelo Ministério Público do Trabalho e auditores fiscais continuam a resgatar trabalhadores em condições degradantes no estado. Os setores econômicos em Goiás que historicamente concentram os maiores índices de flagrantes de trabalho análogo à escravidão envolvem:",
+    "options": [
+      "As empresas de tecnologia da informação e startups financeiras instaladas na capital.",
+      "As atividades agrícolas tradicionais temporárias (como colheita de cana e lavoura), a pecuária extensiva e a produção carvoeira.",
+      "As redes bancárias públicas e os quadros funcionais dos órgãos do Poder Judiciário estadual.",
+      "O comércio farmacêutico regulamentado do polo industrial de Aparecida de Goiânia.",
+      "Os centros de atendimento e call centers sediados nas principais cidades metropolitanas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Flagrantes de trabalho escravo contemporâneo em Goiás associam-se majoritariamente às frentes de trabalho rural no interior, como carvoarias, desmatamento de pastagens e colheita sazonal."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Na Cidade de Goiás, a Semana Santa é marcada por uma celebração noturna secular do patrimônio imaterial goiano, na qual homens encapuzados (farricocos) caminham pelas ruas de pedra empunhando tochas acesas ao som de tambores, encenando a perseguição e prisão de Jesus Cristo. Essa celebração é a:",
+    "options": [
+      "Festa do Divino Espírito Santo.",
+      "Cavalhada Imperial.",
+      "Procissão do Fogaréu.",
+      "Dança de São Gonçalo.",
+      "Romaria do Muquém."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Procissão do Fogaréu ocorre à meia-noite de quarta-feira santa na Cidade de Goiás, atraindo multidões para ver o cortejo dos farricocos encenando a prisão de Cristo."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O Rio Araguaia, um dos mais importantes cursos d'água de Goiás e do Centro-Oeste, mobiliza anualmente intensa atividade turística durante os meses de estiagem (especialmente julho). As características naturais e o impacto socioambiental dessa temporada turística compreendem:",
+    "options": [
+      "A formação de praias de areia branca temporárias devido ao recuo das águas, acompanhada por grande pressão antrópica que acarreta acúmulo de resíduos sólidos e perturbação da fauna ribeirinha.",
+      "A abertura de rotas de navegação transatlântica para transatlânticos de grande calado em direção ao oceano Pacífico.",
+      "A formação de blocos de gelo flutuantes que inviabilizam o acampamento de turistas ao longo das ilhas fluviais.",
+      "A interdição total das margens fluviais para proteger a desova perpétua de focas-monge tropicais.",
+      "O transbordamento ininterrupto do rio, gerando inundações crônicas que impedem o acesso a municípios como Aruanã."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Na estiagem do meio do ano (estio/temporada de julho), o leito do Araguaia baixa, expondo extensas praias fluviais que atraem milhares de acampamentos de turistas, demandando rígido controle sobre o lixo e impacto ecológico."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A integração dos sistemas de mobilidade urbana entre Goiânia e Aparecida de Goiânia é um dos elementos centrais da dinâmica metropolitana cotidiana. A estrutura do transporte coletivo de passageiros que articula a circulação desses dois municípios caracteriza-se:",
+    "options": [
+      "Pela separação tarifária absoluta, sendo proibido aos ônibus de Aparecida entrarem no espaço geográfico da capital.",
+      "Pela existência de uma Rede Metropolitana de Transportes Coletivos (RMTC), integrada por terminais de transbordo (como os terminais Cruzeiro, Garavelo e Vila Brasília) com cobrança de tarifa única integrada.",
+      "Pelo monopólio exclusivo de uma malha ferroviária subterrânea que interliga todos os bairros da periferia de Aparecida ao centro de Goiânia.",
+      "Pela extinção de linhas de ônibus convencionais, substituídas integralmente por barcas no Rio Meia Ponte.",
+      "Pela gratuidade universal subsidiada integralmente por fundos de royalties de petróleo mantidos pelo Governo Federal."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goiânia e Aparecida compartilham a RMTC (Rede Metropolitana de Transportes Coletivos), que opera de forma integrada com biarticulados, ônibus alimentadores e terminais de integração como o Terminal Cruzeiro e Garavelo."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Nas discussões sobre desastres ambientais e mudanças climáticas no território goiano, as Unidades de Conservação de proteção integral no norte do estado enfrentam episódios recorrentes de grande gravidade nos meses de seca. No Parque Nacional da Chapada dos Veadeiros, o principal desastre ambiental que periodicamente destrói milhares de hectares de vegetação nativa consiste em:",
+    "options": [
+      "Terremotos de alta intensidade causados pela falha de San Andreas do Planalto Central.",
+      "Tsunamis lacustres gerados pelo colapso das serras cristalinas.",
+      "Deslizamentos de encostas causados pelo derretimento de geleiras de topo.",
+      "Incêndios florestais descontrolados no Cerrado, agravados pela aridez, ventos fortes e ação humana criminosa ou negligente.",
+      "Chuva ácida contínua provocada pela atividade industrial pesada da mineração de bauxita instalada no parque."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Na época de estiagem, as queimadas e incêndios florestais descontrolados figuram como a ameaça ecológica mais severa às Unidades de Conservação do Cerrado no norte do estado."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O potencial hidrelétrico do relevo e da hidrografia de Goiás é amplamente explorado para a matriz energética nacional. Dentre os grandes reservatórios artificiais do estado, o lago artificial formado pela Usina Hidrelétrica de Serra da Mesa, no Rio Tocantins, destaca-se em âmbito nacional por:",
+    "options": [
+      "Ser o maior lago do Brasil em volume de água acumulada, cumprindo papel de regulação de vazão na bacia do Tocantins.",
+      "Abastecer exclusivamente as lavouras irrigadas de arroz do município de Aparecida de Goiânia.",
+      "Possuir águas termais com temperaturas naturais acima dos 90 °C em toda a sua extensão.",
+      "Estar completamente desativado desde o século XIX devido à ausência de chuvas no norte do estado.",
+      "Ser alimentado pelo degelo natural das montanhas da Chapada dos Veadeiros."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O reservatório da Usina Hidrelétrica de Serra da Mesa detém o maior volume de água represada do Brasil (com mais de 54 bilhões de metros cúbicos de água)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O marco comemorativo da fundação histórica de Aparecida de Goiânia remete ao ano de 1922. O acontecimento comunitário e religioso que assinala oficialmente o nascimento do povoamento no dia 11 de maio daquele ano foi:",
+    "options": [
+      "A realização da primeira missa campal celebrada pelo Padre Francisco Inácio de Souza junto à cruz de aroeira erguida nas terras doadas.",
+      "A inauguração oficial da sede da Prefeitura Municipal e do Palácio dos Despachos pelo governador do estado.",
+      "A chegada do primeiro trem de passageiros da Estrada de Ferro Goyaz à Estação Central de Aparecida.",
+      "O combate armado final que expulsou os soldados da Coluna Prestes das fazendas do município.",
+      "O início da construção das pistas de pouso do Aeroporto Internacional de Cargas de Aparecida."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A celebração da missa campal ao lado da cruz rezada pelo vigário local marcou simbolicamente o marco fundador da praça e povoado de Aparecida em 11 de maio de 1922."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Entre os anos de 1970 e 1990, Aparecida de Goiânia experimentou taxas de expansão demográfica entre as mais altas do território brasileiro. Do ponto de vista sociológico e urbano, esse fenômeno esteve intensamente condicionado:",
+    "options": [
+      "À criação de amplas reservas de preservação ambiental que impediam construções no perímetro do município.",
+      "À expulsão compulsória das indústrias da cidade em decorrência de normas de combate à poluição.",
+      "À proliferação de loteamentos periféricos de baixo custo, que absorveram famílias de baixa renda e trabalhadores repelidos pelos altos preços da terra e dos aluguéis em Goiânia.",
+      "À descoberta de jazidas de petróleo que atraíram milhões de engenheiros e técnicos estrangeiros.",
+      "Ao fechamento de todas as rodovias federais que convergiam para o centro do estado de Goiás."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O valor elevado do metro quadrado na capital impulsionou a busca por terrenos mais acessíveis nos loteamentos aprovados em Aparecida de Goiânia, tornando o município destino preferencial das famílias trabalhadoras."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No campo das políticas públicas de educação profissional, tecnológica e superior, Aparecida de Goiânia obteve avanços estruturantes nas últimas décadas com a instalação de unidades de instituições públicas de ensino federais. Destaca-se como polo de formação e desenvolvimento científico no município:",
+    "options": [
+      "A Universidade da Força Aérea Brasileira para pilotos de caça supersônica.",
+      "O Instituto Tecnológico de Aeronáutica (ITA) do Planalto Central.",
+      "A Academia Real de Marinha do Centro-Oeste.",
+      "A Escola Superior de Guerra voltada para o setor canavieiro.",
+      "A presença do Câmpus Aparecida de Goiânia do Instituto Federal de Goiás (IFG) e do Câmpus da Universidade Federal de Goiás (UFG)."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Aparecida conta com unidades de ensino superior federal de grande peso para a qualificação tecnológica e acadêmica regional, como o IFG e o Câmpus da UFG no município."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Os solos predominantes sob a vegetação do Cerrado goiano são os Latossolos (Vermelho e Vermelho-Amarelo). Do ponto de vista de sua aptidão e propriedades físicas e químicas originais para a agricultura, esses solos caracterizam-se por serem:",
+    "options": [
+      "Extremamente rasos, impermeáveis, pedregosos e com excesso natural de calcário ativo.",
+      "Naturalmente férteis, básicos e ricos em macronutrientes dispensando qualquer tipo de adubação.",
+      "Profundos, porosos e bem drenados, porém naturalmente ácidos, pobres em nutrientes essenciais (como fósforo) e com presença de alumínio tóxico, exigindo calagem e fertilização para o cultivo intensivo.",
+      "Totalmente salinizados devido ao contato contínuo com depósitos de cloreto de sódio em profundidade.",
+      "Compostos de pura turfa orgânica sujeita a combustão espontânea permanente quando desmatada."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Os latossolos do Cerrado possuem ótimas características físicas (profundos e porosos), mas são quimicamente pobres e ácidos, exigindo calagem (calcário) e fertilizantes para atingir altíssima produtividade agrícola."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No contexto da cultura popular e dos costumes de Goiás e de Aparecida de Goiânia, os saberes e práticas cotidianas mantêm viva uma forte tradição de trocas econômicas e de sociabilidade comunitária. Essa tradição materializa-se fundamentalmente na existência de:",
+    "options": [
+      "Feiras livres e mercados populares de bairro, onde se comercializam alimentos hortifrutigranjeiros, queijos, doces artesanais, ervas e comidas tradicionais como pastéis e empadões.",
+      "Feiras de leilão de camelos importados no centro administrativo dos bairros.",
+      "Corporações de ofício medievais fechadas que proíbem o comércio de pequenos agricultores.",
+      "Entrepostos estatais compulsórios onde o cidadão só adquire víveres por meio de cadernetas de racionamento militar.",
+      "Portos alfandegados de pescados salgados nos cais artificiais da periferia municipal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "As feiras livres populares espalhadas por Goiânia e Aparecida de Goiânia constituem os pilares da sociabilidade diária e da comercialização de alimentos frescos e gastronomia local."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "As emergências em saúde pública no estado de Goiás envolvem o monitoramento epidemiológico constante de doenças imunopreveníveis e de transmissão vetorial. Historicamente, o estado de Goiás figura no mapa sanitário do Ministério da Saúde como área com recomendação de vacinação de rotina permanente contra uma enfermidade viral aguda transmitida em áreas silvestres por mosquitos dos gêneros Haemagogus e Sabethes. Trata-se da:",
+    "options": [
+      "Febre Amarela.",
+      "Varíola Bovina.",
+      "Hanseníase Pulmonar.",
+      "Peste Bubônica.",
+      "Sífilis Congênita."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Febre Amarela silvestre é endêmica da região do Cerrado no Brasil central, sendo transmitida pelos mosquitos silvestres Haemagogus e Sabethes, justificando a imunização sistemática do público goiano."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Na história política de Goiás durante o processo de redemocratização (década de 1980), o governador Iris Rezende Machado destacou-se pela implantação de uma política administrativa inovadora de mobilização popular e obras públicas de grande alcance social na Região Metropolitana de Goiânia. Essa política ficou célebre pela denominação de:",
+    "options": [
+      "Plano Real de Habitação Coletiva.",
+      "Mutirões Comunitários da Moradia, erguendo milhares de casas populares em fins de semana com trabalho conjunto do poder público e da população.",
+      "Marcha das Ligas Camponesas do Vale do Rio Vermelho.",
+      "Operação Bandeirante de Desapropriação Ferroviária.",
+      "Revolta dos Posseiros de Trombas e Formoso."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Iris Rezende popularizou os 'Mutirões da Moradia' em suas gestões (ex.: Vila Mutirão em 1983), nos quais milhares de moradias populares eram construídas em um único dia ou final de semana com engajamento comunitário."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O parque industrial de Aparecida de Goiânia transformou radicalmente a composição de suas receitas tributárias e oferta de empregos formais. O município abriga atualmente empresas de ponta distribuídas em diferentes segmentos, com expressivo destaque para os ramos:",
+    "options": [
+      "Da metalurgia pesada de fundição de navios de guerra e plataformas de petróleo.",
+      "Aeroespacial voltado para a construção de foguetes intercontinentais.",
+      "Farmacêutico, de alimentos e bebidas, químico, de embalagens plásticas e de serviços de logística e distribuição.",
+      "Têxtil tradicional movido exclusivamente a teares manuais de seda silvestre indígena.",
+      "Da extração de carvão mineral de hulha e enriquecimento de plutônio."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aparecida destaca-se nacionalmente como polo do setor farmoquímico, alimentício, plástico e logístico, abrigando indústrias de renome de grande porte."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No contexto das alterações no meio ambiente e mudanças climáticas que afetam o Centro-Oeste, os produtores agropecuários e as autoridades de recursos hídricos de Goiás têm enfrentado com maior frequência fenômenos caracterizados por períodos anômalos de estiagem e altas temperaturas em plena estação chuvosa (entre dezembro e fevereiro). Esses episódios são conhecidos como:",
+    "options": [
+      "Veranicos.",
+      "Geadas Negras.",
+      "Monções Polares.",
+      "Tornados de Neve.",
+      "Friagens Antárticas."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Veranico é a estiagem acompanhada de calor intenso que ocorre durante a estação habitual das chuvas (verão no Centro-Oeste), prejudicando a umidade do solo e o desenvolvimento de lavouras."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No século XVIII, a descoberta inicial de lavras de ouro no sopé da Serra Dourada, junto ao leito do Rio Vermelho, deu origem ao núcleo de povoamento denominado Arraial de Sant'Anna, o qual foi posteriormente elevado à categoria de vila e primeira capital de Goiás sob o nome de:",
+    "options": [
+      "Santa Cruz de Goiás.",
+      "Meia Ponte.",
+      "Vila Boa de Goiás.",
+      "São José do Tocantins.",
+      "Natividade de Goiás."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O Arraial de Sant'Anna, fundado por Bartolomeu Bueno da Silva, foi elevado a Vila Boa de Goyaz em 1739, tornando-se a capital da Capitania e posteriormente do Estado de Goiás."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Em Aparecida de Goiânia, a implementação de políticas públicas voltadas à conservação ambiental urbana e à melhoria da qualidade de vida da população concretizou-se por meio da implantação de parques municipais estruturados. Um dos espaços públicos de preservação e lazer mais representativos e frequentados situado na área urbana do município é o:",
+    "options": [
+      "Parque Estadual dos Pireneus.",
+      "Parque da Cidade / Parque Ecológico Maurício de Oliveira.",
+      "Jardim Botânico de Curitiba.",
+      "Parque Nacional do Jaú.",
+      "Bosque dos Buritis Colonial."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Parque Lafaiete Campos Filho (Parque da Cidade) / Parque Ecológico Maurício de Oliveira situa-se na área urbana de Aparecida de Goiânia, sendo uma importante área verde de lazer."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A composição étnico-social e demográfica de Aparecida de Goiânia reflete os fluxos migratórios inter-regionais que redesenharam o interior do Brasil no século XX. A expressiva presença de migrantes e seus descendentes no município originou-se majoritariamente de quais regiões brasileiras?",
+    "options": [
+      "Das regiões Nordeste e Norte (em especial de estados como Maranhão, Bahia, Piauí, Tocantins e Pará), atraídos pela oferta de empregos na construção civil, comércio e serviços.",
+      "Exclusivamente de imigrantes do extremo sul da Patagônia chilena.",
+      "De contingentes maciços de pescadores originários de comunidades caiçaras de Santa Catarina.",
+      "De garimpeiros repatriados de países do leste europeu.",
+      "De operários navais vindos unicamente da foz do Rio Amazonas."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Assim como a Grande Goiânia, Aparecida de Goiânia recebeu forte contingente migratório proveniente dos estados do Nordeste e Norte do país."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Diferentemente da exploração aurífera manual dos tempos coloniais, a atividade de mineração moderna em Goiás baseia-se em plantas industriais de grande porte e tecnologia de ponta. Os municípios de Catalão e Ouvidor, na porção sudeste do estado, destacam-se no cenário mineral brasileiro pela extração e beneficiamento de:",
+    "options": [
+      "Hulha e linhito para produção de coque siderúrgico.",
+      "Fosfato (insumo essencial para fertilizantes) e nióbio.",
+      "Esmeraldas brutas para o artesanato tradicional do Araguaia.",
+      "Urânio enriquecido destinado à propulsão naval metropolitana.",
+      "Diamantes industriais retirados do fundo do Rio Meia Ponte."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Catalão e Ouvidor abrigam expressivas reservas e complexos minerotermelétricos de rocha fosfática (para adubos agrícolas) e nióbio."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No que se refere aos povos originários e à salvaguarda dos direitos culturais no território goiano, o povo indígena Karajá (Iny), estabelecido nas margens e ilhas do Rio Araguaia, possui uma manifestação tradicional de artesanato em cerâmica reconhecida pelo IPHAN como Patrimônio Cultural Imaterial do Brasil. Essa manifestação expressa-se através das:",
+    "options": [
+      "Cuias marajoaras douradas a ouro colonial.",
+      "Tapeçarias de lã de lhama tecidas em teares andinos.",
+      "Esculturas monumentais de mármore esculpidas à mão.",
+      "Canoas monóxilas de ferro fundido nas missões religiosas.",
+      "Bonecas de cerâmica ritxòkò, cujas formas, pinturas e adornos retratam cenas cotidianas, seres mitológicos e o ciclo de vida da comunidade."
+    ],
+    "correctAnswer": 4,
+    "explanation": "As bonecas de cerâmica Karajá (Ritxòkò) foram registradas em 2012 pelo IPHAN como Patrimônio Cultural do Brasil por expressarem a visão de mundo e saberes do povo Iny/Karajá."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Após a sanção da lei que conferiu emancipação política a Aparecida de Goiânia em fins de 1963, procedeu-se à organização dos poderes municipais. O primeiro prefeito eleito pelo voto direto popular que assumiu os destinos do novel município foi:",
+    "options": [
+      "José Cândido de Queirós.",
+      "Norberto Teixeira.",
+      "Tanner de Melo.",
+      "Ademir de Oliveira Menezes.",
+      "Maguito Vilela."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tanner de Melo foi o primeiro prefeito regularmente eleito pelo voto popular direto para administrar o município recém-emancipado de Aparecida de Goiânia em 1965."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O crescimento urbano e a descentralização comercial em Aparecida de Goiânia originaram novas centralidades urbanas fora do núcleo histórico central. Destaca-se como um dos maiores e mais dinâmicos polos de comércio popular a céu aberto e prestação de serviços do município, polarizando o consumo de dezenas de bairros adjacentes, a região do:",
+    "options": [
+      "Setor Garavelo, articulado ao longo da Avenida Igualdade e vias adjacentes.",
+      "Setor Alphaville Flamboyant Metropolitano, de uso exclusivamente rural.",
+      "Polo Portuário Fluvial de Nova Brasília, reservado ao comércio atacadista de navios.",
+      "Parque Industrial de Mineração Aurífera das Lajes.",
+      "Setor Fazenda das Antas Colonial, restrito ao ecoturismo de aventura."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Setor Garavelo e seu eixo na Avenida Igualdade constituem o mais vigoroso centro comercial e de serviços de Aparecida fora da região central histórica."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Muito antes da concretização da transferência da capital goiana por Pedro Ludovico Teixeira na década de 1930, propostas de mudança da sede do governo já eram formalmente debatidas no século XIX. Uma das obras fundamentais desse debate oitocentista foi o livro 'Viagem ao Araguaia', cujo autor e então presidente da Província de Goiás defendia a necessidade de deslocar a capital para uma região de maior circulação econômica e hídrica. Esse autor foi:",
+    "options": [
+      "Bartolomeu Bueno da Silva.",
+      "José Vieira Couto de Magalhães.",
+      "Attilio Corrêa Lima.",
+      "Venerando de Freitas Borges.",
+      "Leopoldo de Bulhões."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Couto de Magalhães, presidente da Província de Goiás em 1863, escreveu 'Viagem ao Araguaia' e foi pioneiro em defender o deslocamento da capital para o interior/margens navegáveis para integração da região."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A paisagem geomorfológica que emoldura a Cidade de Goiás é dominada por uma formação orográfica de grande valor simbólico, histórico e ambiental, composta por relevos residuais quartzíticos e areníticos que abrigam nascentes e mirantes naturais. Essa formação é a:",
+    "options": [
+      "Serra do Mar.",
+      "Serra da Bocaina.",
+      "Serra Dourada.",
+      "Serra da Mantiqueira.",
+      "Serra dos Carajás."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Serra Dourada é a imponente formação de serras que contorna o vale histórico da Cidade de Goiás, celebrada na obra de Cora Coralina e preservada por parque estadual."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No contexto dos direitos humanos e das comunidades originárias de Goiás, a presença indígena contemporânea no Vale do Araguaia preserva formas de vida tradicionais e resistência identitária. No município de Aruanã, localiza-se a aldeia Buridina, pertencente ao povo indígena:",
+    "options": [
+      "Karajá (Iny).",
+      "Pataxó.",
+      "Guarani Kaiowá.",
+      "Yanomami.",
+      "Xavante do Xingu."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A aldeia Buridina fica situada no município de Aruanã (às margens do rio Araguaia e rio Vermelho) e pertence à etnia Karajá (Iny)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A infraestrutura logística moderna no estado de Goiás passou por transformações estratégicas no século XXI para acelerar o transporte e escoamento da produção agroindustrial rumo aos portos marítimos nacionais. A principal via de transporte ferroviário que atravessa o território goiano no sentido longitudinal norte-sul, conectando plataformas multimodais como as de Rio Verde e Anápolis, é a:",
+    "options": [
+      "Estrada de Ferro Vitória a Minas.",
+      "Ferrovia Transnordestina Litorânea.",
+      "Ferrovia Norte-Sul (FNS).",
+      "Estrada de Ferro Central do Brasil Colonial.",
+      "Malha Ferroviária Sul-Tietê."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Ferrovia Norte-Sul (FNS) é a espinha dorsal do transporte ferroviário de cargas em Goiás, interligando o estado aos portos do norte (Iquiqui/Itaqui) e do sul/sudeste (Santos)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Os desafios de drenagem urbana e gestão de riscos ambientais em Aparecida de Goiânia tornam-se visíveis durante as precipitações torrenciais do verão. As inundações pontuais e a erosão laminar de margens no município ocorrem predominantemente em função de:",
+    "options": [
+      "Correntes de maré que represam as águas marinhas nas praias lacustres.",
+      "Ocupação desordenada de fundos de vale e planícies de inundação, associada à intensa impermeabilização do solo urbano sem infraestrutura de bacias de amortecimento pluvial suficientes.",
+      "Rompimento diário de geleiras artificiais instaladas nos topos dos edifícios centrais.",
+      "Bloqueio do Rio Araguaia por cardumes de peixes de grande porte.",
+      "Excesso de matas ciliares nativas que impedem o fluxo de água pelos bueiros municipais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A impermeabilização do solo provocada pela expansão urbana rápida aliada à ocupação de áreas de preservação em fundos de vale causa enxurradas e erosão nas épocas de tempestades estivais."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Na estrutura de atenção e enfrentamento a surtos e emergências de saúde pública, Aparecida de Goiânia consolidou ao longo das últimas décadas uma rede assistencial própria no âmbito do Sistema Único de Saúde (SUS). O primeiro nível de contato dos cidadãos para prevenção epidemiológica, vacinação e consultas básicas no município dá-se por meio:",
+    "options": [
+      "Das Unidades Básicas de Saúde (UBS) e das equipes da Estratégia Saúde da Família (ESF) espalhadas pelos bairros.",
+      "Exclusivamente dos navios-hospital da Marinha atracados na bacia central.",
+      "De clínicas veterinárias militares de pronto atendimento.",
+      "De postos sanitários consulares geridos por embaixadas estrangeiras.",
+      "Dos hospitais psiquiátricos de custódia judicial federal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Atenção Primária à Saúde é realizada por meio das Unidades Básicas de Saúde (UBS) e equipes de Saúde da Família (ESF), porta de entrada preferencial do SUS nos bairros."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Dentre as expressões do patrimônio imaterial goiano ligadas aos saberes manuais tradicionais herdados do período colonial e rural, destaca-se o trabalho das mulheres que fiam o algodão cultivado localmente e produzem colchas e vestimentas em teares rústicos de madeira. Essa tradição refere-se ao ofício das:",
+    "options": [
+      "Rendeiras de bilro de praia marítima.",
+      "Fiandeiras e tecelãs do Cerrado goiano.",
+      "Oleiras de porcelana chinesa imperial.",
+      "Vidreiras renascentistas venezianas.",
+      "Fundidoras de bronze e canhões de artilharia."
+    ],
+    "correctAnswer": 1,
+    "explanation": "As fiandeiras e tecelãs tradicionais representam o saber artesanal ancestral de fiar o algodão em rocas e tecer em teares manuais, vivo em diversas cidades históricas e rurais de Goiás."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O subsolo do sul e sudoeste do estado de Goiás abriga parcelas expressivas de uma das maiores reservas subterrâneas de água doce do planeta. A preservação desse manancial subterrâneo é tema recorrente de políticas ambientais devido aos riscos de contaminação por defensivos agrícolas e superexploração hídrica por pivôs centrais. Essa reserva é o:",
+    "options": [
+      "Aquífero Alter do Chão.",
+      "Aquífero Guarani.",
+      "Aquífero Cabeças.",
+      "Aquífero Bauru-Nordeste.",
+      "Mar Subterrâneo do Saara Central."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Aquífero Guarani estende-se pelo subsolo do Sudoeste/Sul de Goiás (além de outros estados brasileiros e países vizinhos), sendo uma das maiores reservas continentais de água potável."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No panorama político de Goiás na Primeira República, as disputas faccionais entre clãs oligárquicos atingiram o ápice em um conflito armado conhecido na história regional como a 'Revolução de 1909'. Esse episódio foi marcado:",
+    "options": [
+      "Pela deposição armada das forças ligadas ao grupo político de José Leopoldo de Bulhões e a consolidação progressiva do domínio da família Caiado no governo do estado.",
+      "Pela proclamação da independência política de Goiás em relação à federação brasileira.",
+      "Pela invasão de tropas comunistas chefiadas por operários industriais anarquistas de Anápolis.",
+      "Pela extinção da propriedade privada rural por determinação da Igreja Católica.",
+      "Pelo retorno da sede da capitania para o controle direto da Coroa de Portugal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A chamada Revolução de 1909 foi a disputa violenta que resultou na queda da hegemonia política dos Bulhões e na ascensão do grupo oligárquico comandado pelos Caiado."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A cadeia agroindustrial contemporânea em Goiás não se restringe à produção agrícola primária, destacando-se fortemente no setor de transformação de proteína animal. Os polos agroindustriais de Rio Verde e Jataí, no sudoeste goiano, tornaram-se referências internacionais na criação confinada e abate em larga escala de:",
+    "options": [
+      "Ovelhas polares e alpacas.",
+      "Aves (frangos) e suínos, abastecendo gigantescas plantas integradas de processamento de carne.",
+      "Renas e bisões selvagens de estepe.",
+      "Salmões e trutas de altitude.",
+      "Crustáceos marinhos de águas profundas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rio Verde e Jataí lideram a avicultura e a suinocultura no estado de Goiás, abrigando complexos industriais frigoríficos de grande relevância nacional e exportadora (como Perdigão/BRF)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A história do surgimento do povoamento de Aparecida de Goiânia guarda a memória de proprietários rurais benfeitores que destinaram parte de suas terras para a ereção do arraial em 1922. Entre os líderes fazendeiros da época que assinaram a doação de terras da antiga Fazenda das Antas à Igreja Católica, destaca-se:",
+    "options": [
+      "José Cândido de Queirós.",
+      "Getúlio Dornelles Vargas.",
+      "Afonso Pena Júnior.",
+      "Rui Barbosa de Oliveira.",
+      "Bernardo Sayão Carvalho Araújo."
+    ],
+    "correctAnswer": 0,
+    "explanation": "José Cândido de Queirós (juntamente com outros fazendeiros locais como Aristides Frutuoso) participou ativamente da doação das terras para a capela de Nossa Senhora Aparecida em 1922."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O ecoturismo e a geografia física do nordeste goiano abrigam importantes atrativos de conservação e lazer. No município de Formosa, localiza-se uma das maiores quedas d'água em queda livre acessíveis do Brasil, com 168 metros de altura, situada em uma Área de Proteção Ambiental municipal. Essa atração é o:",
+    "options": [
+      "Salto do Sucuriú.",
+      "Salto do Itiquira.",
+      "Salto de Sete Quedas.",
+      "Cataratas do Iguaçu goianas.",
+      "Cascata do Caracol do Planalto."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Salto do Itiquira, situado no município de Formosa, possui 168 metros de queda livre contínua, sendo um dos pontos turísticos mais visitados da região."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No que se refere às políticas públicas estaduais de controle e gestão ambiental em Goiás, o órgão da administração pública direta responsável por coordenar a fiscalização ecológica, licenciar empreendimentos, outorgar uso de água e coibir desmatamentos ilegais no bioma Cerrado é a:",
+    "options": [
+      "SEMAD (Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável).",
+      "SUDEPE (Superintendência de Pesca e Caça Marinha).",
+      "EMATER de Vigilância Sanitária Portuária.",
+      "CODEVASF Municipal de Aparecida de Goiânia.",
+      "AGETOP da Habitação Privada Urbana."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A SEMAD é a secretaria estadual encarregada do licenciamento ambiental, gestão de recursos hídricos e fiscalização ecológica em Goiás."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No âmbito dos direitos humanos e proteção a populações em situação de vulnerabilidade, o poder público em Aparecida de Goiânia conta com estruturas especializadas para atender e acolher mulheres vítimas de violência doméstica e familiar. Esse serviço policial especializado é prestado pela:",
+    "options": [
+      "Delegacia Especializada no Atendimento à Mulher (DEAM).",
+      "Capitania dos Portos e Vias Navegáveis do Centro.",
+      "Delegacia de Crimes Alfandegários e Portuários.",
+      "Junta Militar de Alistamento Compulsório de Menores.",
+      "Inspetoria Geral de Imigração e Fronteiras Secas."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A DEAM (Delegacia Especializada no Atendimento à Mulher) é a unidade da Polícia Civil vocacionada à prevenção, apuração e proteção da mulher contra crimes no contexto doméstico."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A ordem jurídico-política no município de Aparecida de Goiânia é regida por uma norma máxima local que organiza os poderes municipais, estabelece competências legislativas e fixa diretrizes administrativas fundamentais. Esse instrumento normativo é a:",
+    "options": [
+      "Carta Régia Imperial do Ouvidor de Goiás.",
+      "Lei Orgânica do Município de Aparecida de Goiânia.",
+      "Constituição Federal da Província do Sul.",
+      "Portaria da Receita Federal Metropolitana.",
+      "Consolidação das Leis do Trabalho Fluvial."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Lei Orgânica Municipal cumpre o papel equivalente ao de uma 'Constituição do Município', regendo as normas e organização de Aparecida de Goiânia."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Durante a estação seca em Goiás (especialmente entre junho e agosto), a dinâmica climática condiciona uma expressiva amplitude térmica diária e fenômenos meteorológicos característicos. A esse respeito, constata-se com frequência nesse período:",
+    "options": [
+      "Umidade relativa do ar acima de 95% e nevoeiros marítimos contínuos.",
+      "Manhãs e madrugadas consideravelmente frias com ventos secos, seguidas por tardes quentes e taxas de umidade relativa do ar extremamente reduzidas, que frequentemente caem abaixo de 20%.",
+      "Chuva de granizo diária e contínua devido à entrada de frentes quentes equatoriais.",
+      "Precipitação regular de neve nas áreas urbanas da Região Metropolitana de Goiânia.",
+      "Total ausência de raios solares durante todo o inverno em função da cobertura perpétua de nuvens estratocúmulos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "No inverno seco goiano, a oscilação de temperatura (amplitude térmica) entre a madrugada e a tarde é grande, acompanhada por níveis críticos de baixa umidade do ar (frequentemente abaixo de 20%)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A literatura regionalista goiana projetou nacionalmente escritores que retrataram a alma sertaneja, os dramas camponeses e as transformações sociais do Centro-Oeste. O primeiro escritor goiano a ser eleito para a Academia Brasileira de Letras (ABL), autor de obras clássicas como 'O Tronco' e 'Veranico de Janeiro', foi:",
+    "options": [
+      "Bernardo Élis.",
+      "Hugo de Carvalho Ramos.",
+      "Guimarães Rosa.",
+      "Monteiro Lobato.",
+      "Jorge Amado."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bernardo Élis (1915-1997) foi o insigne contista e romancista goiano ocupante da Cadeira 1 da Academia Brasileira de Letras (ABL)."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No período colonial goiano, a ocupação das terras interioranas não se resumiu aos arraiais auríferos. Para garantir o suprimento regular de carne, couro e animais de carga às zonas de mineração, a Coroa Portuguesa concedeu extensas porções de terras devolutas a colonos por meio do regime de:",
+    "options": [
+      "Cooperativas operárias socialistas.",
+      "Sesmarias.",
+      "Capitanias Hereditárias industriais.",
+      "Encomiendas espanholas de prata.",
+      "Kibutzim agrícolas comunitários."
+    ],
+    "correctAnswer": 1,
+    "explanation": "As sesmarias eram o sistema colonial português de concessão de terras públicas devolutas para quem se comprometesse a cultivá-las e criar gado."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Em Aparecida de Goiânia, um dos principais pilares do atendimento de média e alta complexidade hospitalar no sistema público de saúde é o Hospital Municipal de Aparecida de Goiânia (HMAP), que teve papel determinante no atendimento à população metropolitana durante crises sanitárias e epidêmicas. O hospital homenageia em seu nome oficial o ex-governador e líder político goiano:",
+    "options": [
+      "Mauro Borges Teixeira.",
+      "Iris Rezende Machado.",
+      "José Ludovico de Almeida.",
+      "Ronaldo Caiado Sobrinho.",
+      "Otávio Lage de Siqueira."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O nome oficial de transmissão da unidade é Hospital Municipal de Aparecida de Goiânia Iris Rezende Machado (HMAP), homenageando o político goiano."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "O patrimônio geológico e espeleológico do nordeste goiano apresenta relevância científica e turística internacional. O Parque Estadual de Terra Ronca, situado entre os municípios de São Domingos e Guarani de Goiás, notabiliza-se por abrigar:",
+    "options": [
+      "O maior complexo de vulcões ativos da bacia do Rio da Prata.",
+      "Um dos mais expressivos e monumentais conjuntos de cavernas e grutas calcárias da América Latina, com rios subterrâneos e dolinas.",
+      "Atóis de corais fósseis em praias de água salgada costeiras.",
+      "Plataformas continentais de extração de xisto betuminoso no fundo do oceano.",
+      "Florestas equatoriais intocadas habitadas por gorilas montanheses."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Parque Estadual de Terra Ronca destaca-se por abrigar centenas de cavernas, grutas e algares de rocha calcária esculpidos por rios subterrâneos."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "A superação do estigma histórico de Aparecida de Goiânia como mera 'cidade-dormitório' consolidou-se a partir de políticas públicas de atração empresarial e incentivos fiscais implementadas a partir dos anos 1990 e 2000. Essa evolução permitiu ao município alcançar:",
+    "options": [
+      "A completa desativação do setor de serviços, voltando toda a população para o cultivo manual do café.",
+      "Autossuficiência e atração diária de trabalhadores de outras cidades da região metropolitana (inclusive da capital), devido à pujança de seus polos industriais e centros de logística.",
+      "O isolamento alfandegário total, com fechamento das fronteiras municipais e término das relações econômicas com o restante do estado.",
+      "A transferência compulsória de todos os órgãos públicos estaduais para a Praça Matriz de Aparecida.",
+      "O abandono absoluto do transporte rodoviário em proveito da navegação marítima no Córrego Santo Antônio."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ao desenvolver forte setor produtivo e de serviços, Aparecida passou a atrair trabalhadores das cidades circunvizinhas, invertendo o fluxo exclusivo de cidade-dormitório."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No mosaico de fitofisionomias do Cerrado goiano, uma formação vegetal diferencia-se nitidamente do Cerrado sentido restrito por apresentar dossel predominantemente contínuo (fechado), árvores mais eretas de porte florestal e escassez do estrato herbáceo sob a copa. Essa fisionomia florestal sobre solos bem drenados é o:",
+    "options": [
+      "Campo Limpo.",
+      "Cerradão.",
+      "Campo Rupestre.",
+      "Brejo de altitude salobra.",
+      "Pampa de várzea arenosa."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Cerradão é a fisionomia florestal (árvores altas de dossel fechado) do bioma Cerrado, ocorrendo em solos bem drenados e mais férteis."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "Para fins de gestão administrativa, planejamento territorial e distribuição de serviços públicos essenciais, a Prefeitura de Aparecida de Goiânia organiza o espaço do município em macrorregiões urbanas. Entre essas regiões de planejamento urbano estruturadas no território do município encontram-se:",
+    "options": [
+      "Macrorregiões Centro, Garavelo, Vila Brasília, Santa Luzia e Zona da Mata Nordestina.",
+      "Macrorregiões Centro, Garavelo, Vila Brasília, Cruzeiro e Santa Luzia.",
+      "Macrorregiões Triângulo Mineiro, Meia Ponte Baixo, Pantanal e Centro-Sul.",
+      "Macrorregiões Polar, Tropical Úmida, Semiárida e Desértica de Aparecida.",
+      "Macrorregiões do Báltico Goiano, Flandres Sul e Cantábria Central."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aparecida de Goiânia é subdividida administrativamente em macrorregiões urbanas de planejamento como Centro, Garavelo, Vila Brasília, Cruzeiro, Santa Luzia, Expansul, entre outras."
+  },
+  {
+    "materia": "Realidade de GO",
+    "peso": 4,
+    "text": "No debate contemporâneo sobre justiça socioambiental, direitos humanos e cidadania no Cerrado goiano, povos e comunidades tradicionais enfrentam pressões sobre seus modos de vida ancestrais decorrentes do avanço das cercas e da apropriação dos bens naturais comuns. Dentre essas comunidades tradicionais que habitam as áreas de várzea e chapada do interior de Goiás e reivindicam a salvaguarda de seus territórios tradicionais, destacam-se:",
+    "options": [
+      "Esquimós e inuítes do altiplano.",
+      "Seringueiros da tundra e baleeiros costeiros.",
+      "Retireiros do Araguaia, geraizeiros, vazanteiros e remanescentes de quilombos.",
+      "Colonos mercenários corporativos das companhias das Índias Ocidentais.",
+      "Piratas fluviais nômades de foz oceânica."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Em Goiás e no Brasil Central, destacam-se comunidades tradicionais reconhecidas como os Retireiros do Araguaia, geraizeiros, vazanteiros e os quilombolas."
+  }
+]

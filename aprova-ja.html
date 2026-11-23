@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprova Já - Simulador PRO</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        body { font-family: 'Inter', sans-serif; background-color: #f0f2f5; color: #1f2937; }
+        
+        .fade-in { animation: fadeIn 0.3s ease-in-out; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        /* Estilos do rádio customizado */
+        .option-label { cursor: pointer; transition: all 0.2s; }
+        .option-radio { display: none; }
+        .option-radio:checked + .option-box { border-color: #2563eb; background-color: #eff6ff; }
+        .option-radio:checked + .option-box .radio-circle { border-color: #2563eb; background-color: #2563eb; }
+        .option-radio:checked + .option-box .radio-circle::after {
+            content: ''; width: 8px; height: 8px; background: white; border-radius: 50%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+
+    <!-- Navbar / Header -->
+    <header class="bg-slate-900 text-white shadow-md py-4 px-6 sticky top-0 z-20">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold flex items-center gap-2 cursor-pointer hover:text-blue-400 transition" onclick="app.renderHome()">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" /></svg>
+                Simulador PRO
+            </h1>
+            
+            <!-- Cronômetro -->
+            <div id="timer-container" class="hidden flex items-center gap-4">
+                <div class="flex items-center gap-2 bg-slate-800 px-4 py-1.5 rounded-lg border border-slate-700">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                    <span id="timer-display" class="font-mono text-lg font-semibold tracking-wider">00:00:00</span>
+                </div>
+                <button onclick="app.finishExam()" class="bg-red-600 hover:bg-red-700 text-white font-medium py-1.5 px-4 rounded-lg transition-colors text-sm">
+                    Finalizar
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="flex-grow flex justify-center p-4 sm:p-6">
+        <div id="app-container" class="w-full max-w-6xl">
+            <!-- Conteúdo injetado via JS -->
+        </div>
+    </main>
+
+    <!-- Importação do arquivo de dados externo -->
+    <script src="dados.js"></script>
+
+    <script>
+        // --- 1. ADAPTAÇÃO AUTOMÁTICA DO BANCO DE DADOS ---
+        let bancoDeQuestoes = [];
+        if (typeof quizData !== 'undefined' && quizData.geral && quizData.geral.questions) {
+            // Puxa as questões do objeto gerado e cria um ID automático para o sistema anti-repetição funcionar
+            bancoDeQuestoes = quizData.geral.questions.map((q, index) => {
+                return {
+                    ...q,
+                    id: index + 1,
+                    disciplina: q.materia 
+                };
+            });
+        } else {
+            console.error("Erro: quizData não encontrado no dados.js");
+        }
+
+        // --- 2. FUNÇÕES AUXILIARES DE EMBARALHAMENTO E SELEÇÃO ---
+        function embaralhar(array) {
+            let arrCopia = [...array];
+            for (let i = arrCopia.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [arrCopia[i], arrCopia[j]] = [arrCopia[j], arrCopia[i]];
+            }
+            return arrCopia;
+        }
+
+        function pegarQuestoes(ineditas, completas, disciplina, qtd) {
+            let selecionadas = embaralhar(ineditas.filter(q => q.disciplina === disciplina)).slice(0, qtd);
+            if (selecionadas.length < qtd) {
+                const faltam = qtd - selecionadas.length;
+                const antigas = embaralhar(completas.filter(q => q.disciplina === disciplina)).slice(0, faltam);
+                selecionadas = [...selecionadas, ...antigas];
+            }
+            return selecionadas;
+        }
+
+        // Configuração dos Cards compatível com as nomenclaturas do seu dados.js
+        const menuConfig = {
+            'geral': { 
+                title: 'Simulado Geral Completo', desc: 'Todas as disciplinas do edital', 
+                icon: '<svg class="w-10 h-10 text-slate-800 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"></path></svg>', 
+                total: bancoDeQuestoes.length, timeMin: 240 
+            },
+            'Conhecimentos Específicos': { 
+                title: 'Conhecimentos Específicos', desc: 'Direito, Leis e Adm. Pública', 
+                icon: '<svg class="w-10 h-10 text-green-600 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>', 
+                total: bancoDeQuestoes.filter(q => q.disciplina === 'Conhecimentos Específicos').length, timeMin: 60 
+            },
+            'Realidade de GO': { 
+                title: 'Realidade de GO', desc: 'História e Geografia Regional', 
+                icon: '<svg class="w-10 h-10 text-yellow-500 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>', 
+                total: bancoDeQuestoes.filter(q => q.disciplina === 'Realidade de GO').length, timeMin: 15 
+            },
+            'PORTUGUES': { 
+                title: 'PORTUGUÊS', desc: 'Questões variadas', 
+                icon: '<svg class="w-10 h-10 text-blue-600 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path></svg>', 
+                total: bancoDeQuestoes.filter(q => q.disciplina === 'PORTUGUES').length, timeMin: 30 
+            },
+            'Raciocínio Lógico-Mat.': { 
+                title: 'Raciocínio Lógico-Mat.', desc: 'Lógica, Sequências e Problemas', 
+                icon: '<svg class="w-10 h-10 text-purple-600 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>', 
+                total: bancoDeQuestoes.filter(q => q.disciplina === 'Raciocínio Lógico-Mat.').length, timeMin: 20 
+            }
+        };
+
+        // --- 3. ESTADO DO APLICATIVO ---
+        const appState = {
+            currentExamTitle: '',
+            questions: [],
+            currentIndex: 0,
+            userAnswers: [],
+            reviewMarks: [],
+            timerInterval: null,
+            timeRemaining: 0
+        };
+
+        let questoesJaUsadas = JSON.parse(localStorage.getItem('questoesUsadasVerbena')) || [];
+
+        const container = document.getElementById('app-container');
+        const timerContainer = document.getElementById('timer-container');
+        const timerDisplay = document.getElementById('timer-display');
+
+        // --- 4. LÓGICA PRINCIPAL ---
+        const app = {
+            renderHome: function() {
+                clearInterval(appState.timerInterval);
+                timerContainer.classList.add('hidden');
+                
+                let subjectsHTML = '';
+                for (const [key, subject] of Object.entries(menuConfig)) {
+                    let bgClass = key === 'geral' ? 'bg-slate-50 border-slate-300 shadow-md scale-[1.02]' : 'bg-white border-gray-200';
+                    
+                    subjectsHTML += `
+                        <button onclick="app.startExam('${key}')" class="flex flex-col items-center p-6 ${bgClass} border rounded-xl hover:border-blue-500 hover:shadow-lg transition-all duration-300 group text-center">
+                            ${subject.icon}
+                            <h3 class="font-bold text-lg text-gray-800 group-hover:text-blue-600 transition-colors mb-1">${subject.title}</h3>
+                            <p class="text-xs text-gray-500 mb-4 h-8">${subject.desc}</p>
+                            <div class="flex gap-2 w-full justify-center">
+                                <span class="text-xs font-bold text-gray-600 bg-gray-100 px-3 py-1.5 rounded-md border border-gray-200">${subject.total} Questões</span>
+                                <span class="text-xs font-bold text-blue-700 bg-blue-100 px-3 py-1.5 rounded-md border border-blue-200">⏱ ${subject.timeMin} min</span>
+                            </div>
+                        </button>
+                    `;
+                }
+
+                const resetBtn = questoesJaUsadas.length > 0 
+                    ? `<button onclick="app.resetHistory()" class="mt-8 text-sm text-red-500 underline hover:text-red-700">Resetar histórico de questões respondidas (${questoesJaUsadas.length} salvas)</button>` 
+                    : '';
+
+                container.innerHTML = `
+                    <div class="max-w-5xl mx-auto fade-in">
+                        <div class="bg-white rounded-2xl shadow-sm border border-gray-200 p-8 mb-8 text-center">
+                            <h2 class="text-3xl font-bold text-gray-800 mb-3">Escolha seu Simulado</h2>
+                            <p class="text-gray-600 max-w-2xl mx-auto">Selecione uma matéria específica para focar os estudos ou encare o Simulado Geral de 4 horas.</p>
+                        </div>
+                        
+                        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+                            ${subjectsHTML}
+                        </div>
+                        <div class="text-center">
+                            ${resetBtn}
+                        </div>
+                    </div>
+                `;
+            },
+
+            resetHistory: function() {
+                if(confirm("Tem certeza que deseja zerar o histórico? As questões voltarão a se repetir.")) {
+                    localStorage.removeItem('questoesUsadasVerbena');
+                    questoesJaUsadas = [];
+                    this.renderHome();
+                }
+            },
+
+            startExam: function(examKey) {
+                appState.currentExamTitle = menuConfig[examKey].title;
+                let provaGerada = [];
+                let tempoEmMinutos = menuConfig[examKey].timeMin;
+
+                const ineditas = bancoDeQuestoes.filter(q => !questoesJaUsadas.includes(q.id));
+
+                if (examKey === 'geral') {
+                    // REGRA DO EDITAL APLICADA AQUI COM OS NOMES EXATOS DO DADOS.JS
+                    provaGerada = embaralhar([
+                        ...pegarQuestoes(ineditas, bancoDeQuestoes, "PORTUGUES", 10),
+                        ...pegarQuestoes(ineditas, bancoDeQuestoes, "Conhecimentos Específicos", 25),
+                        ...pegarQuestoes(ineditas, bancoDeQuestoes, "Raciocínio Lógico-Mat.", 3),
+                        ...pegarQuestoes(ineditas, bancoDeQuestoes, "Realidade de GO", 2)
+                    ]);
+                } else {
+                    let qtdCorte = 30; 
+                    if (examKey === 'Realidade de GO' || examKey === 'Raciocínio Lógico-Mat.') qtdCorte = 10;
+                    if (examKey === 'PORTUGUES') qtdCorte = 20;
+
+                    provaGerada = embaralhar(pegarQuestoes(ineditas, bancoDeQuestoes, examKey, qtdCorte));
+                }
+
+                const idsProvaAtual = provaGerada.map(q => q.id);
+                questoesJaUsadas = [...new Set([...questoesJaUsadas, ...idsProvaAtual])];
+                localStorage.setItem('questoesUsadasVerbena', JSON.stringify(questoesJaUsadas));
+
+                appState.questions = provaGerada;
+                appState.currentIndex = 0;
+                appState.userAnswers = new Array(appState.questions.length).fill(null);
+                appState.reviewMarks = new Array(appState.questions.length).fill(false);
+
+                appState.timeRemaining = tempoEmMinutos * 60;
+                timerContainer.classList.remove('hidden');
+                this.updateTimerDisplay();
+                
+                appState.timerInterval = setInterval(() => {
+                    appState.timeRemaining--;
+                    this.updateTimerDisplay();
+                    if(appState.timeRemaining <= 0) {
+                        alert("Tempo esgotado! A prova será finalizada automaticamente.");
+                        this.finishExam();
+                    }
+                }, 1000);
+
+                this.renderLayout();
+            },
+
+            updateTimerDisplay: function() {
+                if (appState.timeRemaining <= 0) {
+                    timerDisplay.innerText = "00:00:00";
+                    return;
+                }
+                const h = Math.floor(appState.timeRemaining / 3600).toString().padStart(2, '0');
+                const m = Math.floor((appState.timeRemaining % 3600) / 60).toString().padStart(2, '0');
+                const s = (appState.timeRemaining % 60).toString().padStart(2, '0');
+                timerDisplay.innerText = `${h}:${m}:${s}`;
+                
+                timerDisplay.classList.remove('text-red-400', 'animate-pulse');
+                if(appState.timeRemaining < 300) { 
+                    timerDisplay.classList.add('text-red-400', 'animate-pulse');
+                }
+            },
+
+            renderLayout: function() {
+                container.innerHTML = `
+                    <div class="flex flex-col md:flex-row gap-6 fade-in">
+                        <div class="flex-grow bg-white rounded-xl shadow-sm border border-gray-200 flex flex-col min-h-[500px]">
+                            <div id="question-area" class="p-6 md:p-8 flex-grow"></div>
+                            <div class="bg-gray-50 p-4 border-t border-gray-200 flex flex-wrap justify-between items-center rounded-b-xl gap-4">
+                                <button onclick="app.prevQuestion()" id="btn-prev" class="px-5 py-2 rounded-lg font-medium text-gray-700 bg-white border border-gray-300 hover:bg-gray-100 disabled:opacity-50">Anterior</button>
+                                <label class="flex items-center gap-2 cursor-pointer text-sm font-medium text-amber-700 bg-amber-50 px-4 py-2 rounded-lg border border-amber-200 hover:bg-amber-100 transition">
+                                    <input type="checkbox" id="review-checkbox" onchange="app.toggleReview()" class="w-4 h-4 accent-amber-600">
+                                    <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M5 4a2 2 0 012-2h6a2 2 0 012 2v14l-5-2.5L5 18V4z"/></svg>
+                                    Marcar para Revisão
+                                </label>
+                                <button onclick="app.nextQuestion()" id="btn-next" class="px-6 py-2 rounded-lg font-medium text-white bg-blue-600 hover:bg-blue-700 shadow-sm transition">Próxima</button>
+                            </div>
+                        </div>
+                        <div class="w-full md:w-72 flex-shrink-0 bg-white rounded-xl shadow-sm border border-gray-200 p-5 h-fit sticky top-24">
+                            <h3 class="font-bold text-gray-800 mb-4 border-b border-gray-100 pb-2">Mapa da Prova</h3>
+                            <div class="grid grid-cols-5 gap-2" id="grid-area"></div>
+                            <div class="mt-6 space-y-3 text-xs font-medium text-gray-600 bg-gray-50 p-3 rounded-lg border border-gray-100">
+                                <div class="flex items-center gap-2"><div class="w-4 h-4 rounded bg-white border border-gray-300"></div> Sem resposta</div>
+                                <div class="flex items-center gap-2"><div class="w-4 h-4 rounded bg-blue-600 shadow-sm"></div> Respondida</div>
+                                <div class="flex items-center gap-2"><div class="w-4 h-4 rounded bg-amber-500 shadow-sm"></div> Para revisão</div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                this.updateQuestionView();
+            },
+
+            updateQuestionView: function() {
+                const question = appState.questions[appState.currentIndex];
+                const qArea = document.getElementById('question-area');
+                const isReview = appState.reviewMarks[appState.currentIndex];
+                
+                document.getElementById('review-checkbox').checked = isReview;
+                document.getElementById('btn-prev').disabled = appState.currentIndex === 0;
+                const btnNext = document.getElementById('btn-next');
+                
+                if (appState.currentIndex === appState.questions.length - 1) {
+                    btnNext.innerText = "Finalizar Prova";
+                    btnNext.classList.replace('bg-blue-600', 'bg-green-600');
+                    btnNext.classList.replace('hover:bg-blue-700', 'hover:bg-green-700');
+                    btnNext.onclick = () => app.finishExam();
+                } else {
+                    btnNext.innerText = "Próxima";
+                    btnNext.classList.replace('bg-green-600', 'bg-blue-600');
+                    btnNext.classList.replace('hover:bg-green-700', 'hover:bg-blue-700');
+                    btnNext.onclick = () => app.nextQuestion();
+                }
+
+                let optionsHTML = '';
+                question.options.forEach((opt, idx) => {
+                    const isChecked = appState.userAnswers[appState.currentIndex] === idx ? 'checked' : '';
+                    optionsHTML += `
+                        <label class="option-label block mb-3 relative">
+                            <input type="radio" name="q-option" class="option-radio" value="${idx}" onchange="app.saveAnswer(${idx})" ${isChecked}>
+                            <div class="option-box flex items-center p-4 border-2 border-gray-200 rounded-xl hover:bg-gray-50">
+                                <div class="radio-circle relative w-5 h-5 rounded-full border-2 border-gray-300 mr-4 flex-shrink-0"></div>
+                                <span class="text-gray-700 leading-snug">${opt}</span>
+                            </div>
+                        </label>
+                    `;
+                });
+
+                qArea.innerHTML = `
+                    <div class="flex justify-between items-start mb-5">
+                        <span class="text-sm font-bold text-gray-400 uppercase tracking-widest">Questão ${appState.currentIndex + 1} / ${appState.questions.length}</span>
+                        <span class="text-xs font-bold bg-blue-50 text-blue-700 border border-blue-100 px-2.5 py-1 rounded-md">${question.disciplina} (Peso ${question.peso || 1})</span>
+                    </div>
+                    <h2 class="text-lg font-semibold text-gray-900 mb-6 leading-relaxed">${question.text}</h2>
+                    <div>${optionsHTML}</div>
+                `;
+
+                this.renderGrid();
+            },
+
+            renderGrid: function() {
+                const gridArea = document.getElementById('grid-area');
+                let gridHTML = '';
+                
+                appState.questions.forEach((_, idx) => {
+                    let baseClass = "w-10 h-10 flex items-center justify-center rounded font-medium text-sm cursor-pointer transition-all duration-200 ";
+                    if (appState.reviewMarks[idx]) {
+                        baseClass += "bg-amber-500 text-white shadow-sm ";
+                    } else if (appState.userAnswers[idx] !== null) {
+                        baseClass += "bg-blue-600 text-white shadow-sm ";
+                    } else {
+                        baseClass += "bg-white text-gray-600 border border-gray-300 hover:bg-gray-100 ";
+                    }
+                    if (idx === appState.currentIndex) {
+                        baseClass += "ring-2 ring-offset-2 ring-blue-400 transform scale-110 ";
+                    }
+                    gridHTML += `<div onclick="app.goToQuestion(${idx})" class="${baseClass}">${idx + 1}</div>`;
+                });
+                
+                gridArea.innerHTML = gridHTML;
+            },
+
+            saveAnswer: function(optionIndex) {
+                appState.userAnswers[appState.currentIndex] = optionIndex;
+                this.renderGrid();
+            },
+
+            toggleReview: function() {
+                const checkbox = document.getElementById('review-checkbox');
+                appState.reviewMarks[appState.currentIndex] = checkbox.checked;
+                this.renderGrid();
+            },
+
+            prevQuestion: function() {
+                if (appState.currentIndex > 0) {
+                    appState.currentIndex--;
+                    this.updateQuestionView();
+                }
+            },
+
+            nextQuestion: function() {
+                if (appState.currentIndex < appState.questions.length - 1) {
+                    appState.currentIndex++;
+                    this.updateQuestionView();
+                }
+            },
+
+            goToQuestion: function(index) {
+                appState.currentIndex = index;
+                this.updateQuestionView();
+            },
+
+            finishExam: function() {
+                const unans = appState.userAnswers.filter(a => a === null).length;
+                if (unans > 0 && appState.timeRemaining > 0) {
+                    const confirmFinish = confirm(`Você ainda tem ${unans} questão(ões) sem resposta. Deseja entregar a prova mesmo assim?`);
+                    if (!confirmFinish) return;
+                }
+
+                clearInterval(appState.timerInterval);
+                timerContainer.classList.add('hidden');
+
+                let maxPoints = 0;
+                let userPoints = 0;
+                let correctCount = 0;
+
+                appState.questions.forEach((q, idx) => {
+                    const qPoints = (q.peso || 1) * 10;
+                    maxPoints += qPoints;
+                    if (appState.userAnswers[idx] === q.correctAnswer) {
+                        userPoints += qPoints;
+                        correctCount++;
+                    }
+                });
+
+                const percentage = (userPoints / maxPoints) * 100;
+                const isApproved = percentage >= 60; 
+
+                let resultColor = isApproved ? "text-green-600" : "text-red-600";
+                let resultBg = isApproved ? "bg-green-50 border-green-200" : "bg-red-50 border-red-200";
+                let resultText = isApproved ? "Bom Desempenho!" : "Abaixo da Meta. Revise o material!";
+
+                let correctionHTML = '<h3 class="text-2xl font-bold mt-10 mb-6 text-gray-800 flex items-center gap-2"><svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg> Gabarito e Resolução</h3>';
+                
+                appState.questions.forEach((q, idx) => {
+                    const userAnswer = appState.userAnswers[idx];
+                    const isCorrect = userAnswer === q.correctAnswer;
+                    
+                    let badge = isCorrect 
+                        ? `<span class="bg-green-100 text-green-700 px-3 py-1 rounded-md text-xs font-bold uppercase tracking-wider border border-green-200">Acertou</span>`
+                        : `<span class="bg-red-100 text-red-700 px-3 py-1 rounded-md text-xs font-bold uppercase tracking-wider border border-red-200">Errou</span>`;
+
+                    let optionsList = q.options.map((opt, oIdx) => {
+                        let style = "text-gray-600";
+                        let icon = "";
+                        if (oIdx === q.correctAnswer) {
+                            style = "text-green-800 font-bold bg-green-50 p-3 rounded-lg border border-green-200";
+                            icon = "✅ ";
+                        } else if (oIdx === userAnswer && !isCorrect) {
+                            style = "text-red-700 line-through bg-red-50 p-3 rounded-lg border border-red-200";
+                            icon = "❌ ";
+                        } else {
+                            style = "p-3";
+                        }
+                        return `<div class="${style}">${icon}${opt}</div>`;
+                    }).join('');
+
+                    correctionHTML += `
+                        <div class="mb-6 bg-white p-6 rounded-2xl border border-gray-200 shadow-sm">
+                            <div class="flex justify-between items-start mb-4">
+                                <div>
+                                    <span class="font-bold text-gray-800 text-lg mr-2">Questão ${idx + 1}</span>
+                                    <span class="text-xs font-semibold text-gray-500 bg-gray-100 px-2 py-1 rounded">${q.disciplina}</span>
+                                </div>
+                                ${badge}
+                            </div>
+                            <p class="text-gray-900 font-medium mb-5 text-lg">${q.text}</p>
+                            <div class="space-y-2 text-sm mb-5">
+                                ${optionsList}
+                            </div>
+                            <div class="bg-blue-50 border border-blue-100 p-4 rounded-xl text-sm text-blue-900">
+                                <strong class="flex items-center gap-1 mb-1"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"/></svg> Explicação:</strong> 
+                                ${q.explanation || "Sem explicação cadastrada no banco de dados."}
+                            </div>
+                        </div>
+                    `;
+                });
+
+                container.innerHTML = `
+                    <div class="max-w-4xl mx-auto pb-10 fade-in">
+                        <div class="${resultBg} border rounded-3xl p-8 text-center shadow-sm">
+                            <h2 class="text-3xl font-extrabold ${resultColor} mb-2">${resultText}</h2>
+                            <p class="text-gray-600 mb-8 font-medium">Desempenho em: ${appState.currentExamTitle}</p>
+                            
+                            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 bg-white p-6 rounded-2xl shadow-sm border border-gray-100 max-w-3xl mx-auto">
+                                <div class="md:border-r border-gray-200">
+                                    <p class="text-xs text-gray-400 font-bold uppercase mb-1">Aproveitamento</p>
+                                    <p class="text-4xl font-black ${resultColor}">${percentage.toFixed(1)}%</p>
+                                </div>
+                                <div class="md:border-r border-gray-200 pt-4 md:pt-0 border-t md:border-t-0">
+                                    <p class="text-xs text-gray-400 font-bold uppercase mb-1">Pontos (C/ Peso)</p>
+                                    <p class="text-3xl font-bold text-gray-800">${userPoints} <span class="text-lg font-normal text-gray-400">/ ${maxPoints}</span></p>
+                                </div>
+                                <div class="pt-4 md:pt-0 border-t md:border-t-0 border-gray-200">
+                                    <p class="text-xs text-gray-400 font-bold uppercase mb-1">Acertos Líquidos</p>
+                                    <p class="text-3xl font-bold text-gray-800">${correctCount} <span class="text-lg font-normal text-gray-400">/ ${appState.questions.length}</span></p>
+                                </div>
+                            </div>
+                            
+                            <button onclick="app.renderHome()" class="mt-8 px-8 py-3 bg-slate-900 text-white font-bold rounded-xl hover:bg-blue-700 transition-colors shadow-lg">
+                                Voltar ao Menu Principal
+                            </button>
+                        </div>
+                        
+                        ${correctionHTML}
+                    </div>
+                `;
+            }
+        };
+
+        window.onload = () => app.renderHome();
+    </script>
+</body>
+</html>

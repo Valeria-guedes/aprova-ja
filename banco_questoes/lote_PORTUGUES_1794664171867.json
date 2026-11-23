@@ -1,0 +1,450 @@
+[
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a opção em que a regência do verbo 'agradar' atende à norma culta no sentido de 'causar agrado / satisfazer / aprazer'.",
+    "options": [
+      "A nova proposta de horário de expediente agradou aos servidores da secretaria escolar.",
+      "O projeto pedagógico agradou os professores mais experientes do colégio de Aparecida de Goiânia.",
+      "O secretário tentou agradar o munícipe fazendo promessas que não dependiam do seu departamento.",
+      "A leitura dos relatórios finais não agrada os diretores das unidades escolares municipais.",
+      "A mãe agradou ao filho assustado com palavras carinhosas durante a acolhida presencial."
+    ],
+    "correctAnswer": 0,
+    "explanation": "No sentido de satisfazer, aprazer ou causar agrado, o verbo 'agradar' é transitivo indireto e exige a preposição 'a' (agradar a alguém: agradou aos servidores)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que o verbo 'esquecer' foi empregado com regência em estrita conformidade com a norma-padrão da língua.",
+    "options": [
+      "O auxiliar de secretaria esqueceu dos carimbos institucionais sobre o balcão de atendimento ao público.",
+      "O auxiliar de secretaria se esqueceu dos carimbos institucionais sobre o balcão de atendimento ao público.",
+      "O auxiliar de secretaria se esqueceu os carimbos institucionais sobre o balcão de atendimento ao público.",
+      "Todos na secretaria esqueceram de autenticar as cópias das certidões trazidas pelos munícipes.",
+      "O candidato esqueceu-se o comprovante de inscrição no balcão da coordenação escolar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O verbo 'esquecer' quando não pronominal é transitivo direto (esqueceu algo). Quando pronominal ('esquecer-se'), exige a preposição 'de' (esqueceu-se de algo). A opção B emprega corretamente a forma pronominal acompanhada da preposição 'de' ('se esqueceu dos carimbos')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que preenche com correção as lacunas quanto à regência nominal: 'O servidor mostrou-se favorável _____ implantação do sistema, afável _____ os colegas e apto _____ função de atendimento.'",
+    "options": [
+      "À – com – para a",
+      "A – perante – com",
+      "De – contra – sobre a",
+      "Para – sobre – em",
+      "Com – de – ante a"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Favorável exige a preposição 'a' (a + a implantação = à); afável rege a preposição 'com' (afável com os colegas); apto rege a preposição 'para' ou 'a' (apto para a função de atendimento)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que a ocorrência do acento grave indicativo de crase é rigorosamente PROIBIDA segundo a norma-padrão.",
+    "options": [
+      "O auxiliar de secretaria entregou a declaração discente à diretora geral da unidade de ensino.",
+      "O atendimento aos responsáveis pelos estudantes será mantido de segunda à sexta-feira sem pausas.",
+      "A comissão de matrícula compareceu àquela solenidade promovida pela prefeitura de Aparecida de Goiânia.",
+      "O expediente administrativo foi suspenso às dezessete horas por determinação expressa do prefeito.",
+      "Todos os servidores prestaram auxílio imediato à comunidade atingida pelas fortes chuvas da semana."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Na correlação 'de... a...', quando não há artigo definido antes do primeiro termo ('de segunda'), não há artigo antes do segundo termo ('a sexta-feira'). Portanto, o uso da crase é proibido em 'de segunda à sexta-feira'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que o acento indicativo de crase foi empregado em locuções adverbiais femininas em perfeita conformidade com a norma-padrão.",
+    "options": [
+      "A secretaria da escola atenderá os pais às pressas para evitar acúmulo de filas na recepção principal.",
+      "O auxiliar começou à redigir a ata da reunião pedagógica logo após a saída dos conselheiros do recinto.",
+      "Os formulários de requerimento foram entregues à uma funcionária recém-admitida no quadro administrativo.",
+      "O coordenador pedagógico dirigiu-se à pé até o anfiteatro onde os pais aguardavam as orientações gerais.",
+      "O servidor solicitou prazo extra à Sua Senhoria para consolidar as notas de rendimento escolar dos alunos."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Às pressas' é uma locução adverbial feminina constituída por preposição 'a' + artigo definido feminino plural 'as', devendo ser acentuada. Nas demais alternativas, há crase antes de verbo (redigir), de artigo indefinido (uma), de palavra masculina (pé) e de pronome de tratamento (Sua Senhoria)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a opção em que a vírgula foi empregada para separar oração subordinada adjetiva EXPLICATIVA, segundo os padrões da pontuação normativa.",
+    "options": [
+      "O colégio municipal de Aparecida de Goiânia, que passou por amplas reformas estruturais, reabriu hoje para a comunidade.",
+      "Os alunos que entregaram os documentos dentro do prazo fixado poderão participar do sorteio de bolsas de estudo.",
+      "Durante a manhã ensolarada de terça-feira, centenas de pais aguardavam a distribuição das senhas no pátio escolar.",
+      "Senhores pais de alunos, compareçam à secretaria para autenticar a documentação de rematrícula dos seus dependentes.",
+      "O secretário homologou as listas de classificação geral, e os novos servidores comemoraram a nomeação no auditório."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A oração 'que passou por amplas reformas estruturais' vem isolada por vírgulas e acrescenta uma explicação sobre o termo antecedente ('O colégio municipal de Aparecida de Goiânia'), sendo, portanto, uma oração subordinada adjetiva explicativa."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em consonância com as regras de acentuação gráfica vigentes, assinale a alternativa em que todos os vocábulos são acentuados pela regra das palavras PAROXÍTONAS.",
+    "options": [
+      "Relatório, fênix, álbum, caráter.",
+      "Café, cipó, você, cajá.",
+      "Lâmpada, técnico, médico, número.",
+      "Baú, saída, saúde, país.",
+      "Herói, coronéis, chapéu, troféu."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Todos os vocábulos da alternativa A são paroxítonos: re-la-tó-rio (terminada em ditongo), fê-nix (terminada em x), ál-bum (terminada em um) e ca-rá-ter (terminada em r)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que todas as palavras estão grafadas em estrita observância à ortografia oficial da língua portuguesa.",
+    "options": [
+      "Pretensão, extensão, compreensão, ascensão.",
+      "Pretenção, extenção, compreenção, ascenção.",
+      "Pretensão, extenção, compreensão, ascenção.",
+      "Pretenção, extensão, compreenção, ascensão.",
+      "Pretensão, extensão, compreenção, ascenção."
+    ],
+    "correctAnswer": 0,
+    "explanation": "As palavras pretensão (de pretender), extensão (de estender), compreensão (de compreender) e ascensão (de ascender) são grafadas com 's' devido à correlação com verbos terminados em -der."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere o aviso afixado na porta da secretaria: 'A direção escolar informa que os pais não devem entrar na sala dos professores sem permissão.' Do ponto de vista dos mechanisms de produção de sentido, a oração introduz o PRESSUPOSTO textual de que:",
+    "options": [
+      "Os pais estavam, em algum momento, entrando na sala dos professores sem permissão prévia da direção escolar.",
+      "Os professores proibiram expressamente a realização de reuniões pedagógicas conjuntas com as famílias dos alunos.",
+      "A sala dos professores permanecerá trancada em caráter definitivo durante todo o ano letivo de Aparecida de Goiânia.",
+      "Apenas os alunos possuem autorização legal e irrestrita para transitar livremente por todas as dependências do colégio.",
+      "A direção municipal de educação pretende extinguir a sala dos professores de todas as escolas municipais."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Um aviso proibitivo do tipo 'não devem entrar sem permissão' fundamenta-se no pressuposto implícito de que ocorriam entradas não autorizadas no recinto."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No âmbito da administração pública e escolar, o gênero textual 'Edital' desempenha papel fundamental na publicidade dos atos administrativos. Assinale a alternativa que define corretamente sua funcionalidade e natureza.",
+    "options": [
+      "Trata-se de ato unilateral normativo emitido para dar ciência pública a determinações, convocações, concursos ou licitações, vinculando a administração e os interessados às suas regras.",
+      "É uma correspondência de caráter sigiloso destinada à comunicação estritamente interna entre diretores de colégios do município.",
+      "Consiste em parecer opinativo desprovido de força vinculante elaborado por comissão pedagógica de apoio.",
+      "É um registro descritivo pormenorizado de debates orais travados em assembleias de pais e mestres.",
+      "Documento de natureza particular que formaliza acordos verbais entre servidores e prestadores de serviços."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O edital é um ato administrativo unilateral que dá publicidade oficial a normas de concursos, licitações, convocações e outras determinações de interesse geral, vinculando a Administração Pública e os administrados."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Leia o excerto: 'A gestão democrática da escola pública pressupõe o compartilhamento de decisões, tornando o conselho escolar um espaço ativo de corresponsabilidade na formulação e no acompanhamento das diretrizes pedagógicas e financeiras.' A partir dos mecanismos de inferência textual, conclui-se que:",
+    "options": [
+      "As decisões na escola pública devem concentrar-se exclusivamente na figura do diretor geral para assegurar a celeridade burocrática.",
+      "O conselho escolar atua meramente como órgão figurativo, sem poder de intervenção nas rotinas orçamentárias ou pedagógicas da instituição.",
+      "A corresponsabilidade preconizada pela gestão democrática demanda a participação conjunta de diferentes segmentos da comunidade escolar na tomada de decisões.",
+      "As diretrizes pedagógicas de uma escola independem das deliberações conjuntas entre servidores, pais e estudantes.",
+      "A gestão participativa exime a prefeitura de Aparecida de Goiânia de destinar verbas para a infraestrutura dos colégios municipais."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Inferir a corresponsabilidade implica compreender que a gestão democrática requer a participação ativa dos diversos atores da comunidade escolar na elaboração e fiscalização das ações pedagógicas e financeiras."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Documentos escolares antigos arquivados na secretaria continham formas como 'pharmácia', 'escriptório' e 'dous'. A evolução dessas grafias para 'farmácia', 'escritório' e 'dois' exemplifica a variação linguística:",
+    "options": [
+      "Diacrônica (histórica), verificada na transformação estrutural e gráfica da língua ao longo do tempo.",
+      "Diatópica (geográfica), decorrente das diferenças regionais entre o norte e o sul do estado de Goiás.",
+      "Diastrática (sociocultural), restrita ao vocabulário utilizado por grupos marginalizados economicamente.",
+      "Diafásica (estilística), determinada pela alternância entre registros coloquiais e cultos em conversas informais.",
+      "Sintática, caracterizada pela inversão da ordem direta dos termos constituintes da oração subordinada."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A variação diacrônica (ou histórica) analisa as transformações pelas quais a língua passa através do tempo, como a evolução da grafia dos vocábulos."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Analise o uso da palavra 'grau' nas frases: I. 'O aluno concluiu o segundo grau com êxito'; II. 'O termômetro marcou trinta graus na sala de aula'; III. 'A falta cometida pelo servidor foi de grau leve'. Esse fenômeno semântico é classificado como:",
+    "options": [
+      "Homonímia homófona heterográfica de étimos divergentes.",
+      "Polissemia, caracterizada pela capacidade de uma mesma palavra assumir acepções distintas conforme o contexto em que é empregada.",
+      "Antonímia gramatical de natureza prefixal.",
+      "Metonímia puramente estilística de causa pelo efeito.",
+      "Eufemismo burocrático voltado a amenizar sanções disciplinares."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A polissemia ocorre quando uma mesma palavra (mesma origem etimológica) possui diferentes significados/acepções a depender do contexto de uso."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere a oração: 'O coordenador pedagógico avisou o professor que estava preocupado.' Essa construção incorre em ambiguidade estrutural porque:",
+    "options": [
+      "O pronome relativo 'que' pode referir-se sintaticamente tanto ao coordenador quanto ao professor, gerando incerteza sobre quem estava preocupado.",
+      "O verbo avisar não admite a oração subordinada integrante como complemento direto.",
+      "A palavra professor possui sentido polissêmico inconciliável com a função de coordenador escolar.",
+      "Faltou o conectivo adversativo para contrapor o estado emocional dos dois sujeitos da oração.",
+      "O predicativo do sujeito foi grafado de forma incompatível com o padrão culto oficial."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A ambiguidade estrutural é gerada pela dúvida quanto ao antecedente do pronome relativo 'que' (ou da oração referente a ter estado preocupado), podendo se referir tanto ao coordenador quanto ao professor."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No período 'O auxiliar de secretaria protocolou os ofícios, as certidões e os atestados. Todos esses EXPEDIENTES foram encaminhados à diretoria', o vocábulo destacado opera a coesão textual por meio de:",
+    "options": [
+      "Hiperonímia anafórica, empregando termo de sentido genérico e abrangente para retomar os termos específicos elencados.",
+      "Hiponímia catafórica, antecipando uma categoria restrita do vocabulário escolar.",
+      "Antonímia contextual de valor restritivo.",
+      "Pleonasmo sintático que compromete a concisão do documento oficial.",
+      "Zeugma verbal de oração coordenada sindética."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Expedientes' é um hiperônimo (termo de sentido amplo/genérico) empregado anaphoricamente para retomar 'ofícios, certidões e atestados' (hipônimos)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "O texto que apresenta a seguinte estrutura: 'A escola pública de qualidade é garantia de cidadania; investir na capacitação dos servidores da educação, portanto, constitui medida inadiável para que os índices educacionais avancem de forma sustentável' estrutura-se predominantemente na sequência:",
+    "options": [
+      "Narrativa, em razão da sucessão factual de eventos fictícios no tempo cronológico.",
+      "Argumentativa, caracterizada pela defesa de um ponto de vista amparado em justificativas lógicas voltadas ao convencimento do leitor.",
+      "Descritiva, voltada à caracterização espacial minuciosa de prédios públicos escolares.",
+      "Injuntiva, contendo ordens procedimentais diretas formuladas no modo imperativo.",
+      "Dialogal pura, simulando entrevista entre gestores municipais e cidadãos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O trecho defende uma tese (necessidade de investir na capacitação para garantir a qualidade) com base em argumentos lógicos, caracterizando a tipologia argumentativa."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em debate sobre melhorias na secretaria, um gestor declarou: 'Não devemos acatar as sugestões daquele servidor sobre o arquivo porque ele acabou de ser transferido e certamente não entende nada da rotina escolar.' Esse raciocínio exemplifica a falácia argumentativa denominada:",
+    "options": [
+      "Argumento ad hominem, consistente em desqualificar a pessoa que propõe a ideia em vez de refutar os méritos do argumento apresentado.",
+      "Argumento de autoridade amparado em jurisprudência consolidada dos tribunais de contas.",
+      "Falsa analogia fundamentada na comparação entre serviços privados e órgãos municipais.",
+      "Petição de princípio decorrente da repetição tautológica da tese defendida.",
+      "Apelo à comoção popular desprovido de juízo ético institucional."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A falácia 'ad hominem' ocorre quando se ataca a pessoa que faz a proposição (dizendo que ela é récem-transferida ou incapaz) em vez de analisar/refutar o mérito da sugestão feita."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que apresenta um vocábulo formado pelo processo de derivação regressiva (deverbal).",
+    "options": [
+      "Ataque (originado do verbo atacar).",
+      "Desembarque (originado de embarcar por prefixação).",
+      "Escolarização (originado de escolar por sufixação).",
+      "Infelizmente (originado de feliz por prefixação e sufixação).",
+      "Subsecretário (originado de secretário por prefixação)."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O substantivo 'ataque' é um substantivo deverbal derivado regressivamente do verbo 'atacar' (redução da forma verbal para criar um substantivo abstrato de ação)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em 'CONQUANTO AS NOVAS TECNOLOGIAS FACILITEM O CONTROLE DOCUMENTAL, a atenção e a conferência humana permanecem indispensáveis', a oração sublinhada expressa ideia de:",
+    "options": [
+      "Concessão, apresentando fato que se opõe à proposição principal sem, contudo, inviabilizar sua realização.",
+      "Condição necessária para que a conferência de documentos ocorra com segurança.",
+      "Consequência imediata provocada pela inserção de computadores nas secretarias.",
+      "Causa determinante para a contratação de novos servidores públicos no município.",
+      "Conformidade estrita com o regimento escolar aprovado pela prefeitura de Aparecida de Goiânia."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A conjunção 'conquanto' introduz uma oração subordinada adverbial concessiva, que aponta uma ressalva ou oposição que não impede a realização da ideia da oração principal."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na redação de documentos oficiais dirigidos a reitores de universidades públicas com as quais a escola municipal mantém convênio de estágio, emprega-se legitimamente o pronome de tratamento:",
+    "options": [
+      "Vossa Magnificência.",
+      "Vossa Excelência.",
+      "Vossa Senhoria.",
+      "Vossa Eminência.",
+      "Vossa Reverendíssima."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O pronome de tratamento correto e específico para reitores de universidades é 'Vossa Magnificência'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No período 'O auxiliar de secretaria tinha certeza DE QUE OS DADOS FORAM DIGITADOS CORRETAMENTE', a oração destacada classifica-se sintaticamente como subordinada substantiva:",
+    "options": [
+      "Completiva nominal, por completar o sentido do substantivo abstrato bivalente 'certeza'.",
+      "Objetiva indireta, por complementar diretamente um verbo transitivo indireto com preposição.",
+      "Subjetiva, atuando como sujeito oracional do verbo auxiliar da oração principal.",
+      "Predicativa do sujeito mediada por verbo de ligação explícito no período.",
+      "Apositiva enumerativa introduzida por dois-pontos."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A oração 'de que os dados foram digitados corretamente' é introduzida por preposição e complementa o sentido do substantivo abstrato 'certeza', sendo portanto completiva nominal."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Analise as orações: I. 'Os funcionários que concluíram o curso receberão gratificação'; II. 'Os funcionários, que concluíram o curso, receberão gratificação'. Em relação ao sentido, é correto afirmar que:",
+    "options": [
+      "Em I, apenas a parcela dos funcionários que concluiu o curso receberá a gratificação; em II, afirma-se que todos os funcionários concluíram o curso e receberão a gratificação.",
+      "Em I, afirma-se que todos os funcionários da instituição concluíram o treinamento de capacitação.",
+      "A presença de vírgulas em II transforma a oração em subordinada substantiva subjetiva.",
+      "Em II, restringe-se o universo de funcionários beneficiados unicamente aos que trabalham na secretaria.",
+      "Ambas as sentenças possuem exatamente o mesmo alcance semântico, sendo a pontuação estilística e opcional."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Em I, a oração adjetiva restritiva (sem vírgulas) delimita apenas o grupo dos funcionários que concluíram o curso. Em II, a oração adjetiva explicativa (com vírgulas) traz uma explicação geral aplicável a todos os funcionários do conjunto."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No período 'O candidato conferiu todo o material da prova; NÃO OBSTANTE, deixou de assinar o cartão-resposta', a locução conectiva em destaque introduz uma oração coordenada:",
+    "options": [
+      "Sindética adversativa, estabelecendo uma relação de oposição e quebra de expectativa.",
+      "Sindética conclusiva, apresentando a dedução lógica da premissa anterior.",
+      "Sindética explicativa, justificando a razão da conferência do material.",
+      "Sindética alternativa, indicando exclusão entre ações sucessivas.",
+      "Assindética de valor causal direto."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A locução 'não obstante' atua como conjuntivo adversativo (sinônimo de 'contudo', 'no entanto'), introduzindo uma oração coordenada sindética adversativa."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que preenche correta e respectivamente as lacunas, de acordo com as regras de concordância verbal com verbos impessoais: 'No arquivo escolar, _____ muitos documentos antigos; além disso, _____ cerca de três anos que a unidade não passava por vistoria e _____ de haver novos lotes a examinar.'",
+    "options": [
+      "Havia – fazia – há",
+      "Haviam – faziam – hão",
+      "Havia – faziam – há",
+      "Haviam – fazia – hão",
+      "Havia – fazia – haviam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "O verbo haver no sentido de existir é impessoal e fica no singular ('Havia muitos documentos'). O verbo fazer indicando tempo decorrido é impessoal ('fazia cerca de três anos'). O verbo haver em locuções de sentido impessoal mantém a forma no singular ('há de haver')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No que se refere à concordância verbal com sujeito composto ligado pela conjunção 'ou', assinale a frase redigida em estrita conformidade com a norma-padrão.",
+    "options": [
+      "Pedro ou Antônio será escolhido para ocupar a chefia imediata da secretaria escolar.",
+      "Pedro ou Antônio serão escolhidos para ocupar a chefia imediata da secretaria escolar, havendo apenas uma vaga disponível.",
+      "A matemática ou a língua portuguesa faziam parte do currículo básico de todas as turmas.",
+      "Goiânia ou Aparecida de Goiânia disputarão sediar o congresso escolar deste ano.",
+      "O coordenador ou a diretora assinarão conjuntamente a única via do termo de posse."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Quando o sujeito composto ligado pela conjunção 'ou' indica exclusão (apenas um dos núcleos exercerá/ocupará a vaga de chefia), o verbo concorda obrigatoriamente no singular ('Pedro ou Antônio será escolhido')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "De acordo com as regras de concordância nominal para expressões formadas por verbo de ligação acompanhado de predicativo, assinale a opção que atende integralmente à norma culta da língua portuguesa.",
+    "options": [
+      "É proibido a entrada de estranhos na sala de arquivos da secretaria escolar.",
+      "É necessário calma para organizar as pastas no final do expediente administrativo.",
+      "É permitida circulação de alunos desprovidos de autorização durante a aplicação das provas.",
+      "As funcionárias estavam meia preocupadas com a proximidade do encerramento do prazo.",
+      "Seguem anexo aos pareceres as listas finais dos alunos matriculados no período."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expressões como 'é necessário', 'é proibido', 'é permitido' mantêm-se invariáveis no masculino singular quando o substantivo não vem acompanhado de artigo ou determinante ('calma'). Portanto, 'É necessário calma' está correto."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que a concordância nominal do termo destacado contraria as regras gramaticais da norma-padrão.",
+    "options": [
+      "Os servidores mantiveram-se QUITES com todas as suas obrigações funcionais do ano.",
+      "As servidoras MESMAS conferiram os dados constantes nos relatórios da coordenação.",
+      "A diretora e a vice-diretora compareceram à reunião BASTANTE tranquilas.",
+      "O auxiliar de secretaria cometeu MENAS falhas na digitação das novas certidões discentes.",
+      "Seguem ANEXAS aos memorandos as fichas de avaliação preenchidas pelos professores."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A palavra 'menos' é um pronome/advérbio invariável na norma-padrão. A forma 'menas' não existe sintática nem morfologicamente segundo a norma culta."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Quanto à regência verbal, assinale a opção que obedece rigorosamente às determinações da norma culta da língua portuguesa.",
+    "options": [
+      "O auxiliar de secretaria aspirava ao cargo de coordenador de apoio pedagógico da unidade.",
+      "As alterações no sistema escolar implicaram em transtornos momentâneos na consulta de notas.",
+      "Os servidores municipais desobedeceram o regulamento de trânsito em frente ao colégio.",
+      "O diretor visou a todos os documentos oficiais antes de autorizar o envio ao arquivo.",
+      "Todos os funcionários da secretaria assistiram o evento solene promovido pela prefeitura."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O verbo 'aspirar' no sentido de pretender/almejar é transitivo indireto e exige a preposição 'a' (aspirava ao cargo). Nas demais opções: implicar no sentido de acarretar é VTD; desobedecer exige 'a'; visar no sentido de assinar é VTD; assistir no sentido de ver exige 'a'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em relação à regência do verbo 'preferir', assinale a frase redigida em estrita conformidade com a norma-padrão.",
+    "options": [
+      "O servidor preferia organizar os arquivos escolares a atender chamadas telefônicas irrelevantes.",
+      "O servidor preferia mais organizar os arquivos escolares do que atender chamadas telefônicas.",
+      "O servidor preferia antes organizar os arquivos escolares que atender chamadas telefônicas.",
+      "O servidor preferia organizar os arquivos escolares do que atender chamadas telefônicas.",
+      "O servidor preferia mil vezes organizar os arquivos escolares a que atender chamadas telefônicas."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O verbo 'preferir' exige a regência 'preferir algo a outro algo', repudiando o uso de termos reforçadores como 'mais', 'antes', 'mil vezes' ou a locução 'do que'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que preenche com correção e estrita observância à regência nominal as lacunas do período: 'O candidato estava apto _____ desempenhar as atividades, alheio _____ discussões infrutíferas e solidário _____ colegas de trabalho.'",
+    "options": [
+      "A – às – com os",
+      "De – das – para com",
+      "Em – com as – sob os",
+      "Por – perante as – contra os",
+      "Ante – sobre as – entre os"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Apto pede a preposição 'a' (apto a desempenhar); alheio pede preposição 'a' (a + as discussões = às discussões); solidário pede a preposição 'com' (solidário com os colegas)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que o emprego do sinal indicativo de crase é rigorosamente FACULTATIVO segundo a norma-padrão.",
+    "options": [
+      "O auxiliar de secretaria entregou as certidões à sua coordenadora no final do expediente.",
+      "Todos os servidores devem submeter-se às ordens emanadas pelo diretor do colégio municipal.",
+      "O atendimento no balcão principal encerra pontualmente às dezessete horas da tarde.",
+      "Os formulários foram enviados à prefeitura para homologação do resultado preliminar.",
+      "A comissão realizou a visita à bela Aparecida de Goiânia durante as festividades cívicas."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O uso do acento grave indicativo de crase é facultativo antes de pronomes possessivos femininos no singular (como 'sua'), pois o uso do artigo feminino antecedente a eles é opcional."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que o emprego da vírgula é OBRIGATÓRIO para separar o adjunto adverbial de grande extensão deslocado para o início da oração.",
+    "options": [
+      "Com a implementação das novas diretrizes da Secretaria Municipal de Educação, os colégios atualizaram seus regimentos internos.",
+      "Os alunos trouxeram pastas, cadernos, borrachas e canetas para o primeiro dia de aula no município.",
+      "Aparecida de Goiânia, cidade destacada pelo seu desenvolvimento em Goiás, investe no ensino fundamental.",
+      "O auxiliar de secretaria, muito cortês e atencioso, acolheu os responsáveis que aguardavam a triagem.",
+      "O diretor da escola informou categoricamente que não haverá prorrogação dos prazos de rematrícula."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A frase da alternativa A inicia com um adjunto adverbial de grande extensão ('Com a implementação das novas diretrizes da Secretaria Municipal de Educação') anteposto à oração principal, o que torna a vírgula obrigatória segundo as normas gramaticais."
+  }
+]

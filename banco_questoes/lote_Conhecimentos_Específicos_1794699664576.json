@@ -1,0 +1,450 @@
+[
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em consonância com a Seção III do Capítulo I do Título VII da Lei Orgânica do Município de Aparecida de Goiânia-GO (Da Educação), o sistema municipal de ensino assegurará aos alunos da zona rural e de bairros periféricos:",
+    "options": [
+      "Cobrança de taxa de conservação das vias públicas no ato da matrícula.",
+      "Condições adequadas de transporte escolar gratuito para garantia de acesso e frequência aos estabelecimentos de ensino.",
+      "Dispensa do cumprimento das disciplinas da base nacional comum curricular.",
+      "Frequência facultativa durante períodos chuvosos sem necessidade de reposição de carga horária.",
+      "O atendimento pedagógico unicamente por correspondência postal impressa."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A legislação municipal garante condições adequadas de transporte escolar gratuito para garantir o acesso e a permanência dos estudantes residentes em zonas rurais e bairros periféricos nas escolas públicas."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Seção Única do Título VIII da Lei Orgânica do Município de Aparecida de Goiânia-GO estabelece preceitos constitucionais sobre a remuneração dos servidores públicos municipais. Em harmonia com a Carta Magna, é assegurada aos servidores:",
+    "options": [
+      "Vinculação ou equiparação de quaisquer espécies remuneratórias para efeito de remuneração de pessoal do serviço público.",
+      "Irredutibilidade do subsídio e dos vencimentos dos ocupantes de cargos e empregos públicos, ressalvado o teto remuneratório constitucional e as exceções legais.",
+      "Fixação de vencimentos básicos inferiores ao salário mínimo para cargos com carga horária de vinte horas semanais.",
+      "Participação compulsória na arrecadação do imposto sobre transmissão onerosa de bens imóveis (ITBI).",
+      "Percepção de gratificação extraordinária sem previsão em lei formal aprovada pelo Legislativo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Constituição Federal e a Lei Orgânica asseguram o princípio da irredutibilidade do subsídio e dos vencimentos dos ocupantes de cargos e empregos públicos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei nº 9.394/1996 (LDB), com redação atualizada, estabelece no Art. 12, inciso VII, que os estabelecimentos de ensino têm a incumbência de notificar ao Conselho Tutelar do Município a relação dos alunos que apresentem quantidade de faltas acima de:",
+    "options": [
+      "10% (dez por cento) do percentual permitido em lei.",
+      "20% (vinte por cento) do percentual permitido em lei.",
+      "30% (trinta por cento) do percentual permitido em lei.",
+      "50% (cinquenta por cento) do percentual permitido em lei.",
+      "75% (setenta e cinco por cento) do percentual permitido em lei."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Conforme a alteração promovida pela Lei nº 13.803/2019 na LDB (Art. 12, VII), a notificação ao Conselho Tutelar deve ocorrer quando as faltas ultrapassarem 30% do percentual permitido em lei."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na preservação de documentos escolares históricos arquivados em suporte de papel, o controle ambiental é determinante para evitar a deterioração acelerada. Em termos arquivísticos, os principais fatores ambientais que aceleram a degradação físico-química dos documentos são:",
+    "options": [
+      "Ausência de ventiladores de teto e o uso exclusivo de estantes de aço inoxidável.",
+      "Umidade relativa elevada, oscilações bruscas de temperatura e a incidência direta de radiação solar (luz ultravioleta).",
+      "O excesso de caixas poliondas desacidificadas utilizadas no acondicionamento.",
+      "Higienização mecânica preventiva feita com trinchas de cerdas macias.",
+      "Colocação de desumidificadores com manutenção periódica nas salas de arquivo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Os fatores ambientais extrínsecos que provocam degradação acelerada do papel incluem a umidade excessiva, grandes variações de temperatura e a exposição direta à radiação ultravioleta."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em matéria de apoio administrativo escolar, a comunicação institucional interna e externa entre a gestão, o corpo docente e a comunidade escolar utiliza diversos expedientes. A comunicação formal de caráter coletivo, expedida para múltiplos setores ou destinatários com o fim de transmitir ordens de serviço ou instruções gerais uniformes, denomina-se:",
+    "options": [
+      "Circular (ou Ofício-Circular).",
+      "Termo de Depósito Judicial.",
+      "Procuração por Instrumento Particular.",
+      "Certidão Negativa de Débito.",
+      "Ata de Despejo Coletivo."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Circular (ou Ofício-Circular) é o expediente oficial dirigido simultaneamente a múltiplos destinatários para transmitir determinações, orientações ou instruções gerais."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com o Art. 211 da Constituição Federal de 1988, a organização dos sistemas de ensino distribui responsabilidades prioritárias entre as esferas de governo. Conforme os §§ 2º e 3º do citado artigo, a atuação prioritária dos Municípios e dos Estados ocorre, respectivamente, nos seguintes níveis e etapas:",
+    "options": [
+      "Municípios: ensino superior e técnico; Estados: creches e pré-escolas comunitárias.",
+      "Municípios: ensino fundamental e educação infantil; Estados: ensino fundamental e ensino médio.",
+      "Municípios: ensino médio exclusivamente; Estados: educação infantil de tempo integral.",
+      "Municípios: educação profissional; Estados: ensino superior em regime presencial.",
+      "Municípios: pós-graduação acadêmica; Estados: educação básica obrigatória exclusivamente."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Segundo a Constituição Federal (Art. 211, §§ 2º e 3º), os Municípios atuarão prioritariamente no ensino fundamental e na educação infantil, e os Estados no ensino fundamental e médio."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Segundo as instruções do Manual de Redação da Presidência da República (3ª Edição, 2018), o campo 'Assunto' no Padrão Ofício tem por finalidade técnica dar uma síntese precisa do teor do documento. Sobre a elaboração do campo Assunto, é correto afirmar:",
+    "options": [
+      "Deve ser extenso, contendo a íntegra da justificativa legal em vários parágrafos explicativos.",
+      "Deve ser grafado inteiramente em língua latina com tradução facultativa em notas de rodapé.",
+      "Deve ser formulado de forma concisa e destacar claramente o tema do expediente, facilitando a rápida triagem e autuação.",
+      "Deve permanecer em branco quando a comunicação for assinada por ocupante de cargo efetivo.",
+      "Pode ser substituído por saudações de cortesia e congratulações ao chefe de gabinete."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O campo Assunto deve ser uma exposição sucinta e clara do conteúdo da comunicação, visando agilizar o cadastro, a tramitação e a localização dos processos administrativos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em uma planilha eletrônica (como Microsoft Excel ou LibreOffice Calc) na secretaria escolar, a célula C2 contém a média final de um aluno (valor 6,5). Deseja-se que a célula D2 exiba automaticamente o texto 'Aprovado' caso a média em C2 seja maior ou igual a 6,0, ou 'Recuperação' caso seja inferior. A fórmula lógica correta para essa operação é:",
+    "options": [
+      "=SE(C2>=6,0; \"Aprovado\"; \"Recuperação\")",
+      "=CALCULAR(C2; Aprovado; Recuperação)",
+      "=CONDICIONAL[C2 maior 6 = Sim, Não]",
+      "=VERIFICAR.NOTA(C2; \"Aprovado\")",
+      "=PROCURAR(C2=6; \"Aprovado\")"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A estrutura padrão da função lógica SE é `=SE(condição; valor_se_verdadeiro; valor_se_falso)`. No caso: `=SE(C2>=6,0; \"Aprovado\"; \"Recuperação\")`."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 53, inciso I, do Estatuto da Criança e do Adolescente (Lei nº 8.069/1990) estabelece que a criança e o adolescente têm direito à educação, visando ao pleno desenvolvimento de sua pessoa, preparo para o exercício da cidadania e qualificação para o trabalho, assegurando-se-lhes:",
+    "options": [
+      "Igualdade de condições para o acesso e permanência na escola.",
+      "Acesso obrigatório a cursos pré-vestibulares privados sem pagamento de matrículas.",
+      "Isenção total do cumprimento da carga horária e do controle de frequência escolar.",
+      "Nomeação imediata para cargos comissionados nos estabelecimentos oficiais de ensino.",
+      "Direito de vetar a inclusão de disciplinas de língua portuguesa na matriz curricular."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conforme disposto expressamente no Art. 53, inciso I, do ECA, é assegurada a 'igualdade de condições para o acesso e permanência na escola'."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A atuação do auxiliar de secretaria no atendimento a pais e membros da comunidade escolar deve ser pautada pelo princípio da moralidade administrativa. Sob a ótica ética, a conduta moral do servidor público caracteriza-se:",
+    "options": [
+      "Pela busca exclusiva de vantagens pecuniárias pessoais durante o expediente da secretaria.",
+      "Pela distinção clara entre o bem e o mal, a legalidade e a moralidade, atuando com honestidade, lealdade e transparência na condução da coisa pública.",
+      "Pelo cumprimento cego de ordens verbais de superiores, inclusive quando manifestamente ilegais.",
+      "Pela ocultação deliberada de informações de interesse público para evitar transtornos no atendimento.",
+      "Pela concessão de privilégios de ordem de chegada na fila de matrícula a amigos e familiares íntimos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ética no serviço público exige agir com probabilidade, boa-fé, transparência e em consonância com a moralidade e a legalidade administrativa."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na dinâmica das transferências escolares na rede pública de ensino, quando o aluno muda de escola antes do término do ano letivo ou no período de férias e o Histórico Escolar definitivo demanda prazo administrativo para emissão completa, a secretaria escolar pode expedir provisoriamente:",
+    "options": [
+      "Uma Declaração de Transferência Provisória, contendo a indicação do ano/série e a situação do discente, com prazo de validade para posterior entrega do Histórico Escolar.",
+      "Um Diploma de Honra ao Mérito Educacional que substitui definitivamente o histórico da vida escolar.",
+      "Uma Certidão de Inadimplência Cadastral bloqueando a matrícula na nova instituição pública.",
+      "Uma autorização verbal sem assinatura com valor em juízo em âmbito federal.",
+      "Uma Ata de Exclusão Sumária do Quadro de Discentes."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Em casos em que o histórico escolar leva um prazo para confecção formal, expede-se uma Declaração de Transferência Provisória com validade por determinado período de dias para possibilitar a imediata vinculação do aluno na nova escola."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com o Art. 12 da Lei de Acesso à Informação (Lei nº 12.527/2011), o serviço de busca e fornecimento da informação em órgãos públicos é, em regra, gratuito. A lei expressamente ressalva que o órgão público poderá cobrar exclusivamente:",
+    "options": [
+      "Taxa administrativa geral de consulta aos bancos de dados de arquivo permanente.",
+      "O valor referente ao custo dos serviços e dos materiais utilizados para a reprodução de documentos solicitados.",
+      "Emolumentos cartorários estaduais fixados pela Associação de Notários.",
+      "Honorários de sucumbência funcional em favor dos servidores da secretaria.",
+      "Contribuição de melhoria predial do setor de atendimento ao cidadão."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O artigo 12 da LAI prevê que a busca e fornecimento de informação são gratuitos, salvo nas hipóteses de reprodução de documentos pelo órgão público, oportunidade em que poderá ser cobrado exclusivamente o valor dos materiais/serviços de reprodução."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 208, § 1º, da Constituição Federal de 1988 estabelece que o acesso ao ensino obrigatório e gratuito é direito público subjetivo. A respeito das consequências jurídicas dessa previsão constitucional, o § 2º do mesmo artigo determina expressamente que:",
+    "options": [
+      "O não oferecimento do ensino obrigatório pelo Poder Público, ou sua oferta irregular, importa responsabilidade da autoridade competente.",
+      "O Poder Público fica isento de qualquer sanção caso comprove escassez temporária de vagas nas escolas municipais.",
+      "Os pais que não matricularem seus filhos perdem imediatamente seus direitos políticos no município.",
+      "Exigência de vagas fica condicionada à disponibilidade prévia de transporte escolar terceirizado.",
+      "O Ministério Público somente poderá intervir após autorização do chefe do Poder Executivo municipal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O § 2º do Art. 208 da CF/88 estabelece que a omissão ou oferta irregular do ensino obrigatório e gratuito pelo Poder Público sujeita a autoridade competente à responsabilização cível, administrativa ou penal."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com o Art. 24, inciso V, alínea 'a', da Lei de Diretrizes e Bases da Educação Nacional (LDB - Lei nº 9.394/1996), a verificação do rendimento escolar na educação básica observará o seguinte critério:",
+    "options": [
+      "Avaliação exclusivamente somativa por meio de prova teórica semestral unificada.",
+      "Prevalência dos aspectos quantitativos sobre os qualitativos na apuração da nota anual.",
+      "Avaliação contínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais.",
+      "Atribuição exclusiva de notas numéricas de zero a dez sem possibilidade de recuperação paralela.",
+      "Desconsideração do progresso individual do estudante em caso de desempenho insatisfatório em exames pontuais."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A LDB (Art. 24, V, 'a') exige expressamente a avaliação contínua e cumulativa do desempenho escolar, priorizando os aspectos qualitativos em relação aos quantitativos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Um auxiliar de secretaria recebe a matriz de avaliação trimestral elaborada pelos professores para impressão e acondicionamento em envelopes lacrados. Durante o plantão, o servidor permite que um estudante acesse a pasta de arquivos para verificar previamente os enunciados das provas. No âmbito da ética no serviço público e do sigilo documental, essa conduta:",
+    "options": [
+      "Caracteriza ato de gestão colaborativa amparado pela liberdade de aprender do educando.",
+      "Constitui falta ética grave decorrente de quebra do sigilo institucional e violação da moralidade administrativa.",
+      "É regular, visto que as avaliações da rede municipal são classificadas como atos estritamente públicos antes da aplicação.",
+      "Configura mera irregularidade procedimental que dispensa advertência formal ou apuração funcional.",
+      "Representa conduta adequada, pois assegura a transparência irrestrita dos processos pedagógicos escolares."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O vazamento ou liberação de avaliações sigilosas que ainda serão aplicadas representa violação aos deveres funcionais de lealdade, sigilo documental e ao princípio da moralidade administrativa."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No atendimento ao público em escolas municipais, um servidor da secretaria escolar depara-se com uma mãe apreensiva que relata dificuldades financeiras para adquirir uniformes e solicita informações sobre auxílios disponíveis. Sob a perspectiva das relações interpessoais e da comunicação institucional humanizada, a atitude técnica correta é:",
+    "options": [
+      "Recusar o atendimento e encaminhar a mãe imediatamente à portaria para que não ocupe o balcão.",
+      "Informar de modo ríspido que a escola não resolve demandas financeiras de famílias matriculadas.",
+      "Escutar a mãe com empatia, prestar orientações claras sobre programas de assistência estudantil do município e encaminhá-la aos setores competentes da unidade.",
+      "Sugerir informalmente que a mãe retire o estudante da escola caso não consiga mantê-lo matriculado.",
+      "Solicitar que a mãe apresente declaração de renda autenticada em cartório antes de prestar qualquer informação verbal."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O atendimento de excelência no serviço público baseia-se na empatia, no acolhimento de demandas e no correto direcionamento para os programas e setores sociais cabíveis."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na arquivologia, a distinção entre espécie documental e tipo documental é basilar para a organização dos registros da secretaria escolar. Assinale a alternativa que apresenta, respectivamente, uma espécie documental e um tipo documental:",
+    "options": [
+      "Histórico Escolar e Pasta Suspensa.",
+      "Ata e Ata de Reunião de Conselho de Classe.",
+      "Prontuário de Aluno e Caixa-Arquivo Polionda.",
+      "Arquivo Intermediário e Tabela de Temporalidade.",
+      "Certificado e Livro de Registro Encadernado."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A espécie documental diz respeito à configuração que assume o documento segundo a sua estrutura (ex.: Ata). O tipo documental é a junção da espécie com a atividade/função de sua produção (ex.: Ata de Reunião de Conselho de Classe)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em conformidade com o Manual de Redação da Presidência da República (3ª Edição, 2018), a estruturação de parágrafos no Padrão Ofício segue regras formais estritas de diagramação. Em relação à numeração dos parágrafos no corpo do documento oficial, é correto afirmar:",
+    "options": [
+      "Todos os parágrafos, inclusive o parágrafo de abertura e o fecho, devem ser rigorosamente numerados.",
+      "Os parágrafos do documento devem ser numerados a partir do segundo; o primeiro e o de fecho não recebem numeração.",
+      "Numeração de parágrafos é expressamente proibida em documentos emitidos pelo Poder Executivo.",
+      "Utilizam-se letras maiúsculas em ordem alfabética para identificar os parágrafos iniciais.",
+      "Numeram-se apenas os parágrafos que contiverem citações legislativas de normas federais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme as regras formais do Manual de Redação da Presidência da República, quando o texto possuir mais de um parágrafo, estes devem ser numerados a partir do segundo. O primeiro parágrafo e o fecho permanecem sem numeração."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Ao utilizar uma planilha eletrônica (como Microsoft Excel ou LibreOffice Calc) para organizar a lista de 500 discentes matriculados na unidade escolar, a funcionalidade que permite exibir temporariamente apenas os alunos pertencentes a determinado ano letivo e bairro específico denomina-se:",
+    "options": [
+      "Mesclar Células.",
+      "Filtro (ou Autofiltro).",
+      "Formatação Condicional de Margem.",
+      "Validação de Macro.",
+      "Transposição de Matriz."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A função de Filtro/Autofiltro permite selecionar e ocultar/exibir temporariamente dados em uma planilha de acordo com critérios definidos pelo usuário."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018) estabelece no Art. 6º os princípios fundamentais das atividades de tratamento. Ao descartar rascunhos de cadastros de matrículas e cópias de documentos pessoais de responsáveis no balcão de atendimento, a secretaria escolar deve utilizar fragmentadoras de papel adequadas, em observância ao princípio da:",
+    "options": [
+      "Finalidade presumida.",
+      "Segurança e Prevenção.",
+      "Livre concorrência administrativa.",
+      "Anonimização reversível compulsória.",
+      "Publicidade ampla dos suportes descartados."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A utilização de fragmentadoras previne vazamentos acidentais de dados pessoais sensíveis contidos em papeis impressos descartados, cumprindo os princípios da segurança e da prevenção preconizados na LGPD."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 10 da Lei de Acesso à Informação (Lei nº 12.527/2011) disciplina a apresentação de requerimentos de acesso a documentos públicos. De acordo com o § 3º desse artigo, é expressamente VEDADO aos órgãos da administração pública municipal:",
+    "options": [
+      "Exigir a identificação do requerente mediante apresentação de documento oficial.",
+      "Exigir os motivos determinantes da solicitação de informações de interesse público.",
+      "Indicar o local físico em que o cidadão poderá consultar o processo arquivado.",
+      "Cobrar o valor referente ao custo efetivo das fotocópias fornecidas.",
+      "Fornecer resposta por meio eletrônico oficial quando solicitado pelo cidadão."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Art. 10, § 3º da LAI proíbe o Poder Público de formular exigências referentes aos motivos que ensejaram a solicitação de informações de interesse público."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Estatuto da Criança e do Adolescente (ECA - Lei nº 8.069/1990), em seu Art. 53, inciso III, assegura à criança e ao adolescente o direito de contestar critérios avaliativos, garantindo-lhes:",
+    "options": [
+      "Anulação automática de todas as avaliações bimestrais sem necessidade de justificativa.",
+      "O recurso às instâncias escolares superiores.",
+      "Contratação de perito particular pago pela escola para corrigir seus exames.",
+      "Substituição do professor regente da turma pela equipe da secretaria escolar.",
+      "Dispensa do cumprimento das tarefas escolares complementares."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 53, inciso III, do ECA explicita que os alunos possuem o direito de contestar critérios de avaliação, podendo interpor recurso junto às instâncias superiores da escola/sistema educacional."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na Seção III do Capítulo I do Título VII da Lei Orgânica do Município de Aparecida de Goiânia-GO, a garantia do padrão de qualidade do ensino municipal compreende obrigações estruturais. Dentre essas obrigações, destaca-se:",
+    "options": [
+      "Substituição total de livros didáticos por apostilas elaboradas por entidades privadas de publicidade.",
+      "Existência de condições materiais adequadas nas unidades escolares, com espaço físico suficiente, ventilação, iluminação e recursos pedagógicos essenciais.",
+      "Contratação obrigatória de servidores exclusivamente por contratos informais de prestação temporária.",
+      "O encerramento precoce do ano letivo sempre que o índice de faltas dos docentes ultrapassar 5%.",
+      "O cancelamento do atendimento de crianças com necessidades educacionais especiais em dias de chuva."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A garantia do padrão de qualidade de ensino abrange infraestrutura física bem estruturada (ventilação, iluminação, espaço adequado) aliada a insumos pedagógicos apropriados."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na escrituração escolar oficial realizada pela secretaria, a emissão do Certificado de Conclusão de Ensino Fundamental possui efeito declaratório e probatório específico. Esse documento tem como finalidade primordial:",
+    "options": [
+      "Autorizar o estudante a lecionar como professor substituto na rede pública municipal.",
+      "Comprovar que o estudante cumpriu com êxito todas as exigências curriculares da etapa, habilitando-o para o ingresso no ensino médio.",
+      "Servir como título executivo extrajudicial de cobrança de mensalidades em atraso.",
+      "Substituir de forma irrevogável a apresentação de certidão de nascimento civil nos órgãos federais.",
+      "Comprovar a filiação partidária juvenil do educando em órgãos municipais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Certificado de Conclusão de Ensino Fundamental serve para provar legalmente a conclusão da etapa básica obrigatória do ensino fundamental e dar continuidade aos estudos no nível médio."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Conselho de Classe constitui momento decisivo de avaliação colegiada do processo de ensino-aprendizagem. A responsabilidade técnica do auxiliar de secretaria durante e após a realização do Conselho de Classe consiste em:",
+    "options": [
+      "Alterar unilateralmente as decisões do colegiado com base em preferências de conduta pessoal.",
+      "Secretariar a reunião, redigir a ata com fidedignidade, colher as assinaturas dos presentes e lançar os resultados finais nos registros acadêmicos oficiais.",
+      "Determinar quais docentes podem manifestar opiniões técnicas sobre o rendimento das turmas.",
+      "Assinar a ata de forma isolada, dispensando o recolhimento das assinaturas dos professores participantes.",
+      "Excluir dos registros escolares os estudantes que não obtiveram aprovação direta no ano letivo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "As atribuições funcionais da secretaria no Conselho de Classe englobam o apoio administrativo, a lavratura fiel da ata de reunião, colheita de assinaturas e o lançamento formal dos resultados."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme o Art. 27 da Lei nº 9.394/1996 (LDB), os conteúdos curriculares da educação básica devem observar determinadas diretrizes norteadoras. Entre as diretrizes expressas no referido dispositivo, inclui-se:",
+    "options": [
+      "Difusão de valores fundamentais ao interesse social, aos direitos e deveres dos cidadãos, de respeito ao bem comum e à ordem democrática.",
+      "Priorização do treinamento mecânico de tarefas sem estímulo ao pensamento reflexivo crítico.",
+      "Fixação de conteúdos que dissociem a prática desportiva do projeto pedagógico da unidade escolar.",
+      "O cancelamento do ensino de artes para turmas com rendimento abaixo da média municipal.",
+      "Uniformização curricular absoluta que desconsidere as condições locais de vida dos estudantes."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 27, inciso I, da LDB estabelece expressamente a difusão de valores fundamentais ao interesse social, aos direitos e deveres dos cidadãos, ao respeito ao bem comum e à ordem democrática."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 212 da Constituição Federal de 1988 vincula receitas de impostos à Manutenção e Desenvolvimento do Ensino (MDE). Para fins de aplicação correta dessas verbas e conformidade orçamentária dos sistemas de ensino, NÃO são consideradas despesas de MDE:",
+    "options": [
+      "Remuneração e o aperfeiçoamento dos profissionais da educação básica pública.",
+      "Aquisição, manutenção e conservação de instalações e equipamentos necessários ao ensino.",
+      "Realização de pesquisas voltadas diretamente para o aprimoramento do processo pedagógico escolar.",
+      "Programas suplementares de alimentação e assistência médica, odontológica, farmacêutica e psicológica aos educandos.",
+      "O uso e a manutenção de bens vinculados diretamente às atividades dos estabelecimentos de ensino."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Conforme o Art. 71, IV da LDB, programas suplementares de alimentação e assistência médica/odontológica/psicológica não se caracterizam como despesas de MDE."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na tramitação formal de expedientes e autos no protocolo da administração pública, quando dois processos distintos que tratam de matérias conexas são reunidos de modo permanente em virtude de decisão superior, formando uma unidade processual definitiva com continuidade de paginação, ocorre:",
+    "options": [
+      "Apensamento provisório.",
+      "Juntada por anexação.",
+      "Desentranhamento voluntário.",
+      "Preclusão de ofício.",
+      "Desmembramento cautelar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A juntada por anexação ocorre quando dois ou mais processos/documentos pertencentes à mesma matéria são apensados de forma definitiva e permanente, originando uma única sequência de numeração."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na gestão de segurança de sistemas de informação na secretaria da escola, o procedimento de cópia de segurança em que são gravados apenas os arquivos criados ou modificados desde o último backup completo ou incremental, permitindo rotinas ágeis de salvaguarda, denomina-se:",
+    "options": [
+      "Backup completo (Full).",
+      "Backup incremental.",
+      "Backup destrutivo.",
+      "Desfragmentação de partição.",
+      "Overclocking de banco de dados."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O backup incremental realiza a gravação exclusivamente das alterações e dados novos inseridos no sistema após o último procedimento de cópia (completo ou incremental)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Segundo as prescrições do Manual de Redação da Presidência da República (3ª Edição, 2018), ao endereçar um ofício emitido pelo Secretário Municipal de Educação a uma autoridade superior, como o Governador do Estado de Goiás, o fecho a ser empregado é:",
+    "options": [
+      "Atenciosamente,",
+      "Respeitosamente,",
+      "Cordialmente,",
+      "Com elevado apreço,",
+      "Fraternalmente,"
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Manual de Redação determina que o fecho \"Respeitosamente,\" deve ser utilizado para autoridades de hierarquia superior à do emissor."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A conduta do auxiliar de secretaria no ambiente de trabalho deve espelhar os deveres fundamentais de pontualidade, urbanidade e assiduidade. No caso de o servidor ausentar-se reiteradamente da repartição durante o horário de expediente sem autorização da chefia imediata, comete infração disciplinar que compromete a:",
+    "options": [
+      "Autonomia didática do colegiado de professores.",
+      "Eficiência e a continuidade da prestação do serviço público educacional.",
+      "Soberania nacional nos conselhos escolares do município.",
+      "Liberdade de cátedra dos docentes regentes.",
+      "Segurança jurídica das eleições do Conselho Tutelar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ausências não autorizadas do local de trabalho caracterizam descumprimento do dever de assiduidade e pontualidade, prejudicando a eficiência e a continuidade dos serviços públicos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme o Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), a obrigação de comunicar casos de reiteração de faltas injustificadas e evasão escolar ao Conselho Tutelar visa prioritariamente:",
+    "options": [
+      "Punir os discentes com cancelamento de matrículas e expulsão da rede básica.",
+      "Cobrar multas indenizatórias pecuniárias das famílias em atraso com o material didático.",
+      "Garantir a intervenção da rede de proteção para identificar causas do abandono e promover o retorno e a permanência do aluno na escola.",
+      "Encaminhar os alunos diretamente ao sistema penitenciário juvenil.",
+      "Substituir as avaliações curriculares bimestrais por advertências formais em praça pública."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A notificação ao Conselho Tutelar tem objetivo protetivo e pedagógico: busca articular serviços de assistência social e proteção para superar barreiras ao acesso e assegurar a permanência do aluno no ambiente educacional."
+  }
+]

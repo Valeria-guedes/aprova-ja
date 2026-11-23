@@ -1,0 +1,296 @@
+[
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A organização dos sistemas de ensino é regulamentada pela Lei nº 9.394/1996 (LDB). Segundo o Art. 18 da referida lei, os sistemas municipais de ensino compreendem obrigatoriamente:",
+    "options": [
+      "Apenas as faculdades federais localizadas dentro do perímetro urbano municipal.",
+      "As instituições do ensino fundamental, médio e de educação infantil mantidas pelo Poder Público municipal, as instituições de educação infantil criadas e mantidas pela iniciativa privada e os órgãos municipais de educação.",
+      "Exclusivamente as creches confessionais e as escolas estaduais da zona rural.",
+      "As escolas militares mantidas pelo Ministério da Defesa situadas no território do município.",
+      "Unicamente as instituições do terceiro setor subvencionadas por bancos estatais."
+    ],
+    "correctAnswer": 1,
+    "explanation": "De acordo com o Art. 18 da LDB (Lei nº 9.394/1996), os sistemas de ensino dos Municípios compreendem as instituições de ensino fundamental, médio e de educação infantil mantidas pelo Poder Público municipal; as instituições de educação infantil criadas e mantidas pela iniciativa privada; e os órgãos municipais de educação."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em harmonia com a Seção III do Capítulo I do Título VII da Lei Orgânica do Município de Aparecida de Goiânia-GO, a política educacional municipal garante a valorização da educação infantil e do ensino fundamental. No que tange à expansão da rede pública, o Município deve priorizar:",
+    "options": [
+      "Criação exclusiva de universidades públicas municipais de pós-graduação.",
+      "O atendimento integral e tempestivo da demanda manifesta por vagas na educação infantil e no ensino fundamental, garantindo padrão de infraestrutura adequado.",
+      "O fechamento de escolas de bairros periféricos para concentrar recursos em prédios centrais.",
+      "Terceirização irrestrita da matrícula escolar para empresas financeiras de crédito.",
+      "Cobrança de emolumentos notariais de transferência para custeio de obras de recreação."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme a legislação orgânica municipal e as diretrizes da educação pública municipal, a expansão da rede escolar deve priorizar o atendimento integral da demanda na educação infantil e no ensino fundamental com infraestrutura adequada."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A integridade e o primado da verdade são pilares deontológicos no serviço público. Ao ser questionado formalmente por uma comissão disciplinar acerca do paradeiro de um livro de registro que se extraviou sob sua responsabilidade, o auxiliar de secretaria deve pautar sua conduta pelo dever ético de:",
+    "options": [
+      "Ocultar o fato da administração para preservar sua imagem funcional perante os colegas.",
+      "Declarar a verdade de forma integral e cooperar com a apuração dos fatos, abstendo-se de prestar informações falsas ou dúbias à comissão apuradora.",
+      "Atribuir deliberadamente a culpa do extravio a estagiários temporários já desligados do órgão.",
+      "Recusar-se a prestar qualquer esclarecimento sob a justificativa de preservação do sigilo pessoal.",
+      "Substituir o livro extraviado por anotações forjadas sem comunicar o incidente à chefia imediata."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O dever ético do servidor público impõe a verdade, a lealdade administrativa e a inteira cooperação nos processos de apuração promovidos pela administração."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No atendimento diário da secretaria escolar a pais e alunos, a mediação de conflitos constitui competência relacional indispensável. Diante de um impasse entre a secretaria e um responsável quanto à entrega de um documento comprobatório, a abordagem profissional orientada à conciliação compreende:",
+    "options": [
+      "Tratar a solicitação do responsável como afronta pessoal e exigir sua retirada imediata por seguranças.",
+      "Praticar a escuta ativa, compreender o interesse real do cidadão, explicar com serenidade a fundamentação legal da exigência e propor alternativas viáveis dentro dos limites normativos.",
+      "Conceder o documento sem a conferência dos dados exigidos em lei para encerrar a conversa rapidamente.",
+      "Ignorar o usuário no balcão e retornar para suas tarefas individuais em silêncio absoluto.",
+      "Publicar em grupos de redes sociais o relato do desentendimento para obter apoio comunitário."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A boa prática de atendimento ao público envolve escuta ativa, cordialidade, firmeza fundamentada na lei e orientação ao usuário sobre caminhos normativos viáveis."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na tramitação formal de expedientes e processos administrativos na secretaria escolar, o ato emitido pela autoridade administrativa que não decide o mérito da questão, mas apenas determina o encaminhamento dos autos para instrução, juntada ou parecer técnico subsequente, classifica-se como:",
+    "options": [
+      "Despacho de mero expediente (ou interlocutório ordinatório).",
+      "Sentença terminativa executória.",
+      "Portaria de demissão definitiva.",
+      "Decreto legislativo municipal sancionador.",
+      "Alvará de funcionamento perpétuo."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Despachos de mero expediente (ou interlocutórios ordinatórios) são providências administrativas de movimentação formal do processo para instrução, sem julgamento de mérito."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na conservação preventiva de acervos escolares em suporte de papel, a ação danosa provocada por insetos da ordem Thysanura (traças-de-livros) e térmitas (cupins) é categorizada pela arquivologia como deterioração decorrente de agentes:",
+    "options": [
+      "Biológicos.",
+      "Químicos exclusivamente industriais.",
+      "Físicos de radiação térmica solar.",
+      "Jurídicos de preclusão formal.",
+      "Tributários de depreciação contábil."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insetos, roedores e fungos são agentes biológicos de deterioração documental na ciência arquivística."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Histórico Escolar expedido por unidade de ensino municipal possui fé pública e atesta de forma definitiva a vida escolar do educando. Para assegurar sua validade formal e jurídica perante órgãos públicos e outros estabelecimentos de ensino, é requisito legal que ele seja assinado conjuntamente:",
+    "options": [
+      "Pelo Guarda Civil Municipal de plantão e pelo inspetor de alunos do pátio.",
+      "Pelo Diretor da instituição escolar e pelo Secretário Escolar (ou servidor formalmente designado e habilitado).",
+      "Exclusivamente pelo aluno e por dois colegas de classe maiores de 18 anos.",
+      "Apenas pelo presidente do grêmio estudantil eleito no respectivo ano letivo.",
+      "Pelo cartorário do registro de imóveis da comarca local."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A documentação de escrituração escolar exige a assinatura conjunta da Direção da unidade escolar e do Secretário Escolar formalmente credenciado."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 6º, inciso X, da Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD) define o princípio da responsabilização e prestação de contas (accountability). Aplicado às atividades administrativas da secretaria escolar municipal, esse princípio exige que o órgão público:",
+    "options": [
+      "Demonstre a adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e a eficácia dessas salvaguardas.",
+      "Elimine semanalmente todos os bancos de dados eletrônicos para evitar qualquer possibilidade de auditoria externa.",
+      "Divulgue a senha de acesso aos sistemas acadêmicos nas páginas institucionais abertas da prefeitura.",
+      "Recuse a prestação de informações e relatórios aos órgãos de controle e à ANPD.",
+      "Transfira a guarda dos registros cadastrais de discentes para servidores terceirizados sem vínculo funcional."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Art. 6º, X, da LGPD define a responsabilização e prestação de contas como a demonstração, pelo agente de tratamento, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Conforme o Art. 7º da Lei de Acesso à Informação (Lei nº 12.527/2011), o acesso à informação pública compreende diversos direitos assegurados ao cidadão. Dentre as previsões expressas no texto legal, inclui-se o direito de obter:",
+    "options": [
+      "Informações sobre as contas particulares e extratos de cartões de crédito dos familiares do servidor público.",
+      "Informação relativa à administração do patrimônio público, utilização de recursos públicos, licitação, contratos administrativos e relatórios de auditoria do órgão.",
+      "Dados resguardados pelo sigilo profissional de pacientes internados em regime particular sem decisão judicial.",
+      "Senhas biométricas de servidores municipais para acesso a sistemas fazendários restritos.",
+      "Registros cadastrais de terceiros sem qualquer vínculo ou interesse público associado."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 7º, VII, da Lei de Acesso à Informação (Lei nº 12.527/2011) assegura o direito de obter informações relativas à gestão do patrimônio público, recursos públicos, licitações, contratos e auditorias."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na elaboração de uma comunicação oficial expedida pela secretaria de uma escola municipal, de acordo com o Manual de Redação da Presidência da República (3ª Edição, 2018), a estrutura correta do endereçamento (localizado ao final da primeira página ou no rodapé do documento) compreende:",
+    "options": [
+      "Apenas o primeiro nome da autoridade grafado em letras cursivas e decorativas.",
+      "O vocativo adequado à autoridade, o nome completo da autoridade destinatária, o cargo que ela ocupa e o endereço do órgão receptor.",
+      "Fotografia oficial do prédio da escola emissora e o número de telefone particular do signatário.",
+      "Uma saudação poética de agradecimento seguida de certidão de quitação tributária.",
+      "O número da conta bancária da unidade escolar para recolhimento de doações."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conforme o Manual de Redação da Presidência da República (3ª ed.), o endereçamento no padrão ofício contém o vocativo, o nome do destinatário, o cargo ocupado e seu endereço/órgão."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No manuseio de arquivos digitais na rotina administrativa informatizada da secretaria escolar, a realização do comando 'Copiar' (Ctrl + C) seguido do comando 'Colar' (Ctrl + V) em um arquivo de relatório escolar tem como resultado técnico:",
+    "options": [
+      "Exclusão definitiva do arquivo original e seu envio compulsório para a lixeira do computador.",
+      "Criação de uma duplicata exata do arquivo no destino selecionado, mantendo-se o arquivo original inalterado em sua pasta de origem.",
+      "Criptografia permanente dos caracteres do arquivo sem possibilidade de recuperação posterior.",
+      "Redução de 90% da resolução visual das fontes tipográficas do documento original.",
+      "Reinicialização imediata do sistema operacional do computador institucional."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O atalho Ctrl+C (copiar) acompanhado do Ctrl+V (colar) duplica o arquivo selecionado na pasta de destino, conservando o original em sua localização de origem."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O parágrafo único do Art. 53 do Estatuto da Criança e do Adolescente (Lei nº 8.069/1990) estabelece uma importante diretriz democrática da relação entre a família e a escola. Esse dispositivo consagra formalmente que:",
+    "options": [
+      "Os pais ou responsável têm a obrigação de financiar pessoalmente o mobiliário das salas de aula.",
+      "É direito dos pais ou responsáveis ter ciência do processo pedagógico, bem como participar da definição das propostas educacionais.",
+      "Cabe aos familiares a escolha dos componentes curriculares a serem eliminados da Base Nacional Comum.",
+      "Os pais podem substituir docentes ausentes sem a exigência de formação em nível superior.",
+      "Família tem a prerrogativa de exigir a exclusão imediata do diário de classe das anotações de infrequência."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Art. 53, parágrafo único, do ECA: É direito dos pais ou responsáveis ter ciência do processo pedagógico, bem como participar da definição das propostas educacionais."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "De acordo com o Art. 37 da Lei nº 9.394/1996 (LDB), a Educação de Jovens e Adultos (EJA) será destinada àqueles que não tiveram acesso ou continuidade de estudos nos ensinos fundamental e médio na idade própria. O § 1º desse artigo preconiza que os sistemas de ensino assegurarão gratuitamente aos jovens e aos adultos abrangidos por essa modalidade:",
+    "options": [
+      "Exames admissionais eliminatórios de aptidão física para ingresso na pré-escola.",
+      "Oportunidades educacionais apropriadas, consideradas as características do alunado, seus interesses, condições de vida e de trabalho, mediante cursos e exames.",
+      "Aulas ministradas exclusivamente no período matutino com frequência obrigatória em regime de internato.",
+      "Diplomas sem valor probatório fora dos limites do território municipal.",
+      "Cobrança subsidiada de taxas de material de expediente nos semestres de conclusão."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Art. 37, § 1º, da LDB prevê expressamente a oferta gratuita de oportunidades educacionais apropriadas aos jovens e adultos, considerando suas características, interesses e condições de vida e trabalho."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na Seção Única do Título VIII da Lei Orgânica do Município de Aparecida de Goiânia-GO, a apuração de infrações disciplinares cometidas por servidores municipais pauta-se pelo princípio constitucional da legalidade. Para a aplicação de penalidade grave a um servidor efetivo (como demissão ou suspensão superior), é indispensável:",
+    "options": [
+      "Aplicação sumária da sanção sem direito a recurso ou defesa para assegurar a rapidez do serviço público.",
+      "Prévia instauração de processo administrativo disciplinar (PAD) em que sejam assegurados o contraditório e a ampla defesa.",
+      "Deliberação informal e anônima de votação entre os colegas do mesmo setor funcional.",
+      "Aprovação unânime do conselho de classe de todas as escolas do bairro.",
+      "Celebração de contrato de renúncia de direitos assinado pelo servidor no ato da posse."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Penalidades disciplinares graves aplicadas a servidores públicos exigem obrigatoriamente a instauração de Processo Administrativo Disciplinar (PAD), com a plena garantia do contraditório e da ampla defesa (Art. 5º, LV, da CF/88)."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "No suporte técnico e administrativo à realização de reuniões pedagógicas e conselhos de classe, o auxiliar de secretaria deve preparar com antecedência o dossiê da turma. Esse conjunto de expedientes subsidia a análise coletiva dos professores e compõe-se prioritariamente de:",
+    "options": [
+      "Boletins e fichas de rendimento, diários de classe com registros de frequência, relatórios de recuperação paralela e histórico das ocorrências pedagógicas do período.",
+      "Comprovantes de pagamento de impostos territoriais urbanos entregues pelos moradores da região.",
+      "Relação de processos judiciais de trânsito dos motoristas do transporte escolar.",
+      "Recibos de compra de combustíveis para viaturas da administração municipal.",
+      "Relatórios contábeis de fundos privados de investimento do sistema financeiro nacional."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O dossiê da turma para conselho de classe é composto de dados acadêmicos e pedagógicos dos alunos: boletins, diários de classe, fichas de rendimento, controle de frequência e registros de ocorrências."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Em arquivologia, o princípio que postula que os documentos se acumulam de forma contínua, progressiva e natural nas administrações, em decorrência direta do exercício regular de suas funções e atividades rotineiras, denomina-se:",
+    "options": [
+      "Princípio da Pertinência Temática Absoluta.",
+      "Princípio da Cumulatividade (ou Naturalidade).",
+      "Princípio da Territorialidade Internacional.",
+      "Princípio da Alienabilidade Documental.",
+      "Princípio da Fragmentação Funcional."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O Princípio da Cumulatividade (ou Naturalidade) define que os arquivos resultam do acúmulo natural e contínuo de documentos produzidos e recebidos no decorrer das atividades da instituição."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Segundo o Manual de Redação da Presidência da República e as boas práticas de redação técnica nos serviços públicos municipais, a propriedade textual pela qual os parágrafos e ideias de um ofício ligam-se logicamente por meio de conectivos adequados, garantindo a harmonia e o fluxo das ideias, é denominada:",
+    "options": [
+      "Coesão textual.",
+      "Subjetividade estilística.",
+      "Ambiguidade proposital.",
+      "Prolixidade ornamental.",
+      "Fragmentação semântica."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coesão textual é a ligação sequencial e lógica entre as frases e parágrafos de um texto obtida pelo emprego correto de conectivos e articuladores sintáticos."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "Na rotina de informática da secretaria escolar, ao exportar dados tabulares do Censo Escolar ou cadastros de alunos para intercâmbio rápido entre diferentes sistemas informatizados, utiliza-se com frequência arquivos com a extensão .CSV. Tecnicamente, essa extensão identifica arquivos de:",
+    "options": [
+      "Vídeo digital de alta definição sem áudio sincronizado.",
+      "Texto puro com dados tabulares estruturados, onde os valores são comumente delimitados ou separados por vírgulas ou ponto e vírgulas.",
+      "Apresentações de slides multimídia com animações vetoriais incorporadas.",
+      "Imagens gráficas com transparência em camadas bitmap.",
+      "Instalação de programas executáveis de sistema de segurança operacional."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O formato .CSV (Comma-Separated Values) é um arquivo de texto simples usado para representar dados estruturados em colunas e linhas delimitados por vírgula ou ponto e vírgula."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "A Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD), em seu Art. 12, dispõe sobre o tratamento de dados anonimizados. Conforme a regra geral prevista no referido artigo, os dados anonimizados:",
+    "options": [
+      "São considerados dados pessoais sensíveis em qualquer hipótese e sujeitos a registro em cartório.",
+      "Não serão considerados dados pessoais para os fins da LGPD, salvo quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido.",
+      "Devem ser incinerados obrigatoriamente no prazo máximo de vinte e quatro horas após a coleta.",
+      "Podem ser vendidos a agências publicitárias sem qualquer limite técnico de segurança.",
+      "Não podem ser utilizados em pesquisas estatísticas do Ministério da Educação."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Art. 12 da LGPD: Os dados anonimizados não serão considerados dados pessoais para os fins desta Lei, salvo quando o processo de anonimização a que foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 6º da Lei nº 9.394/1996 (LDB) estipula a responsabilidade dos responsáveis perante a vida acadêmica das crianças. Em consonância com a Emenda Constitucional nº 59/2009, o texto legal estabelece o dever dos pais ou responsáveis de matricular as crianças na educação básica a partir dos:",
+    "options": [
+      "2 (dois) anos de idade.",
+      "3 (três) anos de idade.",
+      "4 (quatro) anos de idade.",
+      "6 (seis) anos de idade.",
+      "7 (sete) anos de idade."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O Art. 6º da LDB (redação dada pela Lei nº 12.796/2013 em adequação à EC 59/2009) determina ser dever dos pais ou responsáveis matricular as crianças na educação básica a partir dos 4 (quatro) anos de idade."
+  },
+  {
+    "materia": "Conhecimentos Específicos",
+    "peso": 4,
+    "text": "O Art. 206, inciso IV, da Constituição Federal de 1988 consagra como princípio basilar o ensino gratuito em estabelecimentos oficiais. No contexto prático da secretaria de uma escola pública municipal, a observância desse mandamento veda:",
+    "options": [
+      "Cobrança de quaisquer taxas de matrícula, taxas de inscrição, taxas de expediente para expedição de históricos ou mensalidades dos alunos e suas famílias.",
+      "O fornecimento gratuito de material pedagógico e merenda escolar a discentes cadastrados no CadÚnico.",
+      "Promoção de reuniões pedagógicas com a comunidade aos sábados letivos.",
+      "Realização de conselhos de classe participativos com a presença de servidores de carreira.",
+      "O acolhimento de declarações de vacinação atualizadas no ato da matrícula regular."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A garantia da gratuidade do ensino em estabelecimentos oficiais proíbe a cobrança de quaisquer taxas de matrícula, emolumentos ou taxas de expediente por documentos escolares (Súmula Vinculante 12 do STF)."
+  }
+]

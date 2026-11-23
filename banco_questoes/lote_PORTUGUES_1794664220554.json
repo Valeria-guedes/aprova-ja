@@ -1,0 +1,30 @@
+[
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em conformidade com o Acordo Ortográfico vigente da língua portuguesa, assinale a opção em que TODAS as palavras prescindem (não necessitam) de acento gráfico.",
+    "options": [
+      "Heroico, plateia, ideia, paranoia.",
+      "Trofeu, chapeu, coroneis, heroi.",
+      "Saude, saida, bau, cafeina.",
+      "Lampada, medico, sintese, tecnico.",
+      "Relatorio, colegio, secretária, orfão."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Com o Acordo Ortográfico vigente, as palavras paroxítonas que possuem ditongos abertos 'ei' e 'oi' (como heroico, plateia, ideia e paranoia) perderam o acento gráfico. Portanto, todas prescindem de acento."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que preenche correta e respectivamente as lacunas do período: 'A equipe não compreendeu o _____ de tanta lentidão; os pais reclamavam _____ estavam cansados, sem saber _____ as certidões não ficavam prontas nem estavam aguardando por _____.'",
+    "options": [
+      "Porquê – porque – por que – por quê",
+      "Por que – porque – porquê – por quê",
+      "Porquê – por que – por que – porque",
+      "Por quê – porque – por que – porquê",
+      "Porquê – porquê – porque – por quê"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1ª lacuna: 'porquê' (substantivo acompanhado do artigo 'o'). 2ª lacuna: 'porque' (conjunção explicativa/causal). 3ª lacuna: 'por que' (equivale a 'por qual razão' em interrogativa indireta). 4ª lacuna: 'por quê' (utilizado em final de frase)."
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No cotidiano de uma secretaria escolar, a correspondência oficial é essencial para a rotina de trabalho. Sobre a distinção funcional entre 'Ofício' e 'Memorando', segundo as práticas da redação oficial e das tipologias textuais, assinale a alternativa correta.",
+    "options": [
+      "O ofício é destinado à comunicação estritamente interna entre setores de um mesmo órgão público, enquanto o memorando é remetido exclusivamente a autoridades externas.",
+      "O ofício é utilizado prioritariamente para comunicações externas ou entre órgãos distintos, ao passo que o memorando se destina fundamentalmente à comunicação interna entre unidades administrativas do mesmo órgão.",
+      "O memorando possui caráter exclusivamente normativo e vinculante, revogando portarias anteriores, enquanto o ofício tem natureza meramente recreativa.",
+      "Ambos são expedientes orais utilizados para convocar reuniões de pais e mestres sem necessidade de registro formal.",
+      "O ofício dispensa o uso do padrão culto da língua, admitindo marcas de oralidade coloquial pelo fato de ser encaminhado a pais de estudantes."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O ofício é a modalidade de comunicação expedida para órgãos ou autoridades externas, enquanto o memorando é a correspondência interna entre setores de um mesmo órgão."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere o seguinte comunicado: 'Informamos a toda a comunidade escolar que o período de rematrícula foi prorrogado. Evidenciamos que não haverá novo prazo após esta data.' A partir da leitura e dos mecanismos de inferência do texto, deduz-se corretamente que:",
+    "options": [
+      "As rematrículas estavam originalmente encerradas e agora contam com um prazo limite estritamente improrrogável.",
+      "A escola cancelou todas as matrículas realizadas anteriormente devido a erros operacionais da secretaria.",
+      "Os alunos que não se rematricularem serão compulsoriamente transferidos para o período noturno.",
+      "O prazo já havia sido prorrogado mais de cinco vezes no mesmo semestre letivo.",
+      "As aulas começarão antes do término do período de prorrogação das matrículas."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O termo 'prorrogado' indica que o prazo inicial havia se esgotado ou chegado ao fim, e o trecho 'não haverá novo prazo após esta data' estabelece que este novo limite é improrrogável."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em um registro escrito de ata escolar, o servidor redige: 'Nós fumo lá na sala do diretor e falemo tudo.' A adequação linguística desse enunciado em relação ao gênero textual e à situação de comunicação evidencia:",
+    "options": [
+      "Adequação plena, pois a variação regional deve predominar em todos os documentos oficiais sem qualquer restrição.",
+      "Inadequação estilística e de registro, uma vez que documentos oficiais formais exigem o uso da norma-padrão da língua escrita.",
+      "Uma variação temporal arcaica, típica dos textos do século XIX produzidos na região Centro-Oeste.",
+      "Cumprimento estrito da norma-padrão culta, com concordâncias perfeitamente ajustadas à gramática normativa.",
+      "Um exemplo de texto injuntivo voltado a instruir o leitor sobre processos operacionais escolares."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Atas escolares são documentos oficiais formais que exigem o emprego da norma-padrão da língua escrita, sendo o uso de marcas de oralidade coloquial inapropriado para esse gênero."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere a oração: 'A secretaria escolar solicitou mais braços para organizar o arquivo morto.' O recurso de produção de sentido empregado na palavra 'braços' é a:",
+    "options": [
+      "Metonímia, consistente na tomada da parte pelo todo (trabalhadores/ajudantes).",
+      "Onomatopeia, caracterizada pela reprodução fônica de um ruído do ambiente de trabalho.",
+      "Hipérbole, marcada pelo exagero irreal sobre a quantidade de tarefas pendentes.",
+      "Antítese, fundada na contraposição de ideias semanticamente inconciliáveis.",
+      "Eufemismo, voltada a abrandar uma notícia de demissão coletiva de servidores."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A palavra 'braços' é usada metonimicamente para designar os 'trabalhadores' ou 'ajudantes' (tomando a parte pelo todo)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em um cartaz afixado na porta da secretaria lê-se: 'Favor não interromper o silêncio com conversas sobre o trabalho alheio; para isso, já temos o mural de avisos.' O efeito de sentido predominante pretendido pela mensagem fundamenta-se na:",
+    "options": [
+      "Ironia, ao simular que o mural serve para disseminar fofocas ou assuntos paralelos, criticando sutilmente condutas indesejadas.",
+      "Ambiguidade sintática decorrente da má colocação do pronome relativo 'que'.",
+      "Citação direta de um documento legal municipal de Aparecida de Goiânia.",
+      "Comparação explícita com o comportamento de animais em ambientes barulhentos.",
+      "Prosopopeia, atribuindo sentimentos humanos à porta e ao mural da secretaria."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A mensagem faz uso da ironia ao afirmar sarcasticamente que o mural serve para conversas alheias/fofocas, reprimindo sutilmente o comportamento inadequado no ambiente de trabalho."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que o elemento destacado atua como mecanismo de coesão catafórica.",
+    "options": [
+      "Os alunos foram aprovados; ELES se esforçaram bastante durante o ano letivo.",
+      "Todos desejavam ISTO: que as reformas do colégio fossem concluídas com rapidez.",
+      "O livro de registro de ocorrências foi encontrado onde o professor O havia deixado.",
+      "A secretária e o coordenador conversaram, mas ESTE não concordou com as novas diretrizes.",
+      "O expediente terminou às dezoito horas; NESSE momento, os servidores puderam sair."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A coesão catafórica ocorre quando um pronome se refere a algo que ainda será mencionado no texto. O pronome 'ISTO' antecipa a oração 'que as reformas do colégio fossem concluídas com rapidez'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Analise o conectivo destacado no período: 'O setor de atendimento ao aluno foi reestruturado; OUTROSSIM, o sistema informatizado de matrículas recebeu atualizações cruciais.' O valor semântico de 'outrossim' é de:",
+    "options": [
+      "Oposição ou contraste.",
+      "Adição ou continuidade de ideia.",
+      "Conclusão necessária.",
+      "Condição hipotética.",
+      "Tempo pretérito."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Outrossim' é uma conjunção/advérbio com sentido aditivo, equivalente a 'igualmente', 'também' ou 'além disso'."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Leia a argumentação: 'Segundo os dados do Censo Escolar divulgados pelo INEP em 2023, a evasão no ensino fundamental caiu 3,5% nos municípios goianos.' O tipo de argumento empregado pelo redator classifica-se como:",
+    "options": [
+      "Argumento baseado no senso comum, amparado em crenças populares sem fundamentação documental.",
+      "Argumento por evidência ou comprovação, respaldado em dados estatísticos e fontes oficiais de pesquisa.",
+      "Argumento ad hominem, que desqualifica a pessoa do debatedor para invalidar uma tese.",
+      "Argumento de analogia falaciosa, que compara eventos sem nenhuma relação lógica plausível.",
+      "Argumento por redução ao absurdo, que demonstra uma premissa levando-a a um extremo impraticável."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O uso de estatísticas e citações de fontes de pesquisa reconhecidas (INEP) caracteriza o argumento por evidência ou comprovação."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere as sequências textuais presentes em documentos e produções escolares. A sequência textual 'argumentativa' distingue-se da 'expositiva' primordialmente porque a argumentativa visa:",
+    "options": [
+      "Apresentar fatos e conceitos de forma estritamente neutra e enciclopédica, sem defender uma tomada de posição.",
+      "Relatar acontecimentos reais ou fictícios dispostos em uma linha cronológica com personagens e clímax.",
+      "Persuadir o interlocutor a respeito de uma tese por meio da apresentação fundamentada de razões e contra-argumentos.",
+      "Descrever minunciosamente os traços físicos de um objeto, cenário ou pessoa observada.",
+      "Impor ordens imperativas e instruções sequenciais de uso obrigatório pelo leitor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A finalidade precípua do texto argumentativo é convencer/persuadir o leitor a aceitar uma tese mediante razões e argumentos sustentados."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "O termo 'guarda-noturno', comum no organograma de vigilância patrimonial de escolas municipais, é formado pelo processo gramatical de:",
+    "options": [
+      "Composição por aglutinação, pois houve supressão fonética de elementos dos vocábulos originais.",
+      "Composição por justaposição, pois os vocábulos primitivos unem-se sem sofrer alteração fonética em suas estruturas.",
+      "Derivação parassintética, pela junção concomitante de afixos a um radical verbal.",
+      "Derivação imprópria, pela alteração da classe gramatical sem mudança de forma.",
+      "Hibridismo, por juntar radicais de línguas clássicas distintas como grego e tupi."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Guarda-noturno' é uma composição por justaposição, pois as palavras se juntam mantendo sua integridade fonética e ortográfica primitiva."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa que apresenta um substantivo formado por derivação regressiva (deverbal).",
+    "options": [
+      "Deslealdade (de leal).",
+      "Infelizmente (de feliz).",
+      "Debate (de debater).",
+      "Escolarização (de escolar).",
+      "Pré-matrícula (de matrícula)."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O substantivo 'debate' origina-se do verbo 'debater' por derivação regressiva (deverbal)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na frase 'O NÃO dos pais à transferência causou surpresa na direção', a palavra 'NÃO' sofreu o processo morfológico de:",
+    "options": [
+      "Derivação regressiva.",
+      "Derivação imprópria ou conversão, passando de advérbio para substantivo.",
+      "Derivação prefixal simples.",
+      "Composição por aglutinação com o artigo.",
+      "Onomatopeia com valor adjetivo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ao ser antecedido pelo artigo 'O', o advérbio 'não' passa a atuar como um substantivo, caracterizando a derivação imprópria (conversão)."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em relação ao uso normativo dos pronomes demonstrativos para situar elementos no espaço e no tempo, assinale a frase gramaticalmente correta.",
+    "options": [
+      "Esta caneta aqui na minha mão pertence ao departamento de compras.",
+      "Essa pasta aqui onde estou sentado precisa ser arquivada agora.",
+      "Aquele ano de 2026 em que estamos vivendo trouxe muitos desafios aos servidores.",
+      "Isto que você está segurando aí na sua mesa deve ser encaminhado ao diretor.",
+      "Esse documento em minhas mãos acaba de ser carimbado pelo secretário."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O pronome demonstrativo 'esta' é o adequado para fazer referência a um objeto próximo ao emissor/falante ('na minha mão')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Analise a oração: 'Precisa-se de auxiliares de secretaria com urgência.' De acordo com a sintaxe de termos da oração, o sujeito classifica-se como:",
+    "options": [
+      "Oculto ou elíptico.",
+      "Simples, representado por 'auxiliares de secretaria'.",
+      "Composto, com dois núcleos explícitos.",
+      "Indeterminado, marcado pelo verbo transitivo indireto acompanhado do pronome 'se' como índice de indeterminação do sujeito.",
+      "Inexistente (oração sem sujeito)."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Verbo transitivo indireto ('precisar de') acompanhado da partícula 'se' resulta em uma oração com sujeito indeterminado e pronome 'se' atuando como índice de indeterminação do sujeito."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na frase 'A construção da nova quadra escolar animou a comunidade', a expressão 'da nova quadra escolar' desempenha a função sintática de:",
+    "options": [
+      "Adjunto adnominal, pois possui sentido ativo em relação ao substantivo abstrato.",
+      "Complemento nominal, pois é termo preposicionado com valor passivo ligado ao substantivo abstrato de ação 'construção'.",
+      "Objeto indireto do verbo 'animou'.",
+      "Agente da passiva em oração reduzida de particípio.",
+      "Aposto especificativo referente ao sujeito 'A comunidade'."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O termo preposicionado 'da nova quadra escolar' sofre a ação descrita pelo substantivo de ação 'construção' (a quadra é construída = valor passivo), sendo classificado como complemento nominal."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que ocorre um objeto direto preposicionado, de acordo com a sintaxe normativa.",
+    "options": [
+      "O professor necessitava de livros didáticos atualizados.",
+      "Todos os alunos obedeceram ao diretor da instituição.",
+      "O auxiliar de secretaria amava a Deus sobre todas as coisas.",
+      "A documentação pertencia à família do estudante recém-chegado.",
+      "O documento foi entregue pelo responsável financeiro."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O verbo 'amar' é transitivo direto; na frase 'amava a Deus', a preposição 'a' é empregada diante do nome próprio 'Deus' por motivos de reverência, configurando objeto direto preposicionado."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "No período composto 'É fundamental QUE TODOS OS DOCUMENTOS SEJAM CONFERIDOS NO ATO DA MATRÍCULA', a oração subordinada em destaque classifica-se como:",
+    "options": [
+      "Subordinada Substantiva Objetiva Direta.",
+      "Subordinada Substantiva Subjetiva.",
+      "Subordinada Substantiva Completiva Nominal.",
+      "Subordinada Substantiva Apositiva.",
+      "Subordinada Adjetiva Explicativa."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A oração destacada desempenha a função de sujeito do verbo 'É' da oração principal ('Que todos os documentos sejam conferidos no ato da matrícula é fundamental')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em 'EMBORA O SISTEMA APRESENTASSE INSTABILIDADE, os atendimentos da secretaria prosseguiram normalmente', a oração destacada expressa ideia de:",
+    "options": [
+      "Concessão, indicando uma ideia de quebra de expectativa ou oposição que não anula a ação principal.",
+      "Condição indispensável para que o atendimento fosse iniciado.",
+      "Proporção simultânea entre a lentidão do sistema e os atendimentos.",
+      "Conformidade estrita com o manual de procedimento das escolas.",
+      "Finalidade pretendida pela equipe técnica de tecnologia da informação."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A conjunção 'embora' introduz oração subordinada adverbial concessiva, que expressa fato contrário à oração principal sem todavia impedi-la."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a frase em que o emprego das locuções 'à medida que' ou 'na medida em que' atende rigorosamente à norma-padrão de regência e semântica.",
+    "options": [
+      "À medida em que o tempo passava, mais pais chegavam para retirar boletins escolares.",
+      "Os alunos foram saindo da sala na medida que a sineta tocou pela manhã.",
+      "O orçamento da escola foi reduzido na medida em que a arrecadação municipal caiu.",
+      "À medida que os tributos diminuíram, uma vez que o decreto obrigava os contribuintes.",
+      "Na medida que estudávamos mais, melhores eram as notas dos educandos nas avaliações."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A locução 'na medida em que' tem sentido causal ('visto que', 'já que') e está empregada e grafada corretamente. As variações 'à medida em que' e 'na medida que' são inadequadas segundo a norma-padrão."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere a frase: 'Emitiram-se duas vias do histórico escolar do aluno.' A concordância verbal justifica-se porque:",
+    "options": [
+      "O verbo concorda com o sujeito indeterminado na terceira pessoa do plural.",
+      "A partícula 'se' é pronome apassivador e o termo 'duas vias do histórico escolar' exerce o papel de sujeito paciente plural.",
+      "O pronome 'se' funciona como objeto direto reflexivo do verbo emitir.",
+      "Trata-se de uma exceção gramatical em que o verbo deve obrigatoriamente ir ao plural sem sujeito definido.",
+      "O termo 'duas vias' funciona como objeto indireto preposicionado oculto."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Na voz passiva sintética, o pronome 'se' atua como partícula apassivadora e o elemento 'duas vias do histórico escolar' é o sujeito paciente plural com o qual o verbo deve concordar."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que a concordância verbal com sujeito composto POSPOSTO está em DESACORDO com a norma-padrão da língua portuguesa.",
+    "options": [
+      "Chegaram à secretaria o diretor e os professores.",
+      "Chegou à secretaria o diretor e os professores.",
+      "Entrou na sala os novos coordenadores e o secretário.",
+      "Faltaram à cerimônia a diretora e a secretária.",
+      "Faltou à cerimônia a diretora e a secretária."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Quando o sujeito composto está posposto, o verbo pode concordar no plural com todos os elementos ou no singular com o primeiro núcleo. Na opção C, o primeiro núcleo posposto é plural ('os novos coordenadores'), exigindo obrigatoriamente o verbo no plural ('Entraram')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "De acordo com a concordância nominal para as expressões 'é necessário', 'é bom' e 'é proibido', assinale a frase que se encontra gramaticalmente CORRETA.",
+    "options": [
+      "É proibido a presença de pessoas não autorizadas na sala dos arquivos escolares.",
+      "É necessário paciência durante o atendimento aos usuários na secretaria municipal.",
+      "É necessária calma para organizar a documentação de todos os estudantes sem exceção.",
+      "É permitido a conferência dos cadernos pelos pais no intervalo das reuniões pedagógicas.",
+      "Para agilizar a rematrícula, apresentação de certidão de nascimento é obrigatória."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sem artigo ou determinante acompanhando o substantivo ('paciência'), a expressão permanece invariável no masculino ('É necessário paciência')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "A regência verbal estuda a relação de subordinação entre o verbo e seus complementos. Assinale a alternativa que obedece estritamente às normas gramaticais de regência.",
+    "options": [
+      "O secretário preferiu adiar a reunião do que realizá-la sem os relatórios completos.",
+      "As falhas no preenchimento do formulário implicaram no atraso de todo o processo de matrícula.",
+      "O funcionário visou o diploma antes de carimbar e despachar os autos.",
+      "Os servidores municipais custaram para entender as diretrizes da nova circular.",
+      "Lembrou-se o fato ocorrido durante o último conselho escolar de classe."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O verbo 'visar' no sentido de 'apor visto/carimbar' é transitivo direto ('visou o diploma')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em relação ao uso da pontuação, assinale a opção que justifica de forma adequada a AUSÊNCIA de vírgula no período: 'Os alunos que perderam o prazo de matrícula não poderão participar da aula inaugural.'",
+    "options": [
+      "A ausência de vírgulas decorre de a oração sublinhada ser uma subordinada adjetiva restritiva, limitando o sentido apenas à parcela dos alunos que perdeu o prazo.",
+      "Deveria haver vírgulas obrigatórias entre sujeito e predicado, isolando o termo 'prazo de matrícula'.",
+      "A vírgula foi omitida por erro, pois todas as orações adjetivas da língua portuguesa devem ser antecedidas de vírgula.",
+      "A oração é subordinada adjetiva explicativa, dispensando vírgulas por mera opção poética do redator.",
+      "Trata-se de uma oração coordenada sindética adversativa que proíbe o emprego de pontuação interna."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Orações subordinadas adjetivas restritivas delimitam o sentido do antecedente e não são separadas por vírgulas."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Assinale a alternativa em que a concordância e a acentuação gráfica dos verbos sublinhados atendem plenamente à norma-padrão.",
+    "options": [
+      "O auxiliar de secretaria contêm todas as planilhas financeiras atualizadas no computador.",
+      "Os documentos que intervem no processo escolar vêm arquivados em caixas próprias.",
+      "O coordenador mantém a ordem na sala, enquanto os secretários mantêm os arquivos digitais em dia.",
+      "As diretrizes municipais provém de decisões colegiadas tomadas em audiências públicas.",
+      "Os novos servidores retém os comprovantes emitidos pelo sistema da prefeitura."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Verbos derivados de 'ter' e 'vir' recebem acento agudo na 3ª pessoa do singular ('mantém') e acento circunflexo na 3ª pessoa do plural ('mantêm')."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Em uma secretaria escolar, a comunicação interna entre setores é realizada com frequência por meio de comunicados e avisos. Assinale a alternativa que apresenta a correta caracterização do gênero textual 'Circular'.",
+    "options": [
+      "Trata-se de um texto narrativo longo, assinado individualmente por cada aluno da instituição para relatar fatos cotidianos.",
+      "É uma correspondência oficial de caráter multidirecional, emitida por uma autoridade para transmitir determinações, instruções ou esclarecimentos a vários destinatários simultaneamente.",
+      "Consiste em um documento contábil emitido exclusivamente para formalizar a prestação de contas de verbas federais.",
+      "É um texto estritamente injuntivo de circulação restrita entre advogados com a finalidade de impetrar recursos jurídicos.",
+      "Caracteriza-se por ser uma carta pessoal redigida em linguagem informal, enviada pela secretaria a um único professor."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A circular é um expediente oficial de caráter coletivo, enviado uniformemente a diversos destinatários para divulgar normas, instruções ou avisos."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Considere o seguinte trecho: 'A tecnologia na gestão escolar não substitui o olhar humano do servidor, mas otimiza o tempo dedicado ao acolhimento das famílias.' Com base na compreensão e nos mecanismos de inferência do texto, depreende-se que:",
+    "options": [
+      "O atendimento humanizado aos responsáveis torna-se desnecessário com a implantação de softwares de secretaria.",
+      "As ferramentas tecnológicas devem ser vistas como meios de apoio para agilizar processos burocráticos, favorecendo a interação interpessoal.",
+      "A automatização das rotinas administrativas eliminou por completo a necessidade de atendimento presencial na escola.",
+      "O tempo gasto com acolhimento das famílias diminui a produtividade global da equipe de apoio escolar.",
+      "A gestão escolar depende exclusivamente de recursos humanos, sendo os recursos digitais prejudiciais à rotina."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O texto sugere que a tecnologia agiliza o tempo de tarefas operacionais para liberar mais atenção e tempo para o relacionamento e acolhimento humano."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "A substituição progressiva do termo 'vossa mercê' por 'vosmecê', 'você' e a forma coloquial 'cê' exemplifica qual dimensão da variação linguística?",
+    "options": [
+      "Variação diatópica ou geográfica, relacionada à diferença de regiões geográficas dentro do território nacional.",
+      "Variação diacrônica ou histórica, decorrente das transformações ocorridas na língua ao longo do tempo.",
+      "Variação diastrática ou sociocultural, associada aos diferentes níveis de escolaridade e grupos sociais.",
+      "Variação diafásica ou estilística, determinada unicamente pelo grau de formalidade da situação de fala.",
+      "Variação diamésica, decorrente da simples escolha entre o suporte do papel e o suporte digital."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A variação diacrônica (histórica) refere-se às transformações pelas quais a língua passa através do tempo."
+  },
+  {
+    "materia": "PORTUGUES",
+    "peso": 4,
+    "text": "Na oração 'Mesmo após o aviso afixado no mural, alguns responsáveis continuaram a trazer as certidões sem autenticação', a locução 'continuaram a trazer' veicula um mecanismo semântico de:",
+    "options": [
+      "Polissemia, pois o verbo trazer adquire significado figurado de afeto.",
+      "Pressuposição, indicando como fato prévio consolidado que tais responsáveis já traziam as certidões sem autenticação antes do aviso.",
+      "Ironia, com a intenção deliberada de zombar da falta de atenção dos responsáveis.",
+      "Metonímia, substituindo o documento pelo órgão cartorário expedidor.",
+      "Antítese poética, contrastando o mural físico com o meio digital da escola."
+    ],
+    "correctAnswer": 1,
+    "explanation": "O aspecto verbal continuativo ('continuaram a trazer') estabelece como informação antecedente/pressuposta que a conduta de levar documentos sem autenticação já ocorria anteriormente."
+  }
+]
